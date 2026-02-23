@@ -1,5 +1,4 @@
 ## 🚀 A Comprehensive Survey on 3D Deep Learning Point Cloud
-[![arXiv](https://img.shields.io/badge/arXiv-2503.12067-<COLOR>.svg)](https://arxiv.org/abs/2503.12067)
 
 This repository belongs to the paper: [A Comprehensive Survey on 3D Deep Learning Point Cloud].
 
