@@ -1,12 +1,12 @@
 # Scene Understanding
 
-* [3D Captioning](#3D Captioning)
+* [3D Captioning](#3D-Captioning)
 
-* [3D Grounding](#3D Grounding)
+* [3D Grounding](#3D-Grounding)
 
-* [3D Question Answering](#3D Question Answering)
+* [3D Question Answering](#3D-Question-Answering)
 
-* [3D Reasoning](#3D Reasoning)
+* [3D Reasoning](#3D-Reasoning)
  
   
 ---
