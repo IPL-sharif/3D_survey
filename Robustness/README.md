@@ -1,14 +1,14 @@
 # Robustness
 
-* [3D ML Pipeline Security Threats](#3d-sec)
+* [3D ML Pipeline Security Threats](#3D ML Pipeline Security Threats)
 
-* [3D Robustness to Noise and Occlusion](#3d_rob)
+* [3D Robustness to Noise and Occlusion](#3D Robustness to Noise and Occlusion)
 
-* [3D Point Cloud Rotation Invariance and Equivariance](#3d_rot)
+* [3D Point Cloud Rotation Invariance and Equivariance](#3D Point Cloud Rotation Invariance and Equivariance)
 
-* [3D Domain Adaptation](#3d_domain)
+* [3D Domain Adaptation](#3D Domain Adaptation)
 
-* [3D Anomaly Detection](#3d_ano)
+* [3D Anomaly Detection](#3D Anomaly Detection)
 
  
   

@@ -1,16 +1,16 @@
 # 3D Core Tasks
 
-* [Classification](#3d-clas)
+* [Classification](#Classification)
 
-* [Segmentation](#3d_seg)
+* [Segmentation](#Segmentation)
 
-* [Detection](#3d_det)
+* [Detection](#Detection)
 
-* [Tracking](#3d_track)
+* [Tracking](#Tracking)
 
-* [Compression](#3d_comp)
+* [Compression](#Compression)
 
-* [Registration and 6D Pose estimation](#3d_reg)
+* [Registration and 6D Pose estimation](#Registration and 6D Pose estimation)
 
 
  

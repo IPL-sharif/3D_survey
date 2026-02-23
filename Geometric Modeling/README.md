@@ -1,8 +1,8 @@
 # 3D Geometric Modeling
 
-* [Generation](#3d-gen)
+* [Generation](#Generation)
 
-* [Reconstruction](#3d_rec)
+* [Reconstruction](#Reconstruction)
 
 
 ---
