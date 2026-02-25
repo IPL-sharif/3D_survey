@@ -27,16 +27,16 @@
 
 * **Denoising-While-Completing Network (DWCNet): Robust point cloud completion under corruption**, Computers & Graphics 2025, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0097849325002420) [ :octocat: ](https://github.com/keneniwt/DWCNET-Robust-Point-Cloud-Completion-against-Corruptions)
 
-* **ModelNet-O: A large-scale synthetic dataset for occlusion-aware point cloud classification**, CVIU 2024, [ :link: ](https://doi.org/10.1016/j.cviu.2024.104060)
+* **ModelNet-O: A large-scale synthetic dataset for occlusion-aware point cloud classification**, CVIU 2024, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S1077314224001413?via%3Dihub) [ :octocat: ](https://github.com/fanglaosi/ModelNet-O_PointMLS)
 
-* **Enhancing Robustness to Noise Corruption for Point Cloud Recognition via Spatial Sorting and Set-Mixing Aggregation Module**, ACCV 2024, [ :link: ](https://doi.org/10.1007/978-981-96-0960-4_26)
+* **Enhancing Robustness to Noise Corruption for Point Cloud Recognition via Spatial Sorting and Set-Mixing Aggregation Module**, ACCV 2024, [ :link: ](https://openaccess.thecvf.com/content/ACCV2024/html/Zhang_Enhancing_Robustness_to_Noise_Corruption_for_Point_Cloud_Recognition_via_ACCV_2024_paper.html)
 
-* **PointCVaR: Risk-optimized outlier removal for robust 3D point cloud classification**, AAAI 2024, [ :link: ](https://doi.org/10.1609/aaai.v38i19.30130)
+* **PointCVaR: Risk-optimized outlier removal for robust 3D point cloud classification**, AAAI 2024, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/30129)[ :octocat: ](https://github.com/shinke-li/pointcvar)
 
-* **Enhancing Sampling Protocol for Point Cloud Classification Against Corruptions**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2408.12062)
+* **Enhancing Sampling Protocol for Point Cloud Classification Against Corruptions**, 34th International Joint Conference on Artificial Intelligence 2025, [ :link: ](https://scholars.cityu.edu.hk/en/publications/enhancing-sampling-protocol-for-point-cloud-classification-agains/)
 
-* **PointDifformer: Robust point cloud registration with neural diffusion and transformer**, IEEE TGRS 2024, [ :link: ](https://doi.org/10.1109/TGRS.2024.3365804)
-
+* **PointDifformer: Robust point cloud registration with neural diffusion and transformer**, IEEE TGRS 2024, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10384401)
+#check
 * **ComPC: Completing a 3D Point Cloud with 2D Diffusion Priors**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2404.06814)
 
 * **Benchmarking robustness of 3D object detection to common corruptions**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Dong_Benchmarking_Robustness_of_3D_Object_Detection_to_Common_Corruptions_CVPR_2023_paper.html)
