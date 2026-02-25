@@ -21,9 +21,9 @@
 ## 3D Robustness to Noise and Occlusion
 
 
-* **UPP: Unified Point-Level Prompting for Robust Point Cloud Analysis**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/html/Ai_UPP_Unified_Point-Level_Prompting_for_Robust_Point_Cloud_Analysis_ICCV_2025_paper.html) [ :octocat: ](https://github.com/zhoujiahuan1991/ICCV2025-UPP.)
+* **UPP: Unified Point-Level Prompting for Robust Point Cloud Analysis**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/html/Ai_UPP_Unified_Point-Level_Prompting_for_Robust_Point_Cloud_Analysis_ICCV_2025_paper.html) [ :octocat: ](https://github.com/zhoujiahuan1991/ICCV2025-UPP)
 
-* **Occlusion-aware Text-Image-Point Cloud Pretraining for Open-World 3D Object Recognition**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/html/Nguyen_Occlusion-aware_Text-Image-Point_Cloud_Pretraining_for_Open-World_3D_Object_Recognition_CVPR_2025_paper.html)
+* **Occlusion-aware Text-Image-Point Cloud Pretraining for Open-World 3D Object Recognition**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/html/Nguyen_Occlusion-aware_Text-Image-Point_Cloud_Pretraining_for_Open-World_3D_Object_Recognition_CVPR_2025_paper.html) [ :octocat: ](https://ndkhanh360.github.io/project-occtip/)
 
 * **Denoising-While-Completing Network (DWCNet): Robust point cloud completion under corruption**, Computers & Graphics 2025, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0097849325002420) [ :octocat: ](https://github.com/keneniwt/DWCNET-Robust-Point-Cloud-Completion-against-Corruptions)
 
