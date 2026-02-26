@@ -6,13 +6,13 @@
 *  [Preliminaries](#preliminaries)
   *  [Evasion Attacks](#evasionAttacks)
 
-    *  [Optimization-based Attacks](#Optimization)
-    *  [Generative-based Attacks](#Generative)
-    *  [Transform-based Attacks](#Transform)
-    *  [Perturbation-based Attacks](#Perturbation)
-    *  [Heuristic Attacks](#Heuristic)
-    *  [Simulation-based Attacks](#Simulation)
-    *  [Physical System-based Attacks](#Physical)
+    Optimization-based Attacks
+    Generative-based Attacks
+    Transform-based Attacks
+    Perturbation-based Attacks
+    Heuristic Attacks
+    Simulation-based Attacks
+    Physical System-based Attacks
 
   *  [Evasion Defenses](#evasionDefenses)
 
