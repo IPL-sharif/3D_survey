@@ -59,8 +59,13 @@
 ## Detection
 
 ### Data Representation
-* **PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_PointRCNN_3D_Object_Proposal_Generation_and_Detection_From_Point_Cloud_CVPR_2019_paper.pdf?utm_source=chatgpt.com)  [ :octocat: ](https://github.com/sshaoshuai/PointRCNN)
-* **Deep Hough Voting for 3D Object Detection in Point Clouds**, ICCV 2019, [ :link: ](https://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_Deep_Hough_Voting_for_3D_Object_Detection_in_Point_Clouds_ICCV_2019_paper.pdf?utm_source=chatgpt.com), [ :octocat: ](https://github.com/facebookresearch/votenet)
+* **PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_PointRCNN_3D_Object_Proposal_Generation_and_Detection_From_Point_Cloud_CVPR_2019_paper.pdf)  [ :octocat: ](https://github.com/sshaoshuai/PointRCNN)
+* **Deep Hough Voting for 3D Object Detection in Point Clouds**, ICCV 2019, [ :link: ](https://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_Deep_Hough_Voting_for_3D_Object_Detection_in_Point_Clouds_ICCV_2019_paper.pdf) [ :octocat: ](https://github.com/facebookresearch/votenet)
+* **3DSSD: Point-based 3D Single Stage Object Detector**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_3DSSD_Point-Based_3D_Single_Stage_Object_Detector_CVPR_2020_paper.pdf) [ :octocat: ](https://github.com/JIA-Lab-research/3DSSD)
+* **3Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shi_Point-GNN_Graph_Neural_Network_for_3D_Object_Detection_in_a_CVPR_2020_paper.pdf) [ :octocat: ](https://github.com/WeijingShi/Point-GNN)
+**FASTer: Focal Token Acquiring-and-Scaling Transformer for Long-term 3D Object Detection**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/papers/Dang_FASTer_Focal_token_Acquiring-and-Scaling_Transformer_for_Long-term_3D_Objection_Detection_CVPR_2025_paper.pdf) [ :octocat: ](https://github.com/MSunDYY/FASTer)
+* **GeoFormer: Geometry Point Encoder for 3D Object Detection with Graph-based Transformer**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/papers/Jin_GeoFormer_Geometry_Point_Encoder_for_3D_Object_Detection_with_Graph-based_ICCV_2025_paper.pdf) [ :octocat: ]()
+* **Robust 3D Object Detection using Probabilistic Point Clouds from Single-Photon LiDARs**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/papers/Goyal_Robust_3D_Object_Detection_using_Probabilistic_Point_Clouds_from_Single-Photon_ICCV_2025_paper.pdf) [ :octocat: ](https://bhavyagoyal.github.io/ppc/)
 
 ### Detection Stage
 
