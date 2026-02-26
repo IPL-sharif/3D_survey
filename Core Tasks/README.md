@@ -59,6 +59,7 @@
 ## Detection
 
 ### Data Representation
+#### point-based
 * **PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_PointRCNN_3D_Object_Proposal_Generation_and_Detection_From_Point_Cloud_CVPR_2019_paper.pdf)  [ :octocat: ](https://github.com/sshaoshuai/PointRCNN)
 * **Deep Hough Voting for 3D Object Detection in Point Clouds**, ICCV 2019, [ :link: ](https://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_Deep_Hough_Voting_for_3D_Object_Detection_in_Point_Clouds_ICCV_2019_paper.pdf) [ :octocat: ](https://github.com/facebookresearch/votenet)
 * **3DSSD: Point-based 3D Single Stage Object Detector**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_3DSSD_Point-Based_3D_Single_Stage_Object_Detector_CVPR_2020_paper.pdf) [ :octocat: ](https://github.com/JIA-Lab-research/3DSSD)
@@ -70,7 +71,18 @@
 * **GeoFormer: Geometry Point Encoder for 3D Object Detection with Graph-based Transformer**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/papers/Jin_GeoFormer_Geometry_Point_Encoder_for_3D_Object_Detection_with_Graph-based_ICCV_2025_paper.pdf)
 * **Robust 3D Object Detection using Probabilistic Point Clouds from Single-Photon LiDARs**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/papers/Goyal_Robust_3D_Object_Detection_using_Probabilistic_Point_Clouds_from_Single-Photon_ICCV_2025_paper.pdf) [ :octocat: ](https://bhavyagoyal.github.io/ppc/)
 
+#### voxel-based
+
 * **VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection**, CVPR 2018, [ :link: ](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_VoxelNet_End-to-End_Learning_CVPR_2018_paper.pdf) [ :octocat: ](https://github.com/ModelBunker/VoxelNet-PyTorch)
+
+#### pillar-based
+
+#### projection-based
+
+#### hybrid
+
+
+
 
 ### Detection Stage
 
