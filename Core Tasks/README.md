@@ -57,7 +57,8 @@
 * **Sketchy Bounding-box Supervision for 3D Instance Segmentation**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/html/Deng_Sketchy_Bounding-box_Supervision_for_3D_Instance_Segmentation_CVPR_2025_paper.html) [ :octocat: ](https://github.com/dengq7/Sketchy-3DIS)
 
 ## Detection
-
+# Data Representation
+* **PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Shi_PointRCNN_3D_Object_Proposal_Generation_and_Detection_From_Point_Cloud_CVPR_2019_paper.pdf?utm_source=chatgpt.com)  [ :octocat: ](https://github.com/sshaoshuai/PointRCNN)
 
 ## Tracking
 
