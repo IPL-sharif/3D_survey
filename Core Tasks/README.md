@@ -98,11 +98,9 @@
 
 #### pillar-based
 * **PointPillars: Fast Encoders for Object Detection from Point Clouds**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.pdf) [ :octocat: ](https://github.com/nutonomy/second.pytorch) *(widely used impl.)*
-* **CenterPoint: Center-based 3D Object Detection and Tracking**, CVPR 2021, [ :link: ](https://openaccess.thecvf.com/content/CVPR2021/papers/Yin_Center-based_3D_Object_Detection_and_Tracking_CVPR_2021_paper.pdf) [ :octocat: ](https://github.com/tianweiy/CenterPoint)
 * **PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2205.07403) [ :octocat: ](https://github.com/VISION-SJTU/PillarNet)
 * **PillarNeXt: Rethinking Network Designs for 3D Object Detection in LiDAR Point Clouds**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Li_PillarNeXt_Rethinking_Network_Designs_for_3D_Object_Detection_in_LiDAR_Point_Clouds_CVPR_2023_paper.html) [ :octocat: ](https://github.com/qcraftai/pillarnext)
 * **PillarHist: A Quantization-aware Pillar Feature Encoder based on Height-aware Histogram**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/html/Zhou_PillarHist_A_Quantization-aware_Pillar_Feature_Encoder_based_on_Height-aware_Histogram_CVPR_2025_paper.html) [ :octocat: ](https://github.com/open-mmlab/mmdetection3d) *(no official repo found)*
-* **RaCFormer: Towards High-Quality 3D Object Detection via Query-based Radar-Camera Fusion**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/papers/Chu_RaCFormer_Towards_High-Quality_3D_Object_Detection_via_Query-based_Radar-Camera_Fusion_CVPR_2025_paper.pdf) [ :octocat: ](https://github.com/chiguoer/rac_rwhi_ggf)
 * **3DPillars: Pillar-based Two-stage 3D Object Detection**, ESWA 2025, [ :link: ](https://arxiv.org/abs/2509.05780) [ :octocat: ](https://github.com/open-mmlab/mmdetection3d) *(no official repo found)*
 
 #### projection-based (BEV / range-view)
