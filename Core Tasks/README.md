@@ -63,6 +63,112 @@
 
 
 ## Compression
+* **msLPCC: A multimodal-driven scalable framework for deep LiDAR point cloud compression**, AAAI 2024, [ :link: ]( https://ojs.aaai.org/index.php/AAAI/article/view/28362)
 
+
+* **Pointsoup: High-performance and extremely low-decoding-latency learned geometry codec for large-scale point cloud scenes**, IJCAI 2024, [ :link: ](https://www.ijcai.org/proceedings/2024/0595.pdf) [ :octocat: ]( https://github.com/I2-Multimedia-Lab/Pointsoup)
+
+
+* **Pdnet: parallel dual-branch network for point cloud geometry compression and analysis**, Data Compression Conference (DCC) 2024, [ :link: ](https://ieeexplore.ieee.org/document/10533742/)
+
+
+* **Inter-frame compression for dynamic point cloud geometry coding**, IEEE Transactions on Image Processing 2024, [ :link: ](https://arxiv.org/pdf/2207.12554) [ :octocat: ](https://github.com/aniqueakhtar/PointCloudCompression)
+
+
+* **Ecm-opcc: Efficient context model for octree-based point cloud compression**, ICASSP 2024, [ :link: ](https://ieeexplore.ieee.org/document/10446374/)
+
+
+
+* **Point cloud compression with implicit neural representations: A unified framework**, ICCC 2024, [ :link: ](https://ieeexplore.ieee.org/iel8/10681633/10681675/10681880.pdf) [ :octocat: ](https://github.com/RhoHenning/INR-PCC)
+
+
+
+* **Learned compression of point cloud geometry and attributes in a single model through multimodal rate-control**, Arxiv 2024, [ :link: ](https://arxiv.org/abs/2408.00599)
+
+
+
+* **Roi-guided point cloud geometry compression towards human and machine vision**, ACM International Conference on Multimedia 2024, [ :link: ](https://dl.acm.org/doi/10.1145/3664647.3681301)
+
+
+
+* **Lossless point cloud attribute compression using cross-scale, cross-group, and cross-color prediction**, Data Compression Conference (DCC) 2023, [ :link: ](https://ieeexplore.ieee.org/iel7/10125292/10125296/10125514.pdf)
+
+
+
+* **YOGA: Yet another geometry-based point cloud compressor**, ACM International Conference on Multimedia 2023, [ :link: ](https://dl.acm.org/doi/10.1145/3581783.3613847) [ :octocat: ](https://github.com/3dpcc/YOGAv1)
+
+
+
+* **Multiscale latent-guided entropy model for lidar point cloud compression**, IEEE Transactions on Circuits and Systems for Video Technology 2023, [ :link: ](https://ieeexplore.ieee.org/iel7/76/4358651/10129923.pdf)
+
+
+
+* **Lossless point cloud geometry and attribute compression using a learned conditional probability model**, IEEE Transactions on Circuits and Systems for Video Technology 2023, [ :link: ](https://ieeexplore.ieee.org/iel7/76/10207864/10024999.pdf)
+
+
+
+* **Efficient hierarchical entropy model for learned point cloud compression**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/papers/,Song_Efficient_Hierarchical_Entropy_Model_for_Learned_Point_Cloud_Compression_CVPR_2023_paper.pdf)
+
+
+* **GRASP-Net: Geometric residual analysis and synthesis for point cloud compression**, Proceedings of the 1st International Workshop on Advances in Point Cloud Compression, Processing and Analysis 2022, [ :link: ](https://arxiv.org/pdf/2209.04401.pdf) [ :octocat: ](https://github.com/InterDigitalInc/GRASP-Net)
+
+
+* **Octattention: Octree-based large-scale contexts model for point cloud compression**, AAAI 2022, [ :link: ](https://cdn.aaai.org/ojs/19942/19942-13-23955-1-2-20220628.pdf) [ :octocat: ](https://github.com/zb12138/OctAttention)
+
+
+
+* **4dac: Learning attribute compression for dynamic point clouds**, Arxiv 2022, [ :link: ](https://arxiv.org/pdf/2204.11723)
+
+
+
+* **Point cloud compression with range image-based entropy model for autonomous driving**, ECCV 2022, [ :link: ](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820315.pdf)
+
+
+
+* **Rate-distortion modeling for bit rate constrained point cloud compression**, IEEE Transactions on Circuits and Systems for Video Technology 2022, [ :link: ](https://ieeexplore.ieee.org/document/9957096)
+
+
+
+* **Sparse tensor-based point cloud attribute compression**, International Conference on Multimedia Information Processing and Retrieval (MIPR) 2022, [ :link: ](https://ieeexplore.ieee.org/document/9874468/)
+
+
+* **Lossy point cloud geometry compression via end-to-end learning**, IEEE Transactions on Circuits and Systems for Video Technology 2021, [ :link: ](https://ieeexplore.ieee.org/document/9321375/)
+
+
+
+* **Voxelcontext-net: An octree based framework for point cloud compression**, CVPR 2021, [ :link: ](https://openaccess.thecvf.com/content/CVPR2021/papers/Que_VoxelContext-Net_An_Octree_Based_Framework_for_Point_Cloud_Compression_CVPR_2021_paper.pdf)
+
+
+
+* **Multiscale point cloud geometry compression**, Data Compression Conference (DCC) 2021, [ :link: ](https://ieeexplore.ieee.org/iel7/9418628/9418635/09418789.pdf) [ :octocat: ](https://github.com/NJUVISION/PCGCv2)
+
+
+
+* **Deep compression for dense point cloud maps**,  IEEE Robotics and Automation Letters 2021, [ :link: ](https://ieeexplore.ieee.org/document/9354895/) [ :octocat: ](https://github.com/PRBonn/deep-point-map-compression)
+
+
+* **Reduced reference perceptual quality model with application to rate control for video-based point cloud compression**, IEEE Transactions on Image Processing 2021, [ :link: ](https://ieeexplore.ieee.org/document/9490512)
+
+
+
+* **Model-based joint bit allocation between geometry and color for video-based 3D point cloud compression**, IEEE Transactions on Multimedia 2020, [ :link: ](https://ieeexplore.ieee.org/document/9194311/) 
+
+
+* **3d point cloud geometry compression on deep learning**, ACM International Conference on Multimedia 2019, [ :link: ](https://dl.acm.org/doi/10.1145/3343031.3351061)
+
+
+* **Towards 6dof http adaptive streaming through point cloud compression**, ACM International Conference on Multimedia 2019, [ :link: ](https://dl.acm.org/doi/10.1145/3343031.3350917)
+
+
+* **Learning convolutional transforms for lossy point cloud geometry compression**, IEEE international conference on image processing (ICIP) 2019, [ :link: ](https://arxiv.org/pdf/1903.08548) [ :octocat: ](https://github.com/mauriceqch/pcc_geo_cnn)
+
+
+* **Graph-based motion estimation and compensation for dynamic 3D point cloud compression**, IEEE International Conference on Image Processing (ICIP) 2015, [ :link: ](https://ieeexplore.ieee.org/document/9194311/)
+
+
+* **Point cloud attribute compression with graph transform**, IEEE International Conference on Image Processing (ICIP) 2014, [ :link: ](https://ieeexplore.ieee.org/document/7025414/)
+
+
+* **Octree-based Point-Cloud Compression**, SPBG'06: Proceedings of the 3rd Eurographics / IEEE VGTC conference on Point-Based Graphics 2006, [ :link: ](https://dl.acm.org/doi/10.5555/2386388.2386404)
 
 ## Registration and 6D Pose estimation
