@@ -2,6 +2,14 @@
 
 * [3D ML Pipeline Security Threats](#3D-ML-Pipeline-Security-Threats)
 
+  *  [Evasion Attacks](#evasionAttacks)
+  *  [Evasion Defenses](#evasionDefenses)
+  *  [Poisoning Attacks](#poisoningAttacks)
+  *  [Poisoning Defenses](#poisoningDefenses)
+  *  [LiDAR Attcks](#lidarAttacks)
+  *  [LiDAR Defenses](#lidarDefenses)
+
+
 * [3D Robustness to Noise and Occlusion](#3D-Robustness-to-Noise-and-Occlusion)
 
 * [3D Point Cloud Rotation Invariance and Equivariance](#3D-Point-Cloud-Rotation)
