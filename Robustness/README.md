@@ -2,12 +2,63 @@
 
 * [3D ML Pipeline Security Threats](#3D-ML-Pipeline-Security-Threats)
 
+
+*  [Preliminaries](#preliminaries)
   *  [Evasion Attacks](#evasionAttacks)
+
+    *  [Optimization-based Attacks](#Optimization)
+    *  [Generative-based Attacks](#Generative)
+    *  [Transform-based Attacks](#Transform)
+    *  [Perturbation-based Attacks](#Perturbation)
+    *  [Heuristic Attacks](#Heuristic)
+    *  [Simulation-based Attacks](#Simulation)
+    *  [Physical System-based Attacks](#Physical)
+
   *  [Evasion Defenses](#evasionDefenses)
+
+    *  [Data Focused](#dataFocused)
+
+      *  [Test Input Preprocessing](#testPreprocessing)
+      *  [Train Data Optimization](#trainDataOptimization)
+
+    *  [Model Focused](#modelFocused)
+
+      *  [Deep Model Modification](#modelModification)
+
   *  [Poisoning Attacks](#poisoningAttacks)
+
+    *  [Label Strategy/Attack Goal](#labelstrategy)
+      *  [Targeted Poison-label Backdoor](#targetedPoisonLabel)
+      *  [Targeted Clean-label Backdoor](#targetedCleanLabel)
+      *  [Negative Clean-label Watermarking (Ownership)](#Ownership)
+      *  [Availability Poisoning Attack](#availabilityPoisoning)
+
+    *  [Trigger Carrier/ Domain](#triggerdomain)
+      *  [Geometric Coordinate Triggers](#geometricTrigger)
+      *  [Additional Point-feature Triggers](#additionalfeatureTrigger)
+      *  [Spectral/ Graph-spectral Triggers](#spectralTrigger)
+      *  [Material/ Sensor-level Triggers](#sensorTrigger)
+
+    *  [Instantiation/ Realizability](#realizability)
+      *  [Purely Digital Triggers](#digitalTrigger)
+      *  [Physically Realizable Triggers](#physicalTrigger)
+
+    *  [Trigger to Label Mapping](#mapping)
+      *  [One-to-one](#oneToOne)
+      *  [One-to-N](#oneToN)
+
   *  [Poisoning Defenses](#poisoningDefenses)
-  *  [LiDAR Attcks](#lidarAttacks)
-  *  [LiDAR Defenses](#lidarDefenses)
+
+    *  [Test-time Input Processing](#testTimeProcessing)
+    *  [Cross-modal Restoration](#crossModalRestoration)
+    *  [Corruption-robust Detection](#corruptionRobustDetection)
+    *  [Generic Purification via Re-optimization](#genericPurification)
+    *  [Training-time Robustification](#trainTimeRobustification)
+    *  [Backdoor-aware Training/ Ensemble](#backdoorAwareTraining)
+    *  [Dataset Watermarking/ Ownership Verification](#watermarking)
+      *  [Negative Clean-label Backdoor Watermark](#negativeCleanLabel)
+
+  *  [LiDAR Attcks and Defenses](#lidar)
 
 
 * [3D Robustness to Noise and Occlusion](#3D-Robustness-to-Noise-and-Occlusion)
@@ -22,6 +73,28 @@
   
 ---
 ## 3D ML Pipeline Security Threats
+### Preliminaries
+
+
+
+### Evasion Attacks
+
+
+### Evasion Defenses
+
+
+### Poisoning Attacks
+
+
+### Poisoning Defenses
+
+
+### LiDAR Attacks
+
+
+### LiDAR Defenses
+
+
 
 * **Weak-to-strong 3d object detection with x-ray distillation**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/html/Gambashidze_Weak-to-Strong_3D_Object_Detection_with_X-Ray_Distillation_CVPR_2024_paper.html) [ :octocat: ](https://github.com/sakharok13/X-Ray-Teacher-Patching-Tools)
 
