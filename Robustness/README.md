@@ -65,14 +65,14 @@
 * **Enhancing Sampling Protocol for Point Cloud Classification Against Corruptions**, 34th International Joint Conference on Artificial Intelligence 2025, [ :link: ](https://scholars.cityu.edu.hk/en/publications/enhancing-sampling-protocol-for-point-cloud-classification-agains/)
 
 * **PointDifformer: Robust point cloud registration with neural diffusion and transformer**, IEEE TGRS 2024, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10384401)
-#check
-* **ComPC: Completing a 3D Point Cloud with 2D Diffusion Priors**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2404.06814)
 
-* **Benchmarking robustness of 3D object detection to common corruptions**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Dong_Benchmarking_Robustness_of_3D_Object_Detection_to_Common_Corruptions_CVPR_2023_paper.html)
+* **ComPC: Completing a 3D Point Cloud with 2D Diffusion Priors**, ICLR 2025, [ :link: ](https://openreview.net/forum?id=SoUwcVplq4&nesting=2&sort=date-desc) [ :octocat: ](https://tianxinhuang.github.io/projects/ComPC/)
+
+* **Benchmarking robustness of 3D object detection to common corruptions**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Dong_Benchmarking_Robustness_of_3D_Object_Detection_to_Common_Corruptions_CVPR_2023_paper.html) [ :octocat: ](https://github.com/thu-ml/)
 
 * **Robo3D: Towards robust and reliable 3D perception against corruptions**, ICCV 2023, [ :link: ](https://openaccess.thecvf.com/content/ICCV2023/html/Kong_Robo3D_Towards_Robust_and_Reliable_3D_Perception_against_Corruptions_ICCV_2023_paper.html) [ :octocat: ](https://github.com/ldkong1205/Robo3D)
 
-* **EPIC: Ensemble of partial point clouds for robust classification**, ICCV 2023, [ :link: ](https://openaccess.thecvf.com/content/ICCV2023/html/Levi_EPIC_Ensemble_of_Partial_Point_Clouds_for_Robust_Classification_ICCV_2023_paper.html)
+* **EPIC: Ensemble of partial point clouds for robust classification**, ICCV 2023, [ :link: ](https://openaccess.thecvf.com/content/ICCV2023/html/Levi_EPiC_Ensemble_of_Partial_Point_Clouds_for_Robust_Classification_ICCV_2023_paper.html) [ :octocat: ](https://github.com/yossilevii100/EPiC)
 
 * **Common corruption robustness of point cloud detectors: Benchmark and enhancement**, IEEE Transactions on Multimedia 2023, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10286105) 
 
@@ -101,7 +101,7 @@
 * **Deep learning for robust normal estimation in unstructured point clouds**, CGF 2016, [ :link: ](https://doi.org/10.1111/cgf.12983)
 
 * **SHOT: Unique signatures of histograms for surface and texture description**, CVIU 2014, [ :link: ](https://doi.org/10.1016/j.cviu.2014.04.011)
-
+#check
 * **Fast point feature histograms (FPFH) for 3D registration**, IEEE ICRA 2009, [ :link: ](https://doi.org/10.1109/ROBOT.2009.5152473)
 
 * **Towards 3D point cloud based object maps for household environments**, RAS 2008, [ :link: ](https://doi.org/10.1016/j.robot.2008.08.005)
