@@ -5,12 +5,12 @@
 * [Segmentation](#Segmentation)
 
 * [Detection](#Detection)
- * [Data Representation](#Data_Representation)
-   * [point-based](#point-based)
-   * [voxel-based](#voxel-based)
-   * [pillar-based](#pillar-based)
-   * [projection-based](#projection-based)
-   * [hybrid](#hybrid)
+    * [Data Representation](#Data_Representation)
+       * [point-based](#point-based)
+       * [voxel-based](#voxel-based)
+       * [pillar-based](#pillar-based)
+       * [projection-based](#projection-based)
+       * [hybrid](#hybrid)
 * [Tracking](#Tracking)
 
 * [Compression](#Compression)
