@@ -197,7 +197,7 @@
 *  **3D-CSAD: Untrained 3D anomaly detection for complex manufacturing surfaces**, arXiv 2024 , [ :link: ](https://arxiv.org/pdf/2404.07748?)
 *  **Multi-View Reconstruction with Global Context for 3D Anomaly Detection**, arXiv 2025 , [ :link: ](https://arxiv.org/pdf/2507.21555?) [ :octocat: ](https://github.com/hustSYH/MVR)
 *  **Point Cloud Segmentation of Integrated Circuits Package Substrates Surface Defects Using Causal Inference: Dataset Construction and Methodology**, arXiv 2025 , [ :link: ](https://arxiv.org/pdf/2511.05853) [ :octocat: ](https://github.com/Bingyang0410/CPS3D-Seg)
-*  **A 3D Multimodal Feature for Infrastructure Anomaly Detection**, Elsevier 2025 , [ :link: ](https://arxiv.org/pdf/2502.05779)
+*  **A 3D Multimodal Feature for Infrastructure Anomaly Detection**, Elsevier 2025 , [ :link: ](https://arxiv.org/pdf/2502.05779) [ :octocat: ](https://github.com/Jingyixiong/3D-Multi-FPFHI)
 *  **Examining the Source of Defects from a Mechanical Perspective for 3D Anomaly Detection**, arXiv 2025 , [ :link: ](https://arxiv.org/pdf/2505.05901?) [ :octocat: ](https://github.com/hzzzzzhappy/MC4AD)
 *  **MADFlow: Multimodal difference compensation flow for multimodal anomaly detection**, Elsevier 2025 , [ :link: ](https://personalpages.surrey.ac.uk/w.wang/papers/Li%20et%20al_Neurocomputing_2025.PDF) [ :octocat: ](https://github.com/SYLan2019/MADFlow)
 * **Proactive anomaly detection for robot navigation with multi-sensor fusion**, IEEE 2022 , [ :link: ](https://ieeexplore.ieee.org/iel7/7083369/7339444/09720937.pdf) [ :octocat: ](https://github.com/tianchenji/PAAD)
