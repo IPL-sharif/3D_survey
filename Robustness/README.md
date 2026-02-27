@@ -11,8 +11,8 @@
 
 * [3D Robustness to Noise and Occlusion](#3D-Robustness-to-Noise-and-Occlusion)
 
-* [3D Point Cloud Rotation Invariance and Equivariance](#3D-Point-Cloud-Rotation)
-
+* [3D Point Cloud Rotation Invariance and Equivariance](3D-Point-Cloud-Rotation-Invariance-and-Equivariance)
+  
 * [3D Domain Adaptation](#3D-Domain-Adaptation)
 
 * [3D Anomaly Detection](#3D-Anomaly-Detection)
