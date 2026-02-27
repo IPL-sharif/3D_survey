@@ -12,7 +12,12 @@
        * [projection-based](#projection-based)
        * [hybrid](#hybrid)
      
-   * [Supervision] (#Supervision)
+   * [Supervision](#Supervision)
+       * [Weakly-supervised 3D Detection](#Weakly-supervised-3D-Detection)
+       * [Semi-supervised 3D Detection](#Semi-supervised-3D-Detection)
+       * [Self-/Unsupervised 3D Detection](#Self-/Unsupervised-3D-Detection)
+ 
+     
 * [Tracking](#Tracking)
 
 * [Compression](#Compression)
