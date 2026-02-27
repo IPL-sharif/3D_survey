@@ -323,13 +323,13 @@
 ### Category-level (intra-category shape variation)
 * **CASS: Learning Canonical Shape Space for Category-Level 6D Object Pose and Size Estimation**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Learning_Canonical_Shape_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2020_paper.pdf) [ :octocat: ](https://github.com/densechen/CASS)
 * **AG-Pose: Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_Instance-Adaptive_and_Geometric-Aware_Keypoint_Learning_for_Category-Level_6D_Object_Pose_CVPR_2024_paper.pdf) [ :octocat: ](https://github.com/Leeiieeo/AG-Pose)
-* **CD-Pose: Learning geometric consistency and discrepancy for category-level 6D object pose estimation from point clouds**, Pattern Recognition 2024, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0031320323005940) code: —
+* **CD-Pose: Learning geometric consistency and discrepancy for category-level 6D object pose estimation from point clouds**, Pattern Recognition 2024, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0031320323005940) 
 * **GCE-Pose: Global Context Enhancement for Category-level Object Pose Estimation**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_GCE-Pose_Global_Context_Enhancement_for_Category-level_Object_Pose_Estimation_CVPR_2025_paper.pdf) code: —
 
 ### Unseen / zero-shot (generalize to novel objects)
 * **OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation**, CVPR 2022, [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/papers/Cai_OVE6D_Object_Viewpoint_Encoding_for_Depth-Based_6D_Object_Pose_Estimation_CVPR_2022_paper.pdf) [ :octocat: ](https://github.com/dingdingcai/OVE6D-pose)
 * **FreeZe: Training-free zero-shot 6D pose estimation with geometric and vision foundation models**, ECCV 2024, [ :link: ](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09634.pdf) [ :octocat: ](https://github.com/andreacaraffa/freeze)
-* **ZeroPose: CAD-Prompted Zero-shot Object 6D Pose Estimation in Cluttered Scenes**, arXiv 2023 / TCSVT 2024–2025, [ :link: ](https://arxiv.org/html/2305.17934v3) [ :octocat: ](https://github.com/shruthibalaji2307/zeropose) *(implementation repo)*
+* **ZeroPose: CAD-Prompted Zero-shot Object 6D Pose Estimation in Cluttered Scenes**, arXiv 2023 / TCSVT 2024–2025, [ :link: ](https://arxiv.org/html/2305.17934v3) [ :octocat: ](https://github.com/shruthibalaji2307/zeropose)
 
 ### 3D Point Cloud Human Pose Estimation
 #### Surveys / overviews
@@ -359,31 +359,31 @@
 ### Surveys
 * **Deep Learning-Based Point Cloud Registration: A Comprehensive Survey and Taxonomy**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2404.13830) [ :octocat: ](https://github.com/yxzhang15/PCR)
 * **3D Registration in 30 Years: A Survey**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2412.13735) [ :octocat: ](https://github.com/Amyyyy11/3D-Registration-in-30-Years-A-Survey)
-* **Rigid pairwise 3D point cloud registration: A survey**, Pattern Recognition 2024, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0031320324001596) code: —
+* **Rigid pairwise 3D point cloud registration: A survey**, Pattern Recognition 2024, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0031320324001596) 
 
 ### Classical / geometry-based
-* **A Method for Registration of 3-D Shapes (ICP)**, TPAMI 1992, [ :link: ](https://www-evasion.imag.fr/Membres/Franck.Hetroy/Teaching/ProjetsImage/2007/Bib/besl_mckay-pami1992.pdf) code: —
-* **Efficient Variants of the ICP Algorithm**, 3DIM 2001, [ :link: ](https://www.cs.princeton.edu/~smr/papers/fasticp/fasticp_paper.pdf) code: —
+* **A Method for Registration of 3-D Shapes (ICP)**, TPAMI 1992, [ :link: ](https://www-evasion.imag.fr/Membres/Franck.Hetroy/Teaching/ProjetsImage/2007/Bib/besl_mckay-pami1992.pdf) 
+* **Efficient Variants of the ICP Algorithm**, 3DIM 2001, [ :link: ](https://www.cs.princeton.edu/~smr/papers/fasticp/fasticp_paper.pdf) 
 * **Fast Global Registration**, ECCV 2016, [ :link: ](https://link.springer.com/content/pdf/10.1007/978-3-319-46475-6_47.pdf) [ :octocat: ](https://github.com/isl-org/FastGlobalRegistration)
-* **Guaranteed Outlier Removal (GORE) for Point Cloud Registration with Correspondences**, arXiv 2017, [ :link: ](https://arxiv.org/abs/1711.10209) code: — *(project page)* https://cs.adelaide.edu.au/~aparra/project/gore/
-* **Robust low-overlap 3-D point cloud registration for outlier rejection**, 2019, [ :link: ](https://arpg.github.io/papers/hmrf_icp.pdf) code: —
-* **Comparison of Point Cloud Registration Techniques on Scanned Physical Objects**, Sensors 2024, [ :link: ](https://www.mdpi.com/1424-8220/24/7/2142) code: —
-* **Fast Robust Point Cloud Registration Based on Compatibility Graph and Accelerated Guided Sampling**, Remote Sensing 2024, [ :link: ](https://www.mdpi.com/2072-4292/16/15/2789) code: —
-* **Research on the Improved ICP Algorithm for LiDAR Point Cloud Registration**, Sensors 2025, [ :link: ](https://www.mdpi.com/1424-8220/25/15/4748) code: —
+* **Guaranteed Outlier Removal (GORE) for Point Cloud Registration with Correspondences**, arXiv 2017, [ :link: ](https://arxiv.org/abs/1711.10209) 
+* **Robust low-overlap 3-D point cloud registration for outlier rejection**, 2019, [ :link: ](https://arpg.github.io/papers/hmrf_icp.pdf) 
+* **Comparison of Point Cloud Registration Techniques on Scanned Physical Objects**, Sensors 2024, [ :link: ](https://www.mdpi.com/1424-8220/24/7/2142) 
+* **Fast Robust Point Cloud Registration Based on Compatibility Graph and Accelerated Guided Sampling**, Remote Sensing 2024, [ :link: ](https://www.mdpi.com/2072-4292/16/15/2789) 
+* **Research on the Improved ICP Algorithm for LiDAR Point Cloud Registration**, Sensors 2025, [ :link: ](https://www.mdpi.com/1424-8220/25/15/4748) 
 
 ### Learning-based
 #### Supervised
 * **BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/papers/Ao_BUFFER_Balancing_Accuracy_Efficiency_and_Generalizability_in_Point_Cloud_Registration_CVPR_2023_paper.pdf) [ :octocat: ](https://github.com/SYSU-SAIL/BUFFER)
 * **RORNet: Partial-to-Partial Registration Network with Reliable Overlapping Representations**, TNNLS 2023, [ :link: ](https://ywuchina.github.io/publications/paper11/) [ :octocat: ](https://github.com/superYuezhang/RORNet)
 * **PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration**, ECCV 2024, [ :link: ](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09456.pdf) [ :octocat: ](https://github.com/yaorz97/PARENet)
-* **End-to-end point cloud registration with transformer**, Artificial Intelligence Review 2024, [ :link: ](https://link.springer.com/content/pdf/10.1007/s10462-024-10985-y.pdf) code: —
+* **End-to-end point cloud registration with transformer**, Artificial Intelligence Review 2024, [ :link: ](https://link.springer.com/content/pdf/10.1007/s10462-024-10985-y.pdf) 
 
 #### Unsupervised / self-supervised
 * **UDPReg: Unsupervised Deep Probabilistic Approach for Partial Point Cloud Registration**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/papers/Mei_Unsupervised_Deep_Probabilistic_Approach_for_Partial_Point_Cloud_Registration_CVPR_2023_paper.pdf) [ :octocat: ](https://github.com/pelekageorgia/UDPReg)
 * **PointMBF: A Multi-scale Bidirectional Fusion Network for Unsupervised RGB-D Point Cloud Registration**, ICCV 2023, [ :link: ](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_PointMBF_A_Multi-scale_Bidirectional_Fusion_Network_for_Unsupervised_RGB-D_Point_ICCV_2023_paper.pdf) [ :octocat: ](https://github.com/phdymz/PointMBF)
 * **EYOC: Extend Your Own Correspondences (Unsupervised Distant Point Cloud Registration)**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Extend_Your_Own_Correspondences_Unsupervised_Distant_Point_Cloud_Registration_by_CVPR_2024_paper.pdf) [ :octocat: ](https://github.com/liuQuan98/EYOC)
 * **RegiFormer: Unsupervised Point Cloud Registration via Geometric Local-to-Global Transformer and Self-Augmentation**, 2024, [ :link: ](https://openreview.net/pdf?id=RVGDEDO0f4) code: —
-* **GTINet: Global Topology-aware Interactions for Unsupervised Point Cloud Registration**, TCSVT 2024, [ :link: ](https://dblp.org/rec/journals/tcsv/JiangZLLC24.html) code: —
+* **GTINet: Global Topology-aware Interactions for Unsupervised Point Cloud Registration**, TCSVT 2024, [ :link: ](https://dblp.org/rec/journals/tcsv/JiangZLLC24.html)
 
 ---
 
