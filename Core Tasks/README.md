@@ -309,29 +309,31 @@
 * **Octree-based Point-Cloud Compression**, SPBG'06: Proceedings of the 3rd Eurographics / IEEE VGTC conference on Point-Based Graphics 2006, [ :link: ](https://dl.acm.org/doi/10.5555/2386388.2386404)
 
 
-## Object Pose Estimation
+## 6DoF Pose Estimation
 
-### Survey
+### Object Pose Estimation
+
+#### Survey
 * **Deep Learning-Based Object Pose Estimation: A Comprehensive Survey**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2405.07801) [ :octocat: ](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation)
 
-### Instance-level (known instances)
+#### Instance-level (known instances)
 * **DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_DenseFusion_6D_Object_Pose_Estimation_by_Iterative_Dense_Fusion_CVPR_2019_paper.pdf) [ :octocat: ](https://github.com/j96w/DenseFusion)
 * **PVN3D: A Deep Point-Wise 3D Keypoints Voting Network for 6DoF Pose Estimation**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_PVN3D_A_Deep_Point-Wise_3D_Keypoints_Voting_Network_for_6DoF_CVPR_2020_paper.pdf) [ :octocat: ](https://github.com/ethnhe/PVN3D)
 * **FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation**, CVPR 2021, [ :link: ](https://openaccess.thecvf.com/content/CVPR2021/papers/He_FFB6D_A_Full_Flow_Bidirectional_Fusion_Network_for_6D_Pose_CVPR_2021_paper.pdf) [ :octocat: ](https://github.com/ethnhe/FFB6D)
 * **CloudAAE: Learning 6D Object Pose Regression with On-line Data Synthesis on Point Clouds**, arXiv 2021, [ :link: ](https://arxiv.org/abs/2103.01977) [ :octocat: ](https://github.com/GeeeG/CloudAAE)
 
-### Category-level (intra-category shape variation)
+#### Category-level (intra-category shape variation)
 * **CASS: Learning Canonical Shape Space for Category-Level 6D Object Pose and Size Estimation**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Learning_Canonical_Shape_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2020_paper.pdf) [ :octocat: ](https://github.com/densechen/CASS)
 * **AG-Pose: Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_Instance-Adaptive_and_Geometric-Aware_Keypoint_Learning_for_Category-Level_6D_Object_Pose_CVPR_2024_paper.pdf) [ :octocat: ](https://github.com/Leeiieeo/AG-Pose)
 * **CD-Pose: Learning geometric consistency and discrepancy for category-level 6D object pose estimation from point clouds**, Pattern Recognition 2024, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0031320323005940) 
 * **GCE-Pose: Global Context Enhancement for Category-level Object Pose Estimation**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_GCE-Pose_Global_Context_Enhancement_for_Category-level_Object_Pose_Estimation_CVPR_2025_paper.pdf) code: —
 
-### Unseen / zero-shot (generalize to novel objects)
+#### Unseen / zero-shot (generalize to novel objects)
 * **OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation**, CVPR 2022, [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/papers/Cai_OVE6D_Object_Viewpoint_Encoding_for_Depth-Based_6D_Object_Pose_Estimation_CVPR_2022_paper.pdf) [ :octocat: ](https://github.com/dingdingcai/OVE6D-pose)
 * **FreeZe: Training-free zero-shot 6D pose estimation with geometric and vision foundation models**, ECCV 2024, [ :link: ](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09634.pdf) [ :octocat: ](https://github.com/andreacaraffa/freeze)
 * **ZeroPose: CAD-Prompted Zero-shot Object 6D Pose Estimation in Cluttered Scenes**, arXiv 2023 / TCSVT 2024–2025, [ :link: ](https://arxiv.org/html/2305.17934v3) [ :octocat: ](https://github.com/shruthibalaji2307/zeropose)
 
-### 3D Point Cloud Human Pose Estimation
+### Human Pose Estimation
 #### Surveys / overviews
 * **3D Human Pose and Shape Estimation from LiDAR Point Clouds: A Review**, arXiv 2025, [ :link: ](https://arxiv.org/abs/2509.12197) [ :octocat: ](https://github.com/valeoai/3D-Human-Pose-Shape-Estimation-from-LiDAR)
 * **Deep learning for 3D human pose estimation and mesh recovery: A survey**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2402.18844) [ :octocat: ](https://github.com/liuyangme/SOTA-3DHPE-HMR)
