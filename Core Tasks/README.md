@@ -26,7 +26,7 @@
    * [Object Pose Estimation](#Object-Pose-Estimation)
    * [Human Pose Estimation](#Human-Pose-Estimation) 
 
-* [Registration](#Registration)
+* [3D Point Cloud Registration](#3D-Point-Cloud-Registration)
 
  
   
@@ -382,7 +382,7 @@
 * **UDPReg: Unsupervised Deep Probabilistic Approach for Partial Point Cloud Registration**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/papers/Mei_Unsupervised_Deep_Probabilistic_Approach_for_Partial_Point_Cloud_Registration_CVPR_2023_paper.pdf) [ :octocat: ](https://github.com/pelekageorgia/UDPReg)
 * **PointMBF: A Multi-scale Bidirectional Fusion Network for Unsupervised RGB-D Point Cloud Registration**, ICCV 2023, [ :link: ](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_PointMBF_A_Multi-scale_Bidirectional_Fusion_Network_for_Unsupervised_RGB-D_Point_ICCV_2023_paper.pdf) [ :octocat: ](https://github.com/phdymz/PointMBF)
 * **EYOC: Extend Your Own Correspondences (Unsupervised Distant Point Cloud Registration)**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Extend_Your_Own_Correspondences_Unsupervised_Distant_Point_Cloud_Registration_by_CVPR_2024_paper.pdf) [ :octocat: ](https://github.com/liuQuan98/EYOC)
-* **RegiFormer: Unsupervised Point Cloud Registration via Geometric Local-to-Global Transformer and Self-Augmentation**, 2024, [ :link: ](https://openreview.net/pdf?id=RVGDEDO0f4) code: —
+* **RegiFormer: Unsupervised Point Cloud Registration via Geometric Local-to-Global Transformer and Self-Augmentation**, 2024, [ :link: ](https://openreview.net/pdf?id=RVGDEDO0f4)
 * **GTINet: Global Topology-aware Interactions for Unsupervised Point Cloud Registration**, TCSVT 2024, [ :link: ](https://dblp.org/rec/journals/tcsv/JiangZLLC24.html)
 
 ---
