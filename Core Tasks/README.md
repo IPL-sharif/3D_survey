@@ -11,6 +11,8 @@
        * [pillar-based](#pillar-based)
        * [projection-based](#projection-based)
        * [hybrid](#hybrid)
+     
+   * [Supervision] (#Supervision)
 * [Tracking](#Tracking)
 
 * [Compression](#Compression)
@@ -145,6 +147,43 @@
 ### Scene Type
 
 ### Supervision
+#### Weakly-supervised 3D Detection
+- **WS3D: Weakly Supervised 3D Object Detection from Lidar Point Cloud**, ECCV 2020, [ :link: ](https://arxiv.org/abs/2007.11901) [ :octocat: ](https://github.com/hlesmqh/WS3D)
+- **Weakly supervised 3d object detection from point clouds**, ACM MM 2020, [ :link: ](https://arxiv.org/abs/2007.13970) [ :octocat: ](https://github.com/Zengyi-Qin/Weakly-Supervised-3D-Object-Detection)
+- **Towards a weakly supervised framework for 3D point cloud object detection and annotation**, T-PAMI 2021, [ :link: ](https://ieeexplore.ieee.org/document/9369074)
+- **Back to Reality: Weakly-Supervised 3D Object Detection with Shape-guided Label Enhancement**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2203.05238) [ :octocat: ](https://github.com/wyf-ACCEPT/BackToReality)
+- **A simple vision transformer for weakly semi-supervised 3d object detection**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_A_Simple_Vision_Transformer_for_Weakly_Semi-supervised_3D_Object_Detection_ICCV_2023_paper.html) [ :octocat: ](https://github.com/DYZhang09/ViTWSS3D)
+- **Prompt3D: Random Prompt Assisted Weakly-Supervised 3D Object Detection**, CVPR 2024, [ :link: ](https://ieeexplore.ieee.org/document/10655852) [ :octocat: ](https://github.com/huishengye/prompt3d)
+- **G-W3D: Weakly Supervised 3D Object Detection via Multi-level Visual Guidance**, ECCV 2024, [ :link: ](https://arxiv.org/abs/2312.07530) [ :octocat: ](https://github.com/kuanchihhuang/VG-W3D)
+- **Weakly supervised monocular 3D object detection by spatial-temporal view consistency**, T-PAMI 2024, [ :link: ](https://ieeexplore.ieee.org/document/10689672)
+
+#### Semi-supervised 3D Detection
+- **SESS: Self-Ensembling Semi-Supervised 3D Object Detection**, CVPR 2020, [ :link: ](https://arxiv.org/abs/1912.11803) [ :octocat: ](https://github.com/Na-Z/sess)
+- **3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection**, CVPR 2021, [ :link: ](https://arxiv.org/abs/2012.04355) [ :octocat: ](https://github.com/yezhen17/3DIoUMatch)
+- **Semi-supervised 3D object detection with proficient teachers**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2207.12655) [ :octocat: ](https://github.com/yinjunbo/ProficientTeachers)
+- **NoiseDet: Learning from Noisy Data for Semi-Supervised 3D Object Detection**, ICCV 2023, [ :link: ](https://ieeexplore.ieee.org/document/10377714) [ :octocat: ](https://github.com/zehuichen123/NoiseDet)
+- **Ssda3d: Semi-supervised domain adaptation for 3d object detection from point cloud**, AAAI 2023, [ :link: ](https://arxiv.org/abs/2212.02845) [ :octocat: ](https://github.com/yinjunbo/SSDA3D)
+- **PatchTeacher & PillarMix: Semi-supervised 3D Object Detection with PatchTeacher and PillarMix**, AAAI 2024, [ :link: ](https://arxiv.org/abs/2407.09787) [ :octocat: ](https://github.com/LittlePey/PTPM)
+- **Decoupled pseudo-labeling for semi-supervised monocular 3d object detection**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2403.17387)
+- **Reflective Teacher: Semi-Supervised Multimodal 3D Object Detection in Bird's-Eye-View via Uncertainty Measure**, WACV 2025, [ :link: ](https://arxiv.org/abs/2412.04337)
+- **SP3D: Boosting Sparsely-Supervised 3D Object Detection via Accurate Cross-Modal Semantic Prompts**, CVPR 2025, [ :link: ](https://arxiv.org/abs/2503.06467) [ :octocat: ](https://github.com/xmuqimingxia/SP3D)
+- **Leveraging temporal cues for semi-supervised multi-view 3D object detection**, CVPR 2025, [ :link: ](https://ieeexplore.ieee.org/document/11093461/)
+- **Power of Cooperative Supervision: Multiple Teachers Framework for Advanced 3D Semi-Supervised Object Detection**, ICCV 2025, [ :link: ](https://arxiv.org/abs/2405.20720) [ :octocat: ](https://github.com/JH-Research/MultipleTeachers)
+
+
+#### Self-/Unsupervised 3D Detection
+- **Unsupervised Pre-training for 3D Point Cloud Understanding**, ECCV 2020, [ :link: ](https://arxiv.org/abs/2007.10985) [ :octocat: ](https://github.com/facebookresearch/PointContrast)
+- **Unsupervised Pre-Training from Synthetic Shapes and Randomized Layouts for 3D Object Detection**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2108.07794)
+- **Exploring geometry-aware contrast and clustering harmonization for self-supervised 3d object detection**, ICCV 2021, [ :link: ](https://ieeexplore.ieee.org/document/9711148)
+- **3d object detection with a self-supervised lidar scene flow backbone**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2205.00705) [ :octocat: ](https://github.com/emecercelik/ssl-3d-detection)
+- **ProposalContrast: Unsupervised Pre-training for LiDAR-Based 3D Object Detection**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2207.12654) [ :octocat: ](https://github.com/yinjunbo/ProposalContrast)
+- **Liso: Lidar-only self-supervised 3d object detection**, ECCV 2024, [ :link: ](https://arxiv.org/abs/2403.07071) [ :octocat: ](https://github.com/baurst/liso)
+- **Approaching outside: Scaling unsupervised 3d object detection from 2d scene**, ECCV 2024, [ :link: ](https://arxiv.org/abs/2407.08569) [ :octocat: ](https://github.com/Ruiyang-061X/LiSe)
+- **Commonsense prototype for outdoor unsupervised 3d object detection**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2404.16493) [ :octocat: ](https://github.com/hailanyi/CPD)
+- **Union: Unsupervised 3d object detection using object appearance-based pseudo-classes**, NeurIPS 2024, [ :link: ](https://arxiv.org/abs/2405.15688) [ :octocat: ](https://github.com/TedLentsch/UNION)
+- **Learning to Detect Objects from Multi-Agent LiDAR Scans without Manual Labels**, CVPR 2025, [ :link: ](https://arxiv.org/abs/2503.08421) [ :octocat: ](https://github.com/xmuqimingxia/DOtAv2)
+- **Patchcontrast: Self-supervised pre-training for 3d object detection**, CVPRW 2025, [ :link: ](https://arxiv.org/abs/2308.06985)
+- **CMAE-3D: contrastive masked AutoEncoders for self-supervised 3D object detection**, IJCV 2025, [ :link: ](https://link.springer.com/article/10.1007/s11263-024-02313-2)
 
 
 
