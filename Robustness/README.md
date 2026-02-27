@@ -122,15 +122,15 @@
 ## 3D Point Cloud Rotation Invariance and Equivariance
 
 ### Survey / classic descriptors
-* **Rotation invariance and equivariance in 3D deep learning: a survey**, Artif. Intell. Review 2024, [ :link: ](https://link.springer.com/content/pdf/10.1007/s10462-024-10741-2.pdf) code: —
-* **Shape Retrieval using 3D Zernike Descriptors**, Computer-Aided Design 2004, [ :link: ](https://cg.cs.uni-bonn.de/backend/v1/files/publications/novotni-2004-shape.pdf) code: —
+* **Rotation invariance and equivariance in 3D deep learning: a survey**, Artif. Intell. Review 2024, [ :link: ](https://link.springer.com/content/pdf/10.1007/s10462-024-10741-2.pdf)
+* **Shape Retrieval using 3D Zernike Descriptors**, Computer-Aided Design 2004, [ :link: ](https://cg.cs.uni-bonn.de/backend/v1/files/publications/novotni-2004-shape.pdf)
 
 ### Invariant point-feature (coordinate-free / invariant inputs)
 * **PPFNet: Global Context Aware Local Features for Robust 3D Point Matching**, CVPR 2018, [ :link: ](https://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_PPFNet_Global_Context_CVPR_2018_paper.pdf) [ :octocat: ](https://github.com/leoHeidel/PPFNet-tensorflow) *(re-impl.)*
 * **PPF-FoldNet: Unsupervised Learning of Rotation Invariant 3D Local Descriptors**, ECCV 2018, [ :link: ](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tolga_Birdal_PPF-FoldNet_Unsupervised_Learning_ECCV_2018_paper.pdf) [ :octocat: ](https://github.com/XuyangBai/PPF-FoldNet) *(re-impl.)*
 * **PaRot: Patch-Wise Rotation-Invariant Network via Feature Disentanglement and Pose Restoration**, AAAI 2023, [ :link: ](https://patchrot.github.io/index_files/pdfs/AAAI2023_main.pdf) [ :octocat: ](https://github.com/dingxin-zhang/PaRot)
 * **PRIN/SPRIN: On Extracting Point-wise Rotation Invariant Features**, TPAMI 2021, [ :link: ](https://arxiv.org/pdf/2102.12093) [ :octocat: ](https://github.com/qq456cvb/SPRIN)
-* **SGMNet: Learning Rotation-Invariant Point Cloud Representations via Sorted Gram Matrix**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_SGMNet_Learning_Rotation-Invariant_Point_Cloud_Representations_via_Sorted_Gram_Matrix_ICCV_2021_paper.pdf) code: —
+* **SGMNet: Learning Rotation-Invariant Point Cloud Representations via Sorted Gram Matrix**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_SGMNet_Learning_Rotation-Invariant_Point_Cloud_Representations_via_Sorted_Gram_Matrix_ICCV_2021_paper.pdf) 
 * **A General Framework for Rotation Invariant Point Cloud Analysis**, ICASSP 2024 / arXiv 2024, [ :link: ](https://arxiv.org/abs/2402.01331) [ :octocat: ](https://github.com/luoshuqing2001/RI_framework)
 
 ### Rotation-invariant convolution
@@ -140,11 +140,11 @@
 * **RISurConv: Rotation Invariant Surface Attention-Augmented Convolutions**, ECCV 2024 (Oral), [ :link: ](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04024.pdf) [ :octocat: ](https://github.com/cszyzhang/RISurConv)
 
 ### Rotation-invariant transformer
-* **RITNet: A Rotation Invariant Transformer based Network for Point Cloud Registration**, ICTAI 2022, [ :link: ](https://researchr.org/publication/YangLWYL22) code: —
+* **RITNet: A Rotation Invariant Transformer based Network for Point Cloud Registration**, ICTAI 2022, [ :link: ](https://researchr.org/publication/YangLWYL22) 
 * **RoITr: Rotation-Invariant Transformer for Point Cloud Matching**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Rotation-Invariant_Transformer_for_Point_Cloud_Matching_CVPR_2023_paper.pdf) [ :octocat: ](https://github.com/haoyu94/RoITr)
 * **MaskLRF: Self-supervised Pretraining via Masked Autoencoding of Local Reference Frames**, IEEE Access 2024, [ :link: ](https://yamanashi.repo.nii.ac.jp/records/2000381) [ :octocat: ](https://github.com/takahikof/MaskLRF)
 * **Self-supervised Learning of Rotation-invariant 3D Point Set Features using Transformer and its Self-distillation**, CVIU 2024, [ :link: ](https://www.sciencedirect.com/science/article/pii/S1077314224001061) [ :octocat: ](https://github.com/takahikof/RIPT_SDMM)
-* **RotInv-PCT: Rotation-Invariant Point Cloud Transformer via feature separation and aggregation**, Neural Networks 2025, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0893608025001029) code: —
+* **RotInv-PCT: Rotation-Invariant Point Cloud Transformer via feature separation and aggregation**, Neural Networks 2025, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0893608025001029)
 
 
 ## 3D Domain Adaptation
