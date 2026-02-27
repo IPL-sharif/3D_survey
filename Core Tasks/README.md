@@ -313,7 +313,26 @@
 
 ### Object Pose Estimation 
 
-### Human Pose Estimation
+## 3D Point Cloud Human Pose Estimation
+### Surveys / overviews
+* **3D Human Pose and Shape Estimation from LiDAR Point Clouds: A Review**, arXiv 2025, [ :link: ](https://arxiv.org/abs/2509.12197) [ :octocat: ](https://github.com/valeoai/3D-Human-Pose-Shape-Estimation-from-LiDAR)
+* **Deep learning for 3D human pose estimation and mesh recovery: A survey**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2402.18844) [ :octocat: ](https://github.com/liuyangme/SOTA-3DHPE-HMR)
+* **Attention-Enhanced Lightweight Hourglass Network for Human Pose Estimation** (Kappan et al.), arXiv 2024/2025, [ :link: ](https://export.arxiv.org/abs/2412.06227)
 
+### Body-scanned / dense point clouds
+* **Learning to Estimate 3D Human Pose From Point Cloud**, IEEE Sensors Journal 2020 (arXiv version 2022), [ :link: ](https://arxiv.org/abs/2212.12910) 
+* **Efficient Human Pose Estimation via 3D Event Point Cloud**, 3DV 2022, [ :link: ](https://arxiv.org/abs/2206.04511) [ :octocat: ](https://github.com/MasterHow/EventPointPose)
+* **SPiKE: 3D Human Pose from Point Cloud Sequences**, 2024 (book chapter 2025), [ :link: ](https://arxiv.org/abs/2409.01879) [ :octocat: ](https://github.com/iballester/SPiKE)
+
+### LiDAR point clouds (sparse, outdoor / long-range)
+* **3D Human Keypoints Estimation From Point Clouds in the Wild Without Human Labels**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/papers/Weng_3D_Human_Keypoints_Estimation_From_Point_Clouds_in_the_Wild_CVPR_2023_paper.pdf)
+* **LidPose: Real-Time 3D Human Pose Estimation in Sparse Lidar Point Clouds with Non-Repetitive Circular Scanning Pattern**, Sensors 2024, [ :link: ](https://www.mdpi.com/1424-8220/24/11/3427) 
+* **LPFormer: LiDAR Pose Estimation Transformer with Multi-Task Network**, ICRA 2024 (arXiv 2023), [ :link: ](https://arxiv.org/abs/2306.12525)
+* **LiDARCapV2: 3D human pose estimation with human–object interaction from LiDAR point clouds**, Pattern Recognition 2024, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0031320324005995) [ :octocat: ](https://github.com/jingyi-zhang/LiDARCapV2_)
+* **Pre-training a Density-Aware Pose Transformer for Robust LiDAR-based 3D Human Pose Estimation (DAPT)**, AAAI 2025 (arXiv 2024), [ :link: ](https://arxiv.org/abs/2412.13454) [ :octocat: ](https://github.com/AnxQ/dapt)
+
+### Joint pose + body shape (SMPL/mesh) from point clouds
+* **LiveHPS: LiDAR-based Scene-level Human Pose and Shape Estimation in Free Environment**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_LiveHPS_LiDAR-based_Scene-level_Human_Pose_and_Shape_Estimation_in_Free_CVPR_2024_paper.pdf) [ :octocat: ](https://github.com/4DVLab/LiveHPS)
+* **PointHPS: Cascaded 3D Human Pose and Shape Estimation from Point Clouds**, 2023 (IJCV 2026 version), [ :link: ](https://arxiv.org/abs/2308.14492) [ :octocat: ](https://github.com/MotrixLab/PointHPS)
 
 ## Registration
