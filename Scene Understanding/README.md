@@ -7,6 +7,10 @@
 * [3D Question Answering](#3D-Question-Answering)
 
 * [3D Reasoning](#3D-Reasoning)
+   * [Spatial Reasoning](#Spatial-Reasoning)
+   * [Reasoning-based Rrounding](#Reasoning-based-Rrounding)
+   * [Generalist Reasoning](#Generalist-Reasoning)
+   * [Geometric/Physical Reasoning](#Geometric/Physical-Reasoning)
  
   
 ---
@@ -44,3 +48,10 @@
   
 
 ## 3D Reasoning
+### Spatial Reasoning
+
+### Reasoning-based Rrounding
+
+### Generalist Reasoning
+
+### Geometric/Physical Reasoning
