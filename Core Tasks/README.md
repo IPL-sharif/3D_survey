@@ -22,8 +22,11 @@
 
 * [Compression](#Compression)
 
-* [Registration and 6D Pose estimation](#Registration and 6D Pose estimation)
+* [6DoF Pose Estimation](#6DoF-Pose-Estimation)
+   * [Object Pose Estimation](#Object-Pose-Estimation)
+   * [Human Pose Estimation](#Human-Pose-Estimation) 
 
+* [Registration](#Registration)
 
  
   
@@ -305,4 +308,12 @@
 
 * **Octree-based Point-Cloud Compression**, SPBG'06: Proceedings of the 3rd Eurographics / IEEE VGTC conference on Point-Based Graphics 2006, [ :link: ](https://dl.acm.org/doi/10.5555/2386388.2386404)
 
-## Registration and 6D Pose estimation
+
+## 6DoF Pose estimation
+
+### Object Pose Estimation 
+
+### Human Pose Estimation
+
+
+## Registration
