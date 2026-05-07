@@ -1,6 +1,13 @@
 # 3D Core Tasks
 
 * [Classification](#Classification)
+    * [Projection-based Methods](#projection-based-methods)
+    * [Volumetric-based Methods](#volumetric-based-methods)
+    * [Point-based Methods](#point-based-methods)
+        * [MLP-based Methods](#mlp-based-methods)
+        * [Convolution-based Methods](#convolution-based-methods)
+        * [Graph-based Methods](#graph-based-methods)
+        * [Transformer-based Methods](#transformer-based-methods)
 
 * [Segmentation](#Segmentation)
 
@@ -33,7 +40,105 @@
 ---
 ## Classification
 
-* **Weak-to-strong 3d object detection with x-ray distillation**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/html/Gambashidze_Weak-to-Strong_3D_Object_Detection_with_X-Ray_Distillation_CVPR_2024_paper.html) [ :octocat: ](https://github.com/sakharok13/X-Ray-Teacher-Patching-Tools)
+### Projection-based Methods
+
+* **Multi-view convolutional neural networks for 3d shape recognition**, ICCV 2015, [ :link: ](https://openaccess.thecvf.com/content_iccv_2015/papers/Su_Multi-View_Convolutional_Neural_ICCV_2015_paper.pdf) [ :octocat: ](https://github.com/suhangpro/mvcnn)
+* **Gift: A real-time and scalable 3d shape search engine**, CVPR 2016, [ :link: ](https://openaccess.thecvf.com/content_cvpr_2016/papers/Bai_GIFT_A_Real-Time_CVPR_2016_paper.pdf)
+* **Gvcnn: Group-view convolutional neural networks for 3d shape recognition**, CVPR 2018, [ :link: ](https://openaccess.thecvf.com/content_cvpr_2018/papers/Feng_GVCNN_Group-View_Convolutional_CVPR_2018_paper.pdf) [ :octocat: ](https://github.com/waxnkw/gvcnn-pytorch)
+* **Multi-view harmonized bilinear network for 3d object recognition**, CVPR 2018, [ :link: ](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0142.pdf) [ :octocat: ](https://github.com/liyuan24/MHBNN-PyTorch)
+* **Mvtn: Multi-view transformation network for 3d shape recognition**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/papers/Hamdi_MVTN_Multi-View_Transformation_Network_for_3D_Shape_Recognition_ICCV_2021_paper.pdf) [ :octocat: ](https://github.com/ajhamdi/MVTN)
+* **Multi-view attention-convolution pooling network for 3D point cloud classification**, Springer 2022, [ :link: ](https://link.springer.com/article/10.1007/s10489-021-02840-2)
+* **Clip2point: Transfer clip to point cloud classification with image-depth pre-training**, ICCV 2023, [ :link: ](https://openaccess.thecvf.com/content/ICCV2023/papers/Huang_CLIP2Point_Transfer_CLIP_to_Point_Cloud_Classification_with_Image-Depth_Pre-Training_ICCV_2023_paper.pdf) [ :octocat: ](https://github.com/tyhuang0428/CLIP2Point)
+* **DTV-CNN: Neural network based on depth and thickness views for efficient 3D shape classification**, Elsevier 2023, [ :link: ](https://www.sciencedirect.com/science/article/pii/S2405844023087236)
+* **Multi-view representation is what you need for point-cloud pre-training**, ICLR 2024, [ :link: ](https://openreview.net/forum?id=imZcqOrbig)
+* **Pointofview: A multi-modal network for few-shot 3d point cloud classification fusing point and multi-view image features**, CVPR Workshop 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024W/3DMV/papers/Ren_PointOfView_A_Multi-modal_Network_for_Few-shot_3D_Point_Cloud_Classification_CVPRW_2024_paper.pdf)
+* **3D model classification based on DRSN and multi-view feature fusion**, Elsevier 2025, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0957417425004944)
+
+
+### Volumetric-based Methods
+
+* **Voxnet: A 3d convolutional neural network for real-time object recognition**, IEEE/RSJ (IROS) 2015, [ :link: ](https://ieeexplore.ieee.org/document/7353481) [ :octocat: ](https://github.com/AutoDeep/VoxNet)
+* **Fpnn: Field probing neural networks for 3d data**, NIPS 2016, [ :link: ](https://proceedings.neurips.cc/paper_files/paper/2016/file/854d6fae5ee42911677c739ee1734486-Paper.pdf) [ :octocat: ](https://github.com/yangyanli/FPNN)
+* **Octnet: Learning deep 3d representations at high resolutions**, CVPR 2017, [ :link: ](https://openaccess.thecvf.com/content_cvpr_2017/papers/Riegler_OctNet_Learning_Deep_CVPR_2017_paper.pdf) [ :octocat: ](https://github.com/griegler/octnet)
+* **O-cnn: Octree-based convolutional neural networks for 3d shape analysis**, ACM 2017, [ :link: ](https://dl.acm.org/doi/10.1145/3072959.3073608) [ :octocat: ](https://github.com/microsoft/o-cnn)
+* **Escape from cells: Deep kd-networks for the recognition of 3d point cloud models**, ICCV 2017, [ :link: ](https://openaccess.thecvf.com/content_ICCV_2017/papers/Klokov_Escape_From_Cells_ICCV_2017_paper.pdf) [ :octocat: ](https://github.com/fxia22/kdnet.pytorch)
+* **MSNet: Multi-scale convolutional network for point cloud classification**, Remote Sense 2018, [ :link: ](https://www.mdpi.com/2072-4292/10/4/612)
+* **Vv-net: Voxel vae net with group convolutions for point cloud segmentation**, ICCV 2019, [ :link: ](https://openaccess.thecvf.com/content_ICCV_2019/papers/Meng_VV-Net_Voxel_VAE_Net_With_Group_Convolutions_for_Point_Cloud_ICCV_2019_paper.pdf) [ :octocat: ](https://github.com/xianyuMeng/VV-Net-Voxel-VAE-Net-with-Group-Convolutions-for-Point-Cloud-Segmentation)
+* **Multi-level 3D CNN for learning multi-scale spatial features**, CVPR Workshop 2019, [ :link: ](https://ieeexplore.ieee.org/document/9025500)
+* **2-s3net: Attentive feature fusion with adaptive feature selection for sparse semantic segmentation network**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content/CVPR2021/papers/Cheng_AF2-S3Net_Attentive_Feature_Fusion_With_Adaptive_Feature_Selection_for_Sparse_CVPR_2021_paper.pdf)
+* **Point-voxel adaptive feature abstraction for robust point cloud classification**, ArXiv 2022, [ :link: ](https://arxiv.org/abs/2210.15514) [ :octocat: ](https://github.com/zhulf0804/PV-Ada)
+
+
+### Point-based Methods
+
+#### MLP-based Methods
+
+* **Pointnet: Deep learning on point sets for 3d classification and segmentation**, CVPR 2017, [ :link: ](https://openaccess.thecvf.com/content_cvpr_2017/papers/Qi_PointNet_Deep_Learning_CVPR_2017_paper.pdf) [ :octocat: ](https://github.com/charlesq34/pointnet)
+* **PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space**, NIPS 2017, [ :octocat: ](https://github.com/charlesq34/pointnet2)
+* **Momen (e) t: Flavor the moments in learning to classify shapes**, ICCVW 2019, [ :link: ](https://openaccess.thecvf.com/content_ICCVW_2019/papers/GMDL/Joseph-Rivlin_Momenet_Flavor_the_Moments_in_Learning_to_Classify_Shapes_ICCVW_2019_paper.pdf)
+* **Pointweb: Enhancing local neighborhood features for point cloud processing**, IEEE/CVPR 2019, [ :link: ](https://ieeexplore.ieee.org/document/8954075) [ :octocat: ](https://github.com/hszhao/PointWeb)
+* **Structural relational reasoning of point clouds**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Duan_Structural_Relational_Reasoning_of_Point_Clouds_CVPR_2019_paper.pdf) [ :octocat: ](https://github.com/duanyueqi/SRN)
+* **Pointnext: Revisiting pointnet++ with improved training and scaling strategies**, NeurIPS 2022, [ :link: ](https://openreview.net/pdf?id=EAcWgk7JM58) [ :octocat: ](https://github.com/guochengqian/pointnext)
+* **Rethinking Network Design and Local Geometry in Point Cloud: A Simple Residual MLP Framework**, ICLR 2022, [ :link: ](https://openreview.net/forum?id=3Pbra-_u76D) [ :octocat: ](https://github.com/ma-xu/pointMLP-pytorch)
+* **DualMLP: a two-stream fusion model for 3D point cloud classification**, Springer 2024, [ :link: ](https://link.springer.com/article/10.1007/s00371-023-03114-3) [ :octocat: ](https://github.com/snehaputul/DualMLP)
+* **Pointgl: A simple global-local framework for efficient point cloud analysis**, IEEE 2024, [ :link: ](https://ieeexplore.ieee.org/document/10414214) [ :octocat: ](https://github.com/roywangj/pointgl)
+* **Improved mlp point cloud processing with high-dimensional positional encoding**, AAAI 2024, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/28625)
+* **Interpretable point cloud classification using multiple instance learning**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/papers/De_Vries_Interpretable_point_cloud_classification_using_multiple_instance_learning_ICCV_2025_paper.pdf)
+* **KAN or MLP? Point Cloud Shows the Way Forward**, ICLR 2026, [ :link: ](https://openreview.net/forum?id=1x0eJ8uUx6)
+
+
+#### Convolution-based Methods
+
+* **Point convolutional neural networks by extension operators**, Arxiv 2018, [ :link: ](https://arxiv.org/abs/1803.10091) [ :octocat: ](https://github.com/matanatz/pcnn)
+* **Pointcnn: Convolution on x-transformed points**, NIPS 2018, [ :link: ](https://papers.nips.cc/paper/2018/file/f5f8590cd58a54e94377e6ae2eded4d9-Paper.pdf) [ :octocat: ](https://github.com/yangyanli/PointCNN)
+* **Pointwise convolutional neural networks**, CVPR 2018, [ :link: ](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hua_Pointwise_Convolutional_Neural_CVPR_2018_paper.pdf) [ :octocat: ](https://github.com/hkust-vgd/pointwise)
+* **Effective rotation-invariant point cnn with spherical harmonics kernels**, IEEE 3DV 2019, [ :link: ](https://ieeexplore.ieee.org/document/8886010) [ :octocat: ](https://github.com/adrienPoulenard/SPHnet)
+* **Relation-shape convolutional neural network for point cloud analysis**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Relation-Shape_Convolutional_Neural_Network_for_Point_Cloud_Analysis_CVPR_2019_paper.pdf) [ :octocat: ](https://github.com/Yochengliu/Relation-Shape-CNN)
+* **Kpconv: Flexible and deformable convolution for point clouds**, IEEE/ICCV 2019, [ :link: ](https://ieeexplore.ieee.org/document/9010002) [ :octocat: ](https://github.com/HuguesTHOMAS/KPConv)
+* **Densepoint: Learning densely contextual representation for efficient point cloud processing**, ICCV 2019, [ :link: ](https://openaccess.thecvf.com/content_ICCV_2019/papers/Liu_DensePoint_Learning_Densely_Contextual_Representation_for_Efficient_Point_Cloud_Processing_ICCV_2019_paper.pdf) [ :octocat: ](https://github.com/Yochengliu/DensePoint)
+* **ConvPoint: Continuous convolutions for point cloud processing**, Elsevier 2020, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0097849320300224) [ :octocat: ](https://github.com/aboulch/ConvPoint)
+* **A-cnn: Annularly convolutional neural networks on point clouds**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Komarichev_A-CNN_Annularly_Convolutional_Neural_Networks_on_Point_Clouds_CVPR_2019_paper.pdf) [ :octocat: ](https://github.com/akomarichev/a-cnn)
+* **Rotation invariant convolutions for 3d point clouds deep learning**, IEEE 3DV 2019, [ :link: ](https://ieeexplore.ieee.org/document/8886052) [ :octocat: ](https://github.com/hkust-vgd/riconv)
+* **Shellnet: Efficient point cloud convolutional neural networks using concentric shells statistics**, ICCV 2019, [ :link: ](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Zhang_ShellNet_Efficient_Point_ICCV_2019_supplemental.pdf) [ :octocat: ](https://github.com/hkust-vgd/shellnet)
+* **Deltaconv: anisotropic operators for geometric deep learning on point clouds**, ACM 2022, [ :link: ](https://dl.acm.org/doi/abs/10.1145/3528223.3530166) [ :octocat: ](https://github.com/rubenwiersma/deltaconv)
+* **Surface representation for point clouds**, CVPR 2022, [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/papers/Ran_Surface_Representation_for_Point_Clouds_CVPR_2022_paper.pdf) [ :octocat: ](https://github.com/hancyran/RepSurf)
+* **Composite convolution: A flexible operator for deep learning on 3D point clouds**, Elsevier 2024, [ :link: ](https://www.sciencedirect.com/science/article/pii/S003132032400308X) [ :octocat: ](https://github.com/sirolf-otrebla/CompositeNet)
+* **PointCNN++: Performant Convolution on Native Points**, Arxiv 2025, [ :link: ](https://arxiv.org/abs/2511.23227) [ :octocat: ](https://github.com/ant-research/pointelligence)
+
+
+#### Graph-based Methods
+
+* **Dynamic edge-conditioned filters in convolutional neural networks on graphs**, CVPR 2017, [ :link: ](https://openaccess.thecvf.com/content_cvpr_2017/papers/Simonovsky_Dynamic_Edge-Conditioned_Filters_CVPR_2017_paper.pdf) [ :octocat: ](https://github.com/mys007/ecc)
+* **Local spectral graph convolution for point set feature learning**, ECCV 2018, [ :link: ](https://dl.acm.org/doi/abs/10.1007/978-3-030-01225-0_4) [ :octocat: ](https://github.com/utayao/LocalSpecGCN)
+* **Rgcnn: Regularized graph cnn for point cloud segmentation**, ACM 2018, [ :link: ](https://dl.acm.org/doi/10.1145/3240508.3240621) [ :octocat: ](https://github.com/tegusi/RGCNN)
+* **A graph-cnn for 3d point cloud classification**, IEEE ICASSP 2018, [ :link: ](https://dl.acm.org/doi/10.1109/ICASSP.2018.8462291) [ :octocat: ](https://github.com/maggie0106/Graph-CNN-in-3D-Point-Cloud-Classification)
+* **Mining point cloud local structures by kernel correlation and graph pooling**, CVPR 2018, [ :link: ](https://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Mining_Point_Cloud_CVPR_2018_paper.pdf) [ :octocat: ](http://www.merl.com/research/license#KCNet)
+* **Dynamic graph cnn for learning on point clouds**, ACM 2019, [ :link: ](https://dl.acm.org/doi/10.1145/3326362) [ :octocat: ](https://github.com/WangYueFt/dgcnn)
+* **PointNGCNN: Deep convolutional networks on 3D point clouds with neighborhood graph filters**, Elsevier 2020, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0097849319301748)
+* **Convolution in the cloud: Learning deformable kernels in 3d graph convolution networks for point cloud analysis**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_Convolution_in_the_Cloud_Learning_Deformable_Kernels_in_3D_Graph_CVPR_2020_paper.pdf) [ :octocat: ](https://github.com/j1a0m0e4sNTU/3dgcn)
+* **Pointmanifold: Using manifold learning for point cloud classification**, Arxiv 2020, [ :link: ](https://arxiv.org/abs/2010.07215)
+* **Linked dynamic graph cnn: Learning through point cloud by linking hierarchical features**, IEEE 2021, [ :link: ](https://ieeexplore.ieee.org/document/9665104/) [ :octocat: ](https://github.com/KuangenZhang/ldgcnn)
+* **Pointview-gcn: 3d shape classification with multi-view point clouds**, IEEE ICIP 2021, [ :link: ](https://ieeexplore.ieee.org/document/9506426/) [ :octocat: ](https://github.com/SMohammadi89/PointView-GCN)
+* **Paconv: Position adaptive convolution with dynamic kernel assembling on point clouds**, CVPR 2021, [ :link: ](https://openaccess.thecvf.com/content/CVPR2021/papers/Xu_PAConv_Position_Adaptive_Convolution_With_Dynamic_Kernel_Assembling_on_Point_CVPR_2021_paper.pdf) [ :octocat: ](https://github.com/CVMI-Lab/PAConv)
+* **Walk in the cloud: Learning curves for point clouds shape analysis**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/papers/Xiang_Walk_in_the_Cloud_Learning_Curves_for_Point_Clouds_Shape_ICCV_2021_paper.pdf) [ :octocat: ](https://github.com/tiangexiang/CurveNet)
+* **PointViG: A Lightweight GNN-based Model for Efficient Point Cloud Analysis**, Arxiv 2024, [ :link: ](https://arxiv.org/abs/2407.00921)
+* **Enhancing 3D Point Cloud Classification with ModelNet-R and Point-SkipNet**, Arxiv 2025, [ :link: ](https://arxiv.org/abs/2509.05198) [ :octocat: ](https://github.com/m-saeid/ModeNetR_PointSkipNet)
+
+
+#### Transformer-based Methods
+
+* **Modeling point clouds with self-attention and gumbel subset sampling**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_Modeling_Point_Clouds_With_Self-Attention_and_Gumbel_Subset_Sampling_CVPR_2019_paper.pdf)
+* **Point transformer**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhao_Point_Transformer_ICCV_2021_paper.pdf)
+* **Pct: Point cloud transformer**, Springer 2021, [ :link: ](https://link.springer.com/article/10.1007/s41095-021-0229-5) [ :octocat: ](https://github.com/Strawberry-Eat-Mango/PCT_Pytorch)
+* **Point transformer v2: Grouped vector attention and partition-based pooling**, NeurIPS 2022, [ :link: ](https://proceedings.neurips.cc/paper_files/paper/2022/file/d78ece6613953f46501b958b7bb4582f-Paper-Conference.pdf) [ :octocat: ](https://github.com/Pointcept/PointTransformerV2)
+* **Lcpformer: Towards effective 3d point cloud analysis via local context propagation in transformers**, IEEE 2023, [ :link: ](https://ieeexplore.ieee.org/document/10049597) [ :octocat: ](https://github.com/zhh6425/LocalContextPropagation)
+* **Self-positioning point-based transformer for point cloud understanding**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/papers/Park_Self-Positioning_Point-Based_Transformer_for_Point_Cloud_Understanding_CVPR_2023_paper.pdf) [ :octocat: ](https://github.com/mlvlab/spotr)
+* **Point transformer v3: Simpler faster stronger**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/papers/Wu_Point_Transformer_V3_Simpler_Faster_Stronger_CVPR_2024_paper.pdf) [ :octocat: ](https://github.com/pointcept/pointtransformerv3)
+* **PPT: A Point Patch Transformer for Point Cloud Classification**, Optica Open 2025, [ :link: ](https://preprints.opticaopen.org/articles/preprint/PPT_A_Point_Patch_Transformer_for_Point_Cloud_Classification/28504493/3/files/52676381.pdf)
+* **Spiking point transformer for point cloud classification**, AAAI 2025, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/35459/37614) [ :octocat: ](https://github.com/PeppaWu/SPT)
+* **An aerial point cloud classification using point transformer via multi-feature fusion**, Scientific Reports 2025, [ :link: ](https://www.nature.com/articles/s41598-025-02719-z)
+
+
 
 
 ## Segmentation
