@@ -16,7 +16,7 @@
 ---
 ## 3D Captioning
 
-- **A comprehensive survey of deep learning for image captioning**, 
+- **A comprehensive survey of deep learning for image captioning**, ACM 2019, [ :link: ](https://dl.acm.org/doi/pdf/10.1145/3295748)
 
 
 ## 3D Grounding
