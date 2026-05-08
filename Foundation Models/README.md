@@ -10,7 +10,7 @@
 * **Foundational models for 3d point clouds: A survey and outlook**, arXiv 2025, [ :link: ](https://arxiv.org/pdf/2501.18594?)
 * **Large vlm-based vision-language-action models for robotic manipulation: A survey**, arXiv 2025, [ :link: ](https://arxiv.org/pdf/2508.13073?)
 * **Vision mamba: A comprehensive survey and taxonomy**, IEEE/TNNLS 2025, [ :link: ](https://arxiv.org/pdf/2405.04404), [ :octocat: ](https://github.com/lx6c78/Vision-Mamba-A-Comprehensive-Survey-and-Taxonomy)
-* **Dust3r: Geometric 3d vision made easy**, CVPR 2024, [ :link: ], [ :octocat: ](https://github.com/naver/dust3r)(https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_DUSt3R_Geometric_3D_Vision_Made_Easy_CVPR_2024_paper.pdf)
+* **Dust3r: Geometric 3d vision made easy**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_DUSt3R_Geometric_3D_Vision_Made_Easy_CVPR_2024_paper.pdf), [ :octocat: ](https://github.com/naver/dust3r)
 * **Must3r: Multi-view network for stereo 3d reconstruction**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/papers/Cabon_MUSt3R_Multi-view_Network_for_Stereo_3D_Reconstruction_CVPR_2025_paper.pdf), [ :octocat: ](https://github.com/naver/must3r)
 * **Fast3r: Towards 3d reconstruction of 1000+ images in one forward pass**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/papers/Yang_Fast3R_Towards_3D_Reconstruction_of_1000_Images_in_One_Forward_CVPR_2025_paper.pdf), [ :octocat: ](https://github.com/facebookresearch/fast3r) 
 * **Vggt: Visual geometry grounded transformer**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/papers/Wang_VGGT_Visual_Geometry_Grounded_Transformer_CVPR_2025_paper.pdf), [ :octocat: ](https://github.com/facebookresearch/vggt)
