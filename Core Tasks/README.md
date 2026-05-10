@@ -316,9 +316,12 @@
 
 ## Tracking
 
+### Single-Object Tracking
+#### LiDAR-based trackers
+* **Leveraging Shape Completion for 3D Siamese Tracking**, CVPR 2019, [ :link: ](https://arxiv.org/abs/1903.01784) [ :octocat: ](https://github.com/SilvioGiancola/ShapeCompletion3DTracking)
 
 ## Compression
-* **msLPCC: A multimodal-driven scalable framework for deep LiDAR point cloud compression**, AAAI 2024, [ :link: ]( https://ojs.aaai.org/index.php/AAAI/article/view/28362)
+* **msLPCC: A multimodal-driven scalable framework for deep LiDAR point cloud compression**, AAAI 2024, [ :link: ]( https://ojs.aaai.org/index.php/AAAI/article/view/28362)[ :octocat: ]( https://github.com/I2-Multimedia-Lab/Pointsoup)
 
 
 * **Pointsoup: High-performance and extremely low-decoding-latency learned geometry codec for large-scale point cloud scenes**, IJCAI 2024, [ :link: ](https://www.ijcai.org/proceedings/2024/0595.pdf) [ :octocat: ]( https://github.com/I2-Multimedia-Lab/Pointsoup)
