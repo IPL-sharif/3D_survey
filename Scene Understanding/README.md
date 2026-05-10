@@ -135,7 +135,7 @@
 - **3D-R1: Enhancing Reasoning in 3D VLMs for Unified Scene Understanding**, Arxiv 2025, [ :link: ](https://arxiv.org/abs/2507.23478) [ :octocat: ](https://github.com/AIGeeksGroup/3D-R1)
 
 ### Geometric/Physical Reasoning
-- **Probabilistic reasoning for assembly-based 3d modeling**, SIGGRAPH 11, [ :link: ](https://dl.acm.org/doi/10.1145/2010324.1964930)
+- **Probabilistic reasoning for assembly-based 3d modeling**, SIGGRAPH 2011, [ :link: ](https://dl.acm.org/doi/10.1145/2010324.1964930)
 - **3D-Based Reasoning with Blocks, Support, and Stability**, CVPR 2013, [ :link: ](https://ieeexplore.ieee.org/document/6618852/)
 - **Box in the box: Joint 3d layout and object reasoning from single images**, ICCV 2013, [ :link: ](https://ieeexplore.ieee.org/document/6751153/)
 - **Discovery of Latent 3D Keypoints via End-to-end Geometric Reasoning**, NeurIPS 2018, [ :link: ](https://arxiv.org/abs/1807.03146)
