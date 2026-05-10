@@ -108,9 +108,36 @@
 
 ## 3D Reasoning
 ### Spatial Reasoning
+- **Language Conditioned Spatial Relation Reasoning for 3D Object Grounding**, NeurIPS 2022, [ :link: ](https://arxiv.org/abs/2211.09646)
+- **3D Concept Learning and Reasoning from Multi-View Images**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2303.11327) [ :octocat: ](https://github.com/evelinehong/3D-CLR-Official)
+- **3D-Aware Visual Question Answering about Parts, Poses and Occlusions**, NeurIPS 2023, [ :link: ]((https://arxiv.org/abs/2310.17914)) [ :octocat: ](https://github.com/XingruiWang/3D-Aware-VQA)
+- **Think-Program-reCtify: 3D Situated Reasoning with Large Language Models**, Arxiv 2024, [ :link: ](https://arxiv.org/abs/2404.14705) [ :octocat: ](https://github.com/QingrongH/LLM-TPC)
+- **SpatialPIN: Enhancing Spatial Reasoning Capabilities of Vision-Language Models through Prompting and Interacting 3D Priors**, NeurIPS 2024, [ :link: ](https://arxiv.org/abs/2403.13438) [ :octocat: ](https://github.com/dannymcy/zeroshot_task_hallucination_code)
+- **Unifying 3D Vision-Language Understanding via Promptable Queries**, ECCV 2024, [ :link: ](https://arxiv.org/abs/2405.11442) [ :octocat: ](https://github.com/PQ3D/PQ3D)
+- **Situational Awareness Matters in 3D Vision Language Reasoning**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2406.07544) [ :octocat: ](https://github.com/YunzeMan/Situation3D)
+- **3DSRBench: A Comprehensive 3D Spatial Reasoning Benchmark**, CVPR 2025, [ :link: ](https://arxiv.org/abs/2412.07825) [ :octocat: ](https://3dsrbench.github.io/)
+- **SpatialReasoner: Towards Explicit and Generalizable 3D Spatial Reasoning**, NeurIPS 2026, [ :link: ](https://arxiv.org/abs/2504.20024) [ :octocat: ](https://github.com/wufeim/SpatialReasonerDataGen)
 
-### Reasoning-based Rrounding
+### Reasoning-based Grounding
+- **3D Question Answering for City Scene Understanding**, ACM MM 2024, [ :link: ](https://arxiv.org/abs/2407.17398)
+- **ScanReason: Empowering 3D Visual Grounding with Reasoning Capabilities**, ECCV 2024, [ :link: ](https://arxiv.org/abs/2407.01525) [ :octocat: ](http://github.com/ZCMax/ScanReason)
+- **Paris3d: Reasoning-based 3d part segmentation using large multimodal model**, ECCV 2024, [ :link: ](https://arxiv.org/abs/2404.03836) [ :octocat: ](https://github.com/AmrinKareem/PARIS3D)
+- **Reasoning3d–grounding and reasoning in 3d: Fine-grained zero-shot open-vocabulary 3d reasoning part segmentation via large visionlanguage models**, Arxiv 2024, [ :link: ](https://arxiv.org/abs/2405.19326) [ :octocat: ](https://github.com/tianrun-chen/Reason3D-PyTorch)
+- **Reason3D: Searching and Reasoning 3D Segmentation via Large Language Model**, 3DV 2025, [ :link: ](https://arxiv.org/abs/2405.17427) [ :octocat: ](https://github.com/KuanchihHuang/Reason3D)
 
 ### Generalist Reasoning
+- **3D-LLM: Injecting the 3D World into Large Language Models**, NeurIPS 2024, [ :link: ](https://arxiv.org/abs/2307.12981) [ :octocat: ](https://github.com/UMass-Embodied-AGI/3D-LLM)
+- **Multimodal 3D Reasoning Segmentation with Complex Scenes**, Arxiv 2024, [ :link: ](https://arxiv.org/abs/2411.13927)
+- **Scene-llm: Extending language model for 3d visual reasoning**, WACV 2025, [ :link: ](https://arxiv.org/abs/2403.11401)
+- **Llava-3d: A simple yet effective pathway to empowering lmms with 3d capabilities**, ICCV 2025, [ :link: ](https://arxiv.org/abs/2409.18125) [ :octocat: ](https://github.com/ZCMax/LLaVA-3D)
+- **Robin3D: Improving 3D Large Language Model via Robust Instruction Tuning**, ICCV 2025, [ :link: ](https://arxiv.org/abs/2410.00255) [ :octocat: ](https://github.com/WeitaiKang/Robin3D)
+- **3D-LLaVA: Towards Generalist 3D LMMs with Omni Superpoint Transformer**, CVPR 2025, [ :link: ](https://arxiv.org/abs/2501.01163) [ :octocat: ](https://github.com/djiajunustc/3D-LLaVA)
+- **3D-R1: Enhancing Reasoning in 3D VLMs for Unified Scene Understanding**, Arxiv 2025, [ :link: ](https://arxiv.org/abs/2507.23478) [ :octocat: ](https://github.com/AIGeeksGroup/3D-R1)
 
 ### Geometric/Physical Reasoning
+- **Probabilistic reasoning for assembly-based 3d modeling**, SIGGRAPH 11, [ :link: ](https://dl.acm.org/doi/10.1145/2010324.1964930)
+- **3D-Based Reasoning with Blocks, Support, and Stability**, CVPR 2013, [ :link: ](https://ieeexplore.ieee.org/document/6618852/)
+- **Box in the box: Joint 3d layout and object reasoning from single images**, ICCV 2013, [ :link: ](https://ieeexplore.ieee.org/document/6751153/)
+- **Discovery of Latent 3D Keypoints via End-to-end Geometric Reasoning**, NeurIPS 2018, [ :link: ](https://arxiv.org/abs/1807.03146)
+- **MonoGRNet: A Geometric Reasoning Network for Monocular 3D Object Localization**, AAAI 2019, [ :link: ](https://arxiv.org/abs/1811.10247) [ :octocat: ](https://github.com/Zengyi-Qin/MonoGRNet)
+- **Soft Rasterizer: A Differentiable Renderer for Image-based 3D Reasoning**, ICCV 2019, [ :link: ](https://arxiv.org/abs/1904.01786) [ :octocat: ](https://github.com/ShichenLiu/softRas)
