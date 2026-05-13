@@ -26,7 +26,9 @@
        * [pillar-based](#pillar-based)
        * [projection-based](#projection-based)
        * [hybrid](#hybrid)
-     
+    * [Detection Stage](#Detection_Stage)
+       * [One-Stage Detectors](#One-Stage Detectors)
+       * [Two-Stage Detectors](#Two-Stage Detectors)
    * [Supervision](#Supervision)
        * [Weakly-supervised 3D Detection](#Weakly-supervised-3D-Detection)
        * [Semi-supervised 3D Detection](#Semi-supervised-3D-Detection)
