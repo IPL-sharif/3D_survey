@@ -37,6 +37,21 @@
 ### Poisoning Defenses
 
 
+* **Cross-Modal Driven Object Restoration for 3D Point Cloud Backdoor Defense**, IEEE TIFS 2025, [ :link: ](https://ieeexplore.ieee.org/document/11184257)
+
+* **Cloudfort: Enhancing robustness of 3d point cloud classification against backdoor attacks via spatial partitioning and ensemble prediction**, IET Computer Vision 2025, [ :link: ](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cvi2.70047)
+
+* **Fisher information guided purification against backdoor attacks**, ACM CCS 2024, [ :link: ](https://dl.acm.org/doi/10.1145/3658644.3690250) [ :octocat: ](https://github.com/nazmul-karim170/FIP)
+
+* **Augmented neural fine-tuning for efficient backdoor purification**, ECCV 2024, [ :link: ](https://dl.acm.org/doi/10.1007/978-3-031-72989-8_23) [ :octocat: ](https://github.com/nazmul-karim170/NFT)
+
+* **Pointncbw: Towards dataset ownership verification for point clouds via negative clean-label backdoor watermark**, IEEE TIFS 2024, [ :link: ](https://ieeexplore.ieee.org/document/10745757) [ :octocat: ](https://github.com/weic0810/PointNCBW)
+
+* **Pointcrt: Detecting backdoor in 3d point cloud via corruption robustness**, ACM ICM 2023, [ :link: ](https://dl.acm.org/doi/10.1145/3581783.3612456) [ :octocat: ](https://github.com/CGCL-codes/PointCRT)
+
+* **Defense of Backdoor Attacks against Deep Neural Network Classifiers**, Thesis, Pensilvania State university 2022, [ :link: ](https://etda.libraries.psu.edu/catalog/24342zux49)
+
+
 ### LiDAR Attacks and Defenses
 
 
