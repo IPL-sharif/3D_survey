@@ -34,6 +34,39 @@
 ### Poisoning Attacks
 
 
+* **MOBA: A Material-Oriented Backdoor Attack against LiDAR-based 3D Object Detection Systems**, AAAI 2026, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/40842)
+
+* **Affinity Backdoor Attacks in Point Clouds: A Novel Method Resilient to Corruption**, IEEE TIFS 2025, [ :link: ](https://ieeexplore.ieee.org/document/11018477)
+
+* **Stealthy Patch-Wise Backdoor Attack in 3D Point Cloud via Curvature Awareness**, Arxiv preprint 2025, [ :link: ](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6168351)
+
+* **Not only Spatial, but Also Spectral: Unnoticeable Backdoor Attack on 3D Point Clouds**, International Conference on Information and Communications Security 2025, [ :link: ](https://link.springer.com/chapter/10.1007/978-981-95-3537-8_6)
+
+* **STONE: Pioneering the One-to-N Backdoor Threat in 3D Point Cloud**, Arxiv Preprint 2025, [ :link: ](https://ui.adsabs.harvard.edu/abs/2025arXiv251111210S/abstract)
+
+* **Invisible backdoor attack against 3D point cloud classifier in graph spectral domain**, AAAI 2024, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/30099)
+
+* **Pointncbw: Towards dataset ownership verification for point clouds via negative clean-label backdoor watermark**, IEEE TIFS 2024, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10745757) [ :octocat: ](https://github.com/weic0810/PointNCBW)
+
+* **PointAPA: Towards availability poisoning attacks in 3D point clouds**, European Symposium on Research in Computer Security (ESORICS) 2024, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-031-70879-4_7) [ :octocat: ](https://github.com/wxldragon/PointAPA)
+
+* **iba: Backdoor attack on 3d point cloud via reconstructing itself**, IEEE TIFS 2024, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10659845)
+
+* **Stealthy and Robust Backdoor Attack against 3D Point Clouds through Additional Point Features**, Arxiv Preprint 2024, [ :link: ](https://ui.adsabs.harvard.edu/abs/2024arXiv241207511N/abstract)
+
+* **Imperceptible and robust backdoor attack in 3d point cloud**, IEEE TIFS 2023, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10319836) [ :octocat: ](https://github.com/KuofengGao/IRBA)
+
+* **Towards backdoor attacks against lidar object detection in autonomous driving**, ACM Conference on Embedded Networked Sensor Systems 2022, [ :link: ](https://dl.acm.org/doi/abs/10.1145/3560905.3568539)
+
+* **A backdoor attack against 3d point cloud classifiers**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/html/Xiang_A_Backdoor_Attack_Against_3D_Point_Cloud_Classifiers_ICCV_2021_paper.html) [ :octocat: ](https://github.com/zhenxianglance/PCBA)
+
+* **PointBA: Towards backdoor attacks in 3d point cloud**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/html/Li_PointBA_Towards_Backdoor_Attacks_in_3D_Point_Cloud_ICCV_2021_paper.html) 
+
+* **Poisoning MorphNet for clean-label backdoor attack to point clouds**, Arxiv Preprint 2021, [ :link: ](https://ui.adsabs.harvard.edu/abs/2021arXiv210504839T/abstract)
+
+* **Generative strategy based backdoor attacks to 3D point clouds: work-in-progress**, International Conference on Embedded Software (ICES) 2021, [ :link: ](https://dl.acm.org/doi/abs/10.1145/3477244.3477611) [ :octocat: ](https://github.com/ )
+
+
 ### Poisoning Defenses
 
 
@@ -49,7 +82,7 @@
 
 * **Pointcrt: Detecting backdoor in 3d point cloud via corruption robustness**, ACM ICM 2023, [ :link: ](https://dl.acm.org/doi/10.1145/3581783.3612456) [ :octocat: ](https://github.com/CGCL-codes/PointCRT)
 
-* **Defense of Backdoor Attacks against Deep Neural Network Classifiers**, Thesis, Pensilvania State university 2022, [ :link: ](https://etda.libraries.psu.edu/catalog/24342zux49)
+* **Defense of Backdoor Attacks against Deep Neural Network Classifiers**, Thesis, Pennsylvania State university 2022, [ :link: ](https://etda.libraries.psu.edu/catalog/24342zux49)
 
 
 ### LiDAR Attacks and Defenses
