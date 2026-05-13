@@ -37,10 +37,7 @@
 ### Poisoning Defenses
 
 
-### LiDAR Attacks
-
-
-### LiDAR Defenses
+### LiDAR Attacks and Defenses
 
 
 * **SLAMSpoof: Practical LiDAR Spoofing Attacks on Localization Systems Guided by Scan Matching Vulnerability Analysis**, IEEE ICRA 2025, [ :link: ](https://ieeexplore.ieee.org/abstract/document/11127495) [ :octocat: ](https://github.com/Keio-CSG/slamspoof )
