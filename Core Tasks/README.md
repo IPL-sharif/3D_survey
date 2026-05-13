@@ -273,10 +273,10 @@
 * **PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection**, CVPR 2020, [ :link: ](https://arxiv.org/abs/1912.13192) [ :octocat: ](https://github.com/open-mmlab/OpenPCDet)
 * **PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection**, IJCV 2023, [ :link: ](https://arxiv.org/abs/2102.00463) [ :octocat: ](https://github.com/open-mmlab/OpenPCDet)
 * **Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection**, AAAI 2021, [ :link: ](https://arxiv.org/abs/2012.15712) [ :octocat: ](https://github.com/djiajunustc/Voxel-R-CNN)
-* **LiDAR R-CNN: An Efficient and Universal 3D Object Detector**, CVPR 2021, [ :link: ](https://arxiv.org/abs/2103.09136) [ :octocat: ](https://github.com/TuSimple/LiDAR_RCNN)
-* **Pyramid R-CNN: Towards Better Performance and Adaptability for 3D Object Detection**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2109.02464) [ :octocat: ](https://github.com/PointsCoder/Pyramid-RCNN)
-* **CT3D: Improving 3D Object Detection With Channel-Wise Transformer**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2107.12504) [ :octocat: ](https://github.com/hlsheng1/CT3D)
-* **DiffRefine: Diffusion-Based Proposal Refinement for 3D Object Detection**, 2025, [ :link: ](https://arxiv.org/abs/2503.01792)
+* **LiDAR R-CNN: An Efficient and Universal 3D Object Detector**, CVPR 2021, [ :link: ](https://arxiv.org/abs/2103.15297) [ :octocat: ](https://github.com/tusen-ai/LiDAR_RCNN)
+* **Pyramid R-CNN: Towards Better Performance and Adaptability for 3D Object Detection**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/papers/Mao_Pyramid_R-CNN_Towards_Better_Performance_and_Adaptability_for_3D_Object_ICCV_2021_paper.pdf) [ :octocat: ](https://github.com/PointsCoder/Pyramid-RCNN)
+* **CT3D: Improving 3D Object Detection With Channel-Wise Transformer**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2108.10723) [ :octocat: ](https://github.com/hlsheng1/CT3D)
+* **DiffRefine: Diffusion-Based Proposal Refinement for 3D Object Detection**, 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/papers/Shin_DiffRefine_Diffusion-based_Proposal_Specific_Point_Cloud_Densification_for_Cross-Domain_Object_ICCV_2025_paper.pdf)
 ### Anchor Strategy
 
 ### Sensor Modality
