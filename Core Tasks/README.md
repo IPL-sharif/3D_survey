@@ -267,7 +267,7 @@
 * **BEVFormer: Learning Bird’s-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2203.17270) [ :octocat: ](https://github.com/fundamentalvision/BEVFormer)
 * **DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2301.06051) [ :octocat: ](https://github.com/Haiyang-W/DSVT)
 * **SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2308.09244) [ :octocat: ](https://github.com/MCG-NJU/SparseBEV)
-* **BEVNeXt: Reviving BEVDet for Efficient Multi-View 3D Object Detection**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_BEVNeXt_Reviving_Dense_BEV_Frameworks_for_3D_Object_Detection_CVPR_2024_paper.pdf) [ :octocat: ](https://github.com/LiewFeng/BEVNeXt)
+* **BEVNeXt: Reviving BEVDet for Efficient Multi-View 3D Object Detection**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_BEVNeXt_Reviving_Dense_BEV_Frameworks_for_3D_Object_Detection_CVPR_2024_paper.pdf) [ :octocat: ](https://github.com/woxihuanjiangguo/BEVNeXt)
 
 #### Two-Stage Detectors
 * **PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection**, CVPR 2020, [ :link: ](https://arxiv.org/abs/1912.13192) [ :octocat: ](https://github.com/open-mmlab/OpenPCDet)
