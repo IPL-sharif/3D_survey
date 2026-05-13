@@ -118,5 +118,4 @@
 * **SA-GS: Semantic-Aware Gaussian Splatting for Large Scene Reconstruction**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2405.16923)
 * **SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_SC-GS_Sparse-Controlled_Gaussian_Splatting_for_Editable_Dynamic_Scenes_CVPR_2024_paper.pdf)
 * **Mani-GS: Gaussian Splatting Manipulation with Triangular Mesh**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/papers/Gao_Mani-GS_Gaussian_Splatting_Manipulation_with_Triangular_Mesh_CVPR_2025_paper.pdf)
-* **RoGs: Large Scale Road Surface Reconstruction with Meshgrid Gaussian**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2405.14342)
-اگر **فایل‌های bib بیشتری** از بخش‌های دیگر (مثل Robustness, Domain Adaptation, Anomaly Detection) دارید، بفرستید تا برای آن بخش‌ها نیز به همین شکل README بسازم.
+* **RoGs: Large Scale Road Surface Reconstruction with Meshgrid Gaussian**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2405.14342)Domain Adaptation, Anomaly Detection)
