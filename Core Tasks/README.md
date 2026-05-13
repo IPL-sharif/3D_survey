@@ -174,18 +174,14 @@
 
 
 ### Other Types of Segmentation
-
 #### Part Segmentation
-
 * **PartField: Learning 3D Feature Fields for Part Segmentation and Beyond**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/html/Liu_PartField_Learning_3D_Feature_Fields_for_Part_Segmentation_and_Beyond_ICCV_2025_paper.html) [ :octocat: ](https://github.com/nv-tlabs/PartField)
 * **3D Part Segmentation via Geometric Aggregation of 2D Visual Features**, WACV 2025, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10943567) [ :octocat: ](https://github.com/marco-garosi/COPS)
 
 #### Oversegmentation
-
 * **Serialization based Point Cloud Oversegmentation**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/html/Lu_Serialization_based_Point_Cloud_Oversegmentation_ICCV_2025_paper.html) [ :octocat: ](https://github.com/CHL-glitch/SPCNet)
 
 #### 3DGS-based Segmentation
-
 * **COB-GS: Clear Object Boundaries in 3DGS Segmentation Based on Boundary-Adaptive Gaussian Splitting**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_COB-GS_Clear_Object_Boundaries_in_3DGS_Segmentation_Based_on_Boundary-Adaptive_CVPR_2025_paper.html) [ :octocat: ](https://github.com/ZestfulJX/COB-GS)
 
 
@@ -263,36 +259,21 @@
 * **V2X-R: Cooperative LiDAR–4D Radar Fusion for 3D Object Detection**, CVPR 2025, [ :link: ](https://arxiv.org/abs/2411.08402) [ :octocat: ](https://github.com/ylwhxht/V2X-R)
 
 ### Detection Stage
-
 #### One-Stage Detectors
-
 * **SA-SSD: Structure Aware Single-Stage 3D Object Detection From Point Cloud**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Structure_Aware_Single-Stage_3D_Object_Detection_From_Point_Cloud_CVPR_2020_paper.pdf) [ :octocat: ](https://github.com/skyhehe123/SA-SSD)
-
 * **Embracing Single Stride 3D Object Detector with Sparse Transformer (SST)**, CVPR 2022, [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_Embracing_Single_Stride_3D_Object_Detector_With_Sparse_Transformer_CVPR_2022_paper.pdf) [ :octocat: ](https://github.com/tusen-ai/SST)
-
 * **BEVFormer: Learning Bird’s-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2203.17270) [ :octocat: ](https://github.com/fundamentalvision/BEVFormer)
-
 * **DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2301.06051) [ :octocat: ](https://github.com/Haiyang-W/DSVT)
-
 * **SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2308.09244) [ :octocat: ](https://github.com/MCG-NJU/SparseBEV)
-
 * **BEVNeXt: Reviving BEVDet for Efficient Multi-View 3D Object Detection**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2403.17054) [ :octocat: ](https://github.com/LiewFeng/BEVNeXt)
 
-
 #### Two-Stage Detectors
-
 * **PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection**, CVPR 2020, [ :link: ](https://arxiv.org/abs/1912.13192) [ :octocat: ](https://github.com/open-mmlab/OpenPCDet)
-
 * **PV-RCNN++: Point-Voxel Feature Set Abstraction With Local Vector Representation for 3D Object Detection**, IJCV 2023, [ :link: ](https://arxiv.org/abs/2102.00463) [ :octocat: ](https://github.com/open-mmlab/OpenPCDet)
-
 * **Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection**, AAAI 2021, [ :link: ](https://arxiv.org/abs/2012.15712) [ :octocat: ](https://github.com/djiajunustc/Voxel-R-CNN)
-
 * **LiDAR R-CNN: An Efficient and Universal 3D Object Detector**, CVPR 2021, [ :link: ](https://arxiv.org/abs/2103.09136) [ :octocat: ](https://github.com/TuSimple/LiDAR_RCNN)
-
 * **Pyramid R-CNN: Towards Better Performance and Adaptability for 3D Object Detection**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2109.02464) [ :octocat: ](https://github.com/PointsCoder/Pyramid-RCNN)
-
 * **CT3D: Improving 3D Object Detection With Channel-Wise Transformer**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2107.12504) [ :octocat: ](https://github.com/hlsheng1/CT3D)
-
 * **DiffRefine: Diffusion-Based Proposal Refinement for 3D Object Detection**, 2025, [ :link: ](https://arxiv.org/abs/2503.01792)
 ### Anchor Strategy
 
