@@ -43,6 +43,28 @@
 ### LiDAR Defenses
 
 
+* **SLAMSpoof: Practical LiDAR Spoofing Attacks on Localization Systems Guided by Scan Matching Vulnerability Analysis**, IEEE ICRA 2025, [ :link: ](https://ieeexplore.ieee.org/abstract/document/11127495) [ :octocat: ](https://github.com/Keio-CSG/slamspoof )
+
+* **LiDAR Spoofing Meets the New-Gen: Capability Improvements, Broken Assumptions, and New Attack Strategies**, NDSS 2024, [ :link: ](https://www.ndss-symposium.org/ndss-paper/lidar-spoofing-meets-the-new-gen-capability-improvements-broken-assumptions-and-new-attack-strategies/ )
+
+* **Navigating Threats: A Survey of Physical Adversarial Attacks on LiDAR Perception Systems in Autonomous Vehicles**, IEEE 2024, [ :link: ](https://www.researchgate.net/profile/Amira-Guesmi/publication/384500534_Navigating_Threats_A_Survey_of_Physical_Adversarial_Attacks_on_LiDAR_Perception_Systems_in_Autonomous_Vehicles/links/66fbe8def599e0392fb1783b/Navigating-Threats-A-Survey-of-Physical-Adversarial-Attacks-on-LiDAR-Perception-Systems-in-Autonomous-Vehicles.pdf)
+
+* **A survey on adversarial robustness of lidar-based machine learning perception in autonomous vehicles**, Arxiv preprint 2024, [ :link: ](https://ui.adsabs.harvard.edu/abs/2024arXiv241113778K/abstract)
+
+* **Toward availability attacks in 3D point clouds**, Conference 2024, [ :link: ](https://dl.acm.org/doi/abs/10.5555/3692070.3694657) [ :octocat: ](https://github.com/hala64/fc-em)
+
+* **ADoPT: LiDAR Spoofing Attack Detection Based on Point-Level Temporal Consistency**, BMVC 2023, [ :link: ](https://proceedings.bmvc2023.org/486/)
+
+* **Badlidet: A simple backdoor attack against lidar object detection in autonomous driving**, IEEE TrustCom 2023, [ :link: ](https://ieeexplore.ieee.org/document/10538765)
+
+* **Temporal Consistency Checks to Detect LiDAR Spoofing Attacks on Autonomous Vehicle Perception**, MAISP 2021, [ :link: ](https://dl.acm.org/doi/10.1145/3469261.3469406) [ :octocat: ](https://github.com/YouChange/3D-TC2)
+
+* **Robustifying models against adversarial attacks by langevin dynamics**, Elsevier Neural Networks 2021, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0893608020304494)
+
+* **Towards Robust LiDAR-based Perception in Autonomous Driving: General Black-box Adversarial Sensor Attack and Countermeasures**, USENIX Security 2020, [ :link: ](https://www.usenix.org/system/files/sec20-sun.pdf)
+
+* **Physically Realizable Adversarial Examples for LiDAR Object Detection**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/html/Tu_Physically_Realizable_Adversarial_Examples_for_LiDAR_Object_Detection_CVPR_2020_paper.html)
+
 
 * **Weak-to-strong 3d object detection with x-ray distillation**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/html/Gambashidze_Weak-to-Strong_3D_Object_Detection_with_X-Ray_Distillation_CVPR_2024_paper.html) [ :octocat: ](https://github.com/sakharok13/X-Ray-Teacher-Patching-Tools)
 
