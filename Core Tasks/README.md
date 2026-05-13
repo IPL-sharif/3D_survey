@@ -26,7 +26,7 @@
        * [pillar-based](#pillar-based)
        * [projection-based](#projection-based)
        * [hybrid](#hybrid)
-    * [Detection Stage](#Detection_Stage)
+    * [Detection Stage](#detection_stage)
        * [One-Stage Detectors](#one-stage_detectors)
        * [Two-Stage Detectors](#two-stage_detectors)
    * [Supervision](#Supervision)
