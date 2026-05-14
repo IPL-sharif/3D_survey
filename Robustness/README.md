@@ -24,6 +24,18 @@
 ### Preliminaries
 
 
+* **A survey of robustness and safety of 2d and 3d deep learning models against adversarial attacks**, ACM Computing Surveys 2024, [ :link: ](https://dl.acm.org/doi/full/10.1145/3636551)
+
+* **A survey on adversarial robustness of lidar-based machine learning perception in autonomous vehicles**, Arxiv Preprint 2024, [ :link: ](https://www.catalyzex.com/paper/a-survey-on-adversarial-robustness-of-lidar)
+
+* **Adversarial attacks and defenses on 3d point cloud classification: A survey**, IEEE Access 2023, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10366256) [ :octocat: ](https://github.com/ )
+
+* **Adversarial attack and defense on point sets**, Arxiv Preprint 2019, [ :link: ](https://ui.adsabs.harvard.edu/abs/2019arXiv190210899Y/abstract)
+
+* **Extending adversarial attacks and defenses to deep 3d point cloud classifiers**, IEEE ICIP 2019, [ :link: ](https://ieeexplore.ieee.org/abstract/document/8803770) [ :octocat: ](https://github.com/Daniel-Liu-c0deb0t/3D-Neural-Network-Adversarial-Attacks)
+
+* **Intriguing properties of neural networks**, Arxiv Preprint 2013, [ :link: ](https://arxiv.org/abs/1312.6199)
+
 
 ### Evasion Attacks
 
