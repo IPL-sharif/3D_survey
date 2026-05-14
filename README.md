@@ -7,11 +7,11 @@ This repository belongs to the paper: [A Comprehensive Survey on 3D Deep Learnin
 
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/IPL-sharif/3D_Survey/refs/heads/main/Figures/github_diagram.png"  style="max-width: 100%; height: auto;"/>
+  <img src="./Figures/github_diagram.png" width="800">
 </p>
 
 
-## 📚 Existing Surveys on Knowledge Distillation
+## 📚 Existing Surveys on 3D Point Cloud
 - **Deep learning for 3d point clouds: A survey**, TPAMI 2020, [ :link: ](https://arxiv.org/abs/1912.12033)
 
 - **Deep learning for 3d point cloud understanding: a survey**, Arxiv 2020, [ :link: ](https://arxiv.org/abs/2009.08920)
@@ -32,34 +32,34 @@ This repository belongs to the paper: [A Comprehensive Survey on 3D Deep Learnin
 
 ## 📑 Contents
 
-### Core Tasks
-- [Classification](Core Tasks/README.md#Classification)
-- [Segmentation](Core Tasks/README.md#Segmentation)
-- [Detection](Core Tasks/README.md#Detection)
-- [Tracking](Core Tasks/README.md#Tracking)
-- [Compression](Core Tasks/README.md#Compression)
-- [6DoF Pose Estimation](Core Tasks/README.md#6DoF-Pose-Estimation)
-- [3D Point Cloud Registration](Core Tasks/README.md#3D-Point-Cloud-Registration)
+### Core Tasks(Core%20Tasks/)
+- [Classification](Core%20Tasks/README.md#Classification)
+- [Segmentation](Core%20Tasks/README.md#Segmentation)
+- [Detection](Core%20Tasks/README.md#Detection)
+- [Tracking](Core%20Tasks/README.md#Tracking)
+- [Compression](Core%20Tasks/README.md#Compression)
+- [6DoF Pose Estimation](Core%20Tasks/README.md#6DoF-Pose-Estimation)
+- [3D Point Cloud Registration](Core%20Tasks/README.md#3D-Point-Cloud-Registration)
 
-### Foundation Models
-- [Foundation Models](Foundation Models/README.md)
+### Foundation Models(Foundation%20Models/)
+- [Foundation Models](Foundation%20Models/README.md)
 
-### Geometric Modeling
-- [Generation](Geometric Modeling/README.md#Generation)
-- [Reconstruction](Geometric Modeling/README.md#Reconstruction)
+### Geometric Modeling(Geometric%20Modeling/)
+- [Generation](Geometric%20Modeling/README.md#Generation)
+- [Reconstruction](Geometric%20Modeling/README.md#Reconstruction)
 
-### Robustness
+### Robustness(Robustness/)
 - [3D ML Pipeline Security Threats](Robustness/README.md#3D-ML-Pipeline-Security-Threats)
 - [3D Robustness to Noise and Occlusion](Robustness/README.md#3D-Robustness-to-Noise-and-Occlusion)
 - [3D Point Cloud Rotation Invariance and Equivariance](Robustness/README.md#3D-Point-Cloud-Rotation-Invariance-and-Equivariance)
 - [3D Domain Adaptation](Robustness/README.md#3D-Domain-Adaptation)
 - [3D Anomaly Detection](Robustness/README.md#3D-Anomaly-Detection)
 
-### Scene Understanding
-- [3D Captioning](Scene Understanding/README.md#3D-Captioning)
-- [3D Grounding](Scene Understanding/README.md#3D-Grounding)
-- [3D Question Answering](Scene Understanding/README.md#3D-Question-Answering)
-- [3D Reasoning](Scene Understanding/README.md#3D-Reasoning)
+### Scene Understanding(Scene%20Understanding/)
+- [3D Captioning](Scene%20Understanding/README.md#3D-Captioning)
+- [3D Grounding](Scene%20Understanding/README.md#3D-Grounding)
+- [3D Question Answering](Scene%20Understanding/README.md#3D-Question-Answering)
+- [3D Reasoning](Scene%20Understanding/README.md#3D-Reasoning)
 
 
 ## 📜 Citation
