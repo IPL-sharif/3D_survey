@@ -43,6 +43,25 @@
 ### Evasion Defenses
 
 
+* **Improving adversarial robustness for 3d point cloud recognition at test-time through purified self-training**, Arxiv Preprint 2024, [ :link: ](https://ui.adsabs.harvard.edu/abs/2024arXiv240914940L/abstract)
+
+* **Improving robustness of 3d point cloud recognition from a fourier perspective**, NeurIPS 2024, [ :link: ](https://proceedings.neurips.cc/paper_files/paper/2024/hash/7e0af0d1bc0ec2a90fc294be2e00447e-Abstract-Conference.html)
+
+* **A critical revisit of adversarial robustness in 3D point cloud recognition with diffusion-driven purification**, ICML 2023, [ :link: ](https://dl.acm.org/doi/abs/10.5555/3618408.3619782)
+
+* **Pointcert: Point cloud classification with deterministic certified robustness guarantees**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_PointCert_Point_Cloud_Classification_With_Deterministic_Certified_Robustness_Guarantees_CVPR_2023_paper.html) [ :octocat: ](https://github.com/jzhang538/PointCert)
+
+* **Pointcutmix: Regularization strategy for point cloud classification**, Elsevier Neurocomputing 2022, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0925231222009092) [ :octocat: ](https://github.com/cuge1995/PointCutMix)
+
+* **Tpc: Transformation-specific smoothing for point cloud models**, ICML 2022, [ :link: ](https://proceedings.mlr.press/v162/chu22b.html) [ :octocat: ](https://github.com/chuwd19/Point-Cloud-Smoothing)
+
+* **Robust structured declarative classifiers for 3d point clouds: Defending adversarial attacks with implicit gradients**, CVPR 2022, [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Robust_Structured_Declarative_Classifiers_for_3D_Point_Clouds_Defending_Adversarial_CVPR_2022_paper.html)
+
+* **Adversarially robust 3d point cloud recognition using self-supervisions**, NeurIPS 2021, [ :link: ](https://proceedings.neurips.cc/paper_files/paper/2021/hash/82cadb0649a3af4968404c9f6031b233-Abstract.html)
+
+* **Dup-net: Denoiser and upsampler network for 3d adversarial point clouds defense**, ICCV 2019, [ :link: ](https://openaccess.thecvf.com/content_ICCV_2019/html/Zhou_DUP-Net_Denoiser_and_Upsampler_Network_for_3D_Adversarial_Point_Clouds_ICCV_2019_paper.html) [ :octocat: ](https://github.com/jiachens/DUP-Net)
+
+
 ### Poisoning Attacks
 
 
