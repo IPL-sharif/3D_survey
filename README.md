@@ -32,7 +32,7 @@ This repository belongs to the paper: [A Comprehensive Survey on 3D Deep Learnin
 
 ## 📑 Contents
 
-### Core Tasks(Core%20Tasks/)
+### [Core Tasks](Core%20Tasks/)
 - [Classification](Core%20Tasks/README.md#Classification)
 - [Segmentation](Core%20Tasks/README.md#Segmentation)
 - [Detection](Core%20Tasks/README.md#Detection)
@@ -41,21 +41,21 @@ This repository belongs to the paper: [A Comprehensive Survey on 3D Deep Learnin
 - [6DoF Pose Estimation](Core%20Tasks/README.md#6DoF-Pose-Estimation)
 - [3D Point Cloud Registration](Core%20Tasks/README.md#3D-Point-Cloud-Registration)
 
-### Foundation Models(Foundation%20Models/)
+### [Foundation Models](Foundation%20Models/)
 - [Foundation Models](Foundation%20Models/README.md)
 
-### Geometric Modeling(Geometric%20Modeling/)
+### [Geometric Modeling](Geometric%20Modeling/)
 - [Generation](Geometric%20Modeling/README.md#Generation)
 - [Reconstruction](Geometric%20Modeling/README.md#Reconstruction)
 
-### Robustness(Robustness/)
+### [Robustness](Robustness/)
 - [3D ML Pipeline Security Threats](Robustness/README.md#3D-ML-Pipeline-Security-Threats)
 - [3D Robustness to Noise and Occlusion](Robustness/README.md#3D-Robustness-to-Noise-and-Occlusion)
 - [3D Point Cloud Rotation Invariance and Equivariance](Robustness/README.md#3D-Point-Cloud-Rotation-Invariance-and-Equivariance)
 - [3D Domain Adaptation](Robustness/README.md#3D-Domain-Adaptation)
 - [3D Anomaly Detection](Robustness/README.md#3D-Anomaly-Detection)
 
-### Scene Understanding(Scene%20Understanding/)
+### [Scene Understanding](Scene%20Understanding/)
 - [3D Captioning](Scene%20Understanding/README.md#3D-Captioning)
 - [3D Grounding](Scene%20Understanding/README.md#3D-Grounding)
 - [3D Question Answering](Scene%20Understanding/README.md#3D-Question-Answering)
