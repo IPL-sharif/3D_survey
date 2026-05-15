@@ -40,6 +40,41 @@
 ### Evasion Attacks
 
 
+* **On the Realism of LiDAR Spoofing Attacks against Autonomous Driving Vehicle at High Speed and Long Distance**, NDSS 2025, [ :link: ](https://www.ndss-symposium.org/ndss-paper/on-the-realism-of-lidar-spoofing-attacks-against-autonomous-driving-vehicle-at-high-speed-and-long-distance/)
+
+* **Hide in thicket: Generating imperceptible and rational adversarial perturbations on 3d point clouds**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/html/Lou_Hide_in_Thicket_Generating_Imperceptible_and_Rational_Adversarial_Perturbations_on_CVPR_2024_paper.html) [ :octocat: ](https://github.com/TRLou/HiT-ADV)
+
+* **Flat: Flux-aware imperceptible adversarial attacks on 3d point clouds**, ECCV 2024, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-031-72658-3_12) [ :octocat: ] (https://github.com/884489492/FLAT-Flux)
+
+* **Improving transferability of 3D adversarial attacks with scale and shear transformations**, Elsevier Information Sciences 2024, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0020025524001580) [ :octocat: ](https://github.com/cuge1995/SS-attack)
+
+* **Deep manifold attack on point clouds via parameter plane stretching**, AAAI 2023, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/25338)
+
+* **Point cloud attacks in graph spectral domain: When 3d geometry meets graph signal processing**, IEEE 2023, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10342779)
+
+* **Imperceptible transfer attack and defense on 3d point cloud classification**, IEEE 2023, [ :link: ](https://ieeexplore.ieee.org/document/9839597)
+
+* **Shape-invariant 3D adversarial point clouds**, CVPR 2022, [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/html/Huang_Shape-Invariant_3D_Adversarial_Point_Clouds_CVPR_2022_paper.html) [ :octocat: ](https://github.com/shikiw/SI-Adv)
+
+* **Lg-gan: Label guided adversarial network for flexible targeted attack of point cloud based deep networks**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_LG-GAN_Label_Guided_Adversarial_Network_for_Flexible_Targeted_Attack_of_CVPR_2020_paper.html) [ :octocat: ](https://github.com/RyanHangZhou/tensorflow-LG-GAN)
+
+* **On isometry robustness of deep 3d point cloud models under adversarial attacks**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhao_On_Isometry_Robustness_of_Deep_3D_Point_Cloud_Models_Under_CVPR_2020_paper.html) [ :octocat: ](https://github.com/skywalker6174/3d-isometry-robust)
+
+* **Advpc: Transferable adversarial perturbations on 3d point clouds**, ECCV 2020, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-030-58610-2_15) [ :octocat: ](https://github.com/ajhamdi/AdvPC)
+
+* **Adversarial shape perturbations on 3d point clouds**, ECCV 2020, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-030-66415-2_6) [ :octocat: ](https://github.com/Daniel-Liu-c0deb0t/Adversarial-point-perturbations-on-3D-objects)
+
+* **Physically realizable adversarial examples for lidar object detection**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/html/Tu_Physically_Realizable_Adversarial_Examples_for_LiDAR_Object_Detection_CVPR_2020_paper.html)
+
+* **Generating 3d adversarial point clouds**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/html/Xiang_Generating_3D_Adversarial_Point_Clouds_CVPR_2019_paper.html) [ :octocat: ](https://github.com/xiangchong1/3d-adv-pc)
+
+* **Adversarial objects against lidar-based autonomous driving systems**, Arxiv Preprint 2019, [ :link: ](https://www.catalyzex.com/paper/adversarial-objects-against-lidar-based)
+
+* **Robustness of 3d deep learning in an adversarial setting**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/html/Wicker_Robustness_of_3D_Deep_Learning_in_an_Adversarial_Setting_CVPR_2019_paper.html) [ :octocat: ](https://github.com/matthewwicker/IterativeSalienceOcclusion)
+
+* **Adversarial sensor attack on lidar-based perception in autonomous driving**, ACM CCS 2019, [ :link: ](https://ics.uci.edu/~alfchen/yulong_ccs19.pdf)
+
+
 ### Evasion Defenses
 
 
