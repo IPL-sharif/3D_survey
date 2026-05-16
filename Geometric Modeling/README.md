@@ -72,6 +72,7 @@
 ### Weakly conditional generation
 
 
+
 ## Reconstruction
 
 ### Survey Papers
@@ -187,9 +188,9 @@
 * **Quadratic Gaussian Splatting: High Quality Surface Reconstruction with Second-order Geometric Primitives**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/papers/Zhang_Quadratic_Gaussian_Splatting_High_Quality_Surface_Reconstruction_with_Second-order_Geometric_ICCV_2025_paper.pdf)
 * **Trim 3d gaussian splatting for accurate geometry representation**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2406.07499)
 * **Differentiable volumetric rendering: Learning implicit 3d representations without 3d supervision**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/papers/Niemeyer_Differentiable_Volumetric_Rendering_Learning_Implicit_3D_Representations_Without_3D_Supervision_CVPR_2020_paper.pdf) [ :octocat: ](https://github.com/autonomousvision/differentiable_volumetric_rendering)
-* **Deepsdf: Learning continuous signed distance functions for shape representation**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.pdf) [ :octocat: ](https://github.com/facebookresearch/DeepSDF)
-* **Learning implicit fields for generative shape modeling**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Learning_Implicit_Fields_for_Generative_Shape_Modeling_CVPR_2019_paper.pdf)
-* **Occupancy networks: Learning 3d reconstruction in function space**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf) [ :octocat: ](https://github.com/autonomousvision/occupancy_networks)
+* **DeepSDF: Learning continuous signed distance functions for shape representation**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content/CVPR_2019/papers/Park_DeepSDF_Learning_Continuous_Signed_Distance_Functions_for_Shape_Representation_CVPR_2019_paper.pdf) [ :octocat: ](https://github.com/facebookresearch/DeepSDF)
+* **Learning implicit fields for generative shape modeling**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content/CVPR_2019/papers/Chen_Learning_Implicit_Fields_for_Generative_Shape_Modeling_CVPR_2019_paper.pdf)
+* **Occupancy networks: Learning 3d reconstruction in function space**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content/CVPR_2019/papers/Mescheder_Occupancy_Networks_Learning_3D_Reconstruction_in_Function_Space_CVPR_2019_paper.pdf) [ :octocat: ](https://github.com/autonomousvision/occupancy_networks)
 * **A papier-mâché approach to learning 3d surface generation**, CVPR 2018, [ :link: ](https://openaccess.thecvf.com/content_cvpr_2018/papers/Groueix_A_Papier-Mache_Approach_CVPR_2018_paper.pdf) [ :octocat: ](https://github.com/ThibaultGROUEIX/AtlasNet)
 * **Mesh r-cnn**, ICCV 2019, [ :link: ](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gkioxari_Mesh_R-CNN_ICCV_2019_paper.pdf) [ :octocat: ](https://github.com/facebookresearch/meshrcnn)
 * **Pixel2mesh: Generating 3d mesh models from single rgb images**, ECCV 2018, [ :link: ](https://openaccess.thecvf.com/content_ECCV_2018/papers/Nanyang_Wang_Pixel2Mesh_Generating_3D_ECCV_2018_paper.pdf) [ :octocat: ](https://github.com/nywang16/Pixel2Mesh)
