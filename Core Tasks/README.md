@@ -198,7 +198,7 @@
 * **Deep Hough Voting for 3D Object Detection in Point Clouds**, ICCV 2019, [ :link: ](https://openaccess.thecvf.com/content_ICCV_2019/papers/Qi_Deep_Hough_Voting_for_3D_Object_Detection_in_Point_Clouds_ICCV_2019_paper.pdf) [ :octocat: ](https://github.com/facebookresearch/votenet)
 * **3DSSD: Point-based 3D Single Stage Object Detector**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_3DSSD_Point-Based_3D_Single_Stage_Object_Detector_CVPR_2020_paper.pdf) [ :octocat: ](https://github.com/JIA-Lab-research/3DSSD)
 * **3Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shi_Point-GNN_Graph_Neural_Network_for_3D_Object_Detection_in_a_CVPR_2020_paper.pdf) [ :octocat: ](https://github.com/WeijingShi/Point-GNN)
-* **From Points to Parts: 3D Object Detection from Point Cloud with Part-aware and Part-aggregation Network**, TPAMI 2020,[ :link: ](https://arxiv.org/abs/1907.03670) [ :octocat: ](https://github.com/sshaoshuai/PartA2-Net/blob/master/README.md)
+* **From Points to Parts: 3D Object Detection from Point Cloud with Part-aware and Part-aggregation Network**, TPAMI 2020,[ :link: ](https://arxiv.org/abs/1907.03670), [ :octocat: ](https://github.com/sshaoshuai/PartA2-Net/blob/master/README.md)
 * **An End-to-End Transformer Model for 3D Object Detection**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/papers/Misra_An_End-to-End_Transformer_Model_for_3D_Object_Detection_ICCV_2021_paper.pdf) [ :octocat: ](https://facebookresearch.github.io/3detr/)
 * **Group-Free 3D Object Detection via Transformers**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Group-Free_3D_Object_Detection_via_Transformers_ICCV_2021_paper.pdf) [ :octocat: ](https://github.com/zeliu98/Group-Free-3D)
 * **Not All Points Are Equal: Learning Highly Efficient Point-based Detectors for 3D LiDAR Point Clouds**, CVPR 2022,  [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Not_All_Points_Are_Equal_Learning_Highly_Efficient_Point-Based_Detectors_CVPR_2022_paper.pdf) [ :octocat: ](https://github.com/yifanzhang713/IA-SSD)
@@ -344,7 +344,7 @@
 
 #### Siamese-based
  
-* **Leveraging Shape Completion for 3D Siamese Tracking**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/html/Giancola_Leveraging_Shape_Completion_for_3D_Siamese_Tracking_CVPR_2019_paper.html) [ :octocat: ](https://github.com/SilvioGiancola/ShapeCompletion3DTracking)
+* **Leveraging Shape Completion for 3D Siamese Tracking**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/html/Giancola_Leveraging_Shape_Completion_for_3D_Siamese_Tracking_CVPR_2019_paper.html), [ :octocat: ](https://github.com/SilvioGiancola/ShapeCompletion3DTracking)
 
 * **P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/html/Qi_P2B_Point-to-Box_Network_for_3D_Object_Tracking_in_Point_Clouds_CVPR_2020_paper.html) [ :octocat: ](https://github.com/HaozheQi/P2B)
   
@@ -374,7 +374,7 @@
 
 ### Transformer-based
 
-* **Real-Time 3D Single Object Tracking With Transformer**, IEEE Transactions on Multimedia 2022, [ :link: ](https://ieeexplore.ieee.org/abstract/document/9695195),
+* **Real-Time 3D Single Object Tracking With Transformer**, IEEE Transactions on Multimedia 2022, [ :link: ](https://ieeexplore.ieee.org/abstract/document/9695195)
 
 * **CXTrack: Improving 3D Point Cloud Tracking With Contextual Information**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_CXTrack_Improving_3D_Point_Cloud_Tracking_With_Contextual_Information_CVPR_2023_paper.html), [ :octocat: ](https://github.com/slothfulxtx/cxtrack3d) 
 
