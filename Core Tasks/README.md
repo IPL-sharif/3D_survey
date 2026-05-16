@@ -36,7 +36,12 @@
  
      
 * [Tracking](#Tracking)
-  [LiDAR-based trackers](#LiDAR-based-trackers)
+* [Single-Object Tracking](#Single-Object-Tracking)
+* [LiDAR Trackers](#LiDAR-Trackers)
+ * [Siamese-based](#Siamese-based)
+ * [Motion-based](#Motion-based)
+ * [Transformer-based](#Transformer-based)
+* [RGB–LiDAR Trackers](#LRGB–LiDAR-Trackers)
 
 * [Compression](#Compression)
 
@@ -325,7 +330,9 @@
 - **Patchcontrast: Self-supervised pre-training for 3d object detection**, CVPRW 2025, [ :link: ](https://arxiv.org/abs/2308.06985)
 - **CMAE-3D: contrastive masked AutoEncoders for self-supervised 3D object detection**, IJCV 2025, [ :link: ](https://link.springer.com/article/10.1007/s11263-024-02313-2)
 
-
+ * [](#Motion-based)
+ * [Transformer-based](#Transformer-based)
+* [RGB–LiDAR Trackers](#LRGB–LiDAR-Trackers)
 
 
 ## Tracking
@@ -336,8 +343,10 @@
 
 * **Visual Object Tracking across Diverse Data Modalities: A Review**, Arxiv 2024, [ :link: ](https://arxiv.org/abs/2412.09991)
 
-#### LiDAR-based trackers
+#### LiDAR Trackers
 
+#### Siamese-based
+ 
 * **Leveraging Shape Completion for 3D Siamese Tracking**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/html/Giancola_Leveraging_Shape_Completion_for_3D_Siamese_Tracking_CVPR_2019_paper.html) [ :octocat: ](https://github.com/SilvioGiancola/ShapeCompletion3DTracking)
 
 * **P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/html/Qi_P2B_Point-to-Box_Network_for_3D_Object_Tracking_in_Point_Clouds_CVPR_2020_paper.html) [ :octocat: ](https://github.com/HaozheQi/P2B)
@@ -354,6 +363,8 @@
 
 * **PTTR: Relational 3D Point Cloud Object Tracking With Transformer**, CVPR 2022, [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/html/Zhou_PTTR_Relational_3D_Point_Cloud_Object_Tracking_With_Transformer_CVPR_2022_paper.html), [ :octocat: ](https://github.com/Jasonkks/PTTR) 
 
+#### Motion-based
+
 * **Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds**, CVPR 2022, [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_Beyond_3D_Siamese_Tracking_A_Motion-Centric_Paradigm_for_3D_Single_CVPR_2022_paper.html), [ :octocat: ](https://github.com/Ghostish/Open3DSOT) 
 
 * **A lightweight and detector-free 3d single object tracker on point clouds**, IEEE Transactions on Intelligent Transportation Systems 2023, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10050385), [ :octocat: ](https://github.com/jimmy-dq/DMT) 
@@ -364,6 +375,8 @@
 
 * **Beyond Frame-Wise Tracking: A Trajectory-Based Paradigm for Efficient Point Cloud Tracking**, IEEE Robotics and Automation Letters 2026, [ :link: ](https://ieeexplore.ieee.org/abstract/document/11358684), [ :octocat: ](https://github.com/FiBonaCci225/TrajTrack) 
 
+## Transformer-based
+
 * **Real-Time 3D Single Object Tracking With Transformer**, IEEE Transactions on Multimedia 2022, [ :link: ](https://ieeexplore.ieee.org/abstract/document/9695195),
 
 * **CXTrack: Improving 3D Point Cloud Tracking With Contextual Information**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_CXTrack_Improving_3D_Point_Cloud_Tracking_With_Contextual_Information_CVPR_2023_paper.html), [ :octocat: ](https://github.com/slothfulxtx/cxtrack3d) 
@@ -373,6 +386,8 @@
 * **Correlation Pyramid Network for 3D Single Object Tracking**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023W/E2EAD/html/Wang_Correlation_Pyramid_Network_for_3D_Single_Object_Tracking_CVPRW_2023_paper.html)
 
 * **3D Single-Object Tracking in Point Clouds with High Temporal Variation**, ECCV 2024, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-031-72667-5_16)
+
+## RGB–LiDAR Trackers
 
 * **MMF-Track: Multi-Modal Multi-Level Fusion for 3D Single Object Tracking**, IEEE Transactions on Intelligent Vehicles 2024, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10292917), [ :octocat: ](https://github.com/NEU-REAL/MMF-Tracker) 
 
