@@ -36,6 +36,7 @@
  
      
 * [Tracking](#Tracking)
+  [LiDAR-based trackers](#LiDAR-based-trackers)
 
 * [Compression](#Compression)
 
