@@ -38,7 +38,7 @@
 * [Tracking](#Tracking)
    * [Single-Object Tracking](#Single-Object-Tracking)
       * [LiDAR Trackers](#LiDAR-Trackers)
-      * [RGB–LiDAR Trackers](#LRGB–LiDAR-Trackers)
+      * [RGB–LiDAR Trackers](#RGB–LiDAR-Trackers)
 
 * [Compression](#Compression)
 
