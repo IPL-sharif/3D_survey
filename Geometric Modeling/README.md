@@ -8,10 +8,10 @@
 
 * [Reconstruction](#Reconstruction)
 
- *  [Traditional Reconstruction (SfM & MVS)](#traditional-reconstruction-sfm--mvs)
- *  [Implicit Reconstruction (NeRF and Neural Fields)](#implicit-reconstruction-nerf-and-neural-fields)
- *  [Explicit Reconstruction (3D Gaussian Splatting)](#explicit-reconstruction-3d-gaussian-splatting)
- *  [Surface Reconstruction](#surface-reconstruction)
+  *  [Traditional Reconstruction (SfM & MVS)](#traditional-reconstruction-sfm--mvs)
+  *  [Implicit Reconstruction (NeRF and Neural Fields)](#implicit-reconstruction-nerf-and-neural-fields)
+  *  [Explicit Reconstruction (3D Gaussian Splatting)](#explicit-reconstruction-3d-gaussian-splatting)
+  *  [Surface Reconstruction](#surface-reconstruction)
 ---
 ## Generation
 ### Unconditional generation
