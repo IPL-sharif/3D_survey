@@ -340,7 +340,7 @@
 
 * **Visual Object Tracking across Diverse Data Modalities: A Review**, Arxiv 2024, [ :link: ](https://arxiv.org/abs/2412.09991)
 
-#### LiDAR Trackers
+### LiDAR Trackers
 
 #### Siamese-based
  
@@ -372,7 +372,7 @@
 
 * **Beyond Frame-Wise Tracking: A Trajectory-Based Paradigm for Efficient Point Cloud Tracking**, IEEE Robotics and Automation Letters 2026, [ :link: ](https://ieeexplore.ieee.org/abstract/document/11358684), [ :octocat: ](https://github.com/FiBonaCci225/TrajTrack) 
 
-### Transformer-based
+#### Transformer-based
 
 * **Real-Time 3D Single Object Tracking With Transformer**, IEEE Transactions on Multimedia 2022, [ :link: ](https://ieeexplore.ieee.org/abstract/document/9695195)
 
