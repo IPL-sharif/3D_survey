@@ -79,7 +79,7 @@
 
 * **A Survey of 3D Reconstruction: The Evolution from Multi-View Geometry to NeRF and 3DGS**, Sensors 2025, [ :link: ](https://doi.org/10.3390/s25185748)
 * **A survey on surface reconstruction based on 3D Gaussian splatting**, PeerJ Computer Science 2025, [ :link: ](https://doi.org/10.7717/peerj-cs.3034)
-* **Deep-learning-based 3-d surface reconstruction—a survey**, Proceedings of the IEEE 2023, [ :link: ](https://ieeexplore.ieee.org/document/10237898)
+* **Deep-learning-based 3-d surface reconstruction—a survey**, Proceedings of the IEEE 2023, [ :link: ](https://ieeexplore.ieee.org/document/10301359)
 
 ### Traditional Reconstruction (SfM & MVS)
 
