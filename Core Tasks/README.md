@@ -38,10 +38,10 @@
 * [Tracking](#Tracking)
    * [Single-Object Tracking](#Single-Object-Tracking)
       * [LiDAR Trackers](#LiDAR-Trackers)
-       * [Siamese-based](#Siamese-based)
-       * [Motion-based](#Motion-based)
-       * [Transformer-based](#Transformer-based)
-   * [RGB–LiDAR Trackers](#LRGB–LiDAR-Trackers)
+          * [Siamese-based](#Siamese-based)
+          * [Motion-based](#Motion-based)
+          * [Transformer-based](#Transformer-based)
+      * [RGB–LiDAR Trackers](#LRGB–LiDAR-Trackers)
 
 * [Compression](#Compression)
 
