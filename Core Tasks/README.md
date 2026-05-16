@@ -38,7 +38,7 @@
 * [Tracking](#Tracking)
    * [Single-Object Tracking](#Single-Object-Tracking)
       * [LiDAR Trackers](#LiDAR-Trackers)
-      * [RGB–LiDAR Trackers](#RGB–LiDAR-Trackers)
+      * [RGB-LiDAR Trackers](#RGB-LiDAR-Trackers)
 
 * [Compression](#Compression)
 
@@ -384,7 +384,7 @@
 
 * **3D Single-Object Tracking in Point Clouds with High Temporal Variation**, ECCV 2024, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-031-72667-5_16)
 
-### RGB–LiDAR Trackers
+### RGB-LiDAR Trackers
 
 * **MMF-Track: Multi-Modal Multi-Level Fusion for 3D Single Object Tracking**, IEEE Transactions on Intelligent Vehicles 2024, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10292917), [ :octocat: ](https://github.com/NEU-REAL/MMF-Tracker) 
 
