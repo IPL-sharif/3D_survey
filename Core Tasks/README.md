@@ -372,7 +372,7 @@
 
 * **Beyond Frame-Wise Tracking: A Trajectory-Based Paradigm for Efficient Point Cloud Tracking**, IEEE Robotics and Automation Letters 2026, [ :link: ](https://ieeexplore.ieee.org/abstract/document/11358684), [ :octocat: ](https://github.com/FiBonaCci225/TrajTrack) 
 
-## Transformer-based
+### Transformer-based
 
 * **Real-Time 3D Single Object Tracking With Transformer**, IEEE Transactions on Multimedia 2022, [ :link: ](https://ieeexplore.ieee.org/abstract/document/9695195),
 
@@ -384,7 +384,7 @@
 
 * **3D Single-Object Tracking in Point Clouds with High Temporal Variation**, ECCV 2024, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-031-72667-5_16)
 
-## RGB–LiDAR Trackers
+### RGB–LiDAR Trackers
 
 * **MMF-Track: Multi-Modal Multi-Level Fusion for 3D Single Object Tracking**, IEEE Transactions on Intelligent Vehicles 2024, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10292917), [ :octocat: ](https://github.com/NEU-REAL/MMF-Tracker) 
 
