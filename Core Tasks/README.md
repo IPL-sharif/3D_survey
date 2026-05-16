@@ -330,12 +330,59 @@
 ## Tracking
 
 ### Single-Object Tracking
+
+#### Survey
+
+* **Visual Object Tracking across Diverse Data Modalities: A Review**, Arxiv 2024, [ :link: ](https://arxiv.org/abs/2412.09991)
+
 #### LiDAR-based trackers
-* **Leveraging Shape Completion for 3D Siamese Tracking**, CVPR 2019, [ :link: ](https://arxiv.org/abs/1903.01784) [ :octocat: ](https://github.com/SilvioGiancola/ShapeCompletion3DTracking)
+
+* **Leveraging Shape Completion for 3D Siamese Tracking**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/html/Giancola_Leveraging_Shape_Completion_for_3D_Siamese_Tracking_CVPR_2019_paper.html) [ :octocat: ](https://github.com/SilvioGiancola/ShapeCompletion3DTracking)
+
+* **P2B: Point-to-Box Network for 3D Object Tracking in Point Clouds**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/html/Qi_P2B_Point-to-Box_Network_for_3D_Object_Tracking_in_Point_Clouds_CVPR_2020_paper.html) [ :octocat: ](https://github.com/HaozheQi/P2B)
+  
+* **3D-SiamRPN: An End-to-End Learning Method for Real-Time 3D Single Object Tracking Using Raw Point Cloud**, IEEE Sensors Journal 2021, [ :link: ](https://ieeexplore.ieee.org/abstract/document/9235506)
+
+* **MLVSNet: Multi-Level Voting Siamese Network for 3D Visual Tracking**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/html/Wang_MLVSNet_Multi-Level_Voting_Siamese_Network_for_3D_Visual_Tracking_ICCV_2021_paper.html), [ :octocat: ](https://github.com/CodeWZT/MLVSNet) 
+
+* **Box-Aware Feature Enhancement for Single Object Tracking on Point Clouds**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/html/Zheng_Box-Aware_Feature_Enhancement_for_Single_Object_Tracking_on_Point_Clouds_ICCV_2021_paper.html), [ :octocat: ](https://github.com/Ghostish/Open3DSOT) 
+
+* **3D Siamese Voxel-to-BEV Tracker for Sparse Point Clouds**, NeurIPS 2021, [ :link: ](https://proceedings.neurips.cc/paper/2021/hash/f0fcf351df4eb6786e9bb6fc4e2dee02-Abstract.html), [ :octocat: ](https://github.com/fpthink/V2B) 
+
+* **PTT: Point-Track-Transformer Module for 3D Single Object Tracking in Point Clouds**, IROS 2021, [ :link: ](https://ieeexplore.ieee.org/abstract/document/9636821), [ :octocat: ](https://github.com/shanjiayao/PTT) 
+
+* **PTTR: Relational 3D Point Cloud Object Tracking With Transformer**, CVPR 2022, [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/html/Zhou_PTTR_Relational_3D_Point_Cloud_Object_Tracking_With_Transformer_CVPR_2022_paper.html), [ :octocat: ](https://github.com/Jasonkks/PTTR) 
+
+* **Beyond 3D Siamese Tracking: A Motion-Centric Paradigm for 3D Single Object Tracking in Point Clouds**, CVPR 2022, [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/html/Zheng_Beyond_3D_Siamese_Tracking_A_Motion-Centric_Paradigm_for_3D_Single_CVPR_2022_paper.html), [ :octocat: ](https://github.com/Ghostish/Open3DSOT) 
+
+* **A lightweight and detector-free 3d single object tracker on point clouds**, IEEE Transactions on Intelligent Transportation Systems 2023, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10050385), [ :octocat: ](https://github.com/jimmy-dq/DMT) 
+
+* **Towards Category Unification of 3D Single Object Tracking on Point Clouds**, ICLR 2024, [ :link: ](https://arxiv.org/abs/2401.11204)
+
+* **Focustrack: One-stage focus-and-suppress framework for 3d point cloud object tracking**, ACM MM 2025, [ :link: ](https://dl.acm.org/doi/abs/10.1145/3746027.3754781) 
+
+* **Beyond Frame-Wise Tracking: A Trajectory-Based Paradigm for Efficient Point Cloud Tracking**, IEEE Robotics and Automation Letters 2026, [ :link: ](https://ieeexplore.ieee.org/abstract/document/11358684), [ :octocat: ](https://github.com/FiBonaCci225/TrajTrack) 
+
+* **Real-Time 3D Single Object Tracking With Transformer**, IEEE Transactions on Multimedia 2022, [ :link: ](https://ieeexplore.ieee.org/abstract/document/9695195),
+
+* **CXTrack: Improving 3D Point Cloud Tracking With Contextual Information**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Xu_CXTrack_Improving_3D_Point_Cloud_Tracking_With_Contextual_Information_CVPR_2023_paper.html), [ :octocat: ](https://github.com/slothfulxtx/cxtrack3d) 
+
+* **MBPTrack: Improving 3D Point Cloud Tracking with Memory Networks and Box Priors**, ICCV 2023, [ :link: ](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_MBPTrack_Improving_3D_Point_Cloud_Tracking_with_Memory_Networks_and_ICCV_2023_paper.html)
+
+* **Correlation Pyramid Network for 3D Single Object Tracking**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023W/E2EAD/html/Wang_Correlation_Pyramid_Network_for_3D_Single_Object_Tracking_CVPRW_2023_paper.html)
+
+* **3D Single-Object Tracking in Point Clouds with High Temporal Variation**, ECCV 2024, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-031-72667-5_16)
+
+* **MMF-Track: Multi-Modal Multi-Level Fusion for 3D Single Object Tracking**, IEEE Transactions on Intelligent Vehicles 2024, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10292917), [ :octocat: ](https://github.com/NEU-REAL/MMF-Tracker) 
+
+* **Exploring Point-BEV Fusion for 3D Point Cloud Object Tracking With Transformer**, IEEE Transactions on Pattern Analysis and Machine Intelligence 2024, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10460168), [ :octocat: ](https://github.com/Jasonkks/PTTR) 
+
+* **MVCTrack: Boosting 3D Point Cloud Tracking via Multimodal-Guided Virtual Cues**, ICRA 2025, [ :link: ](https://ieeexplore.ieee.org/abstract/document/11128337)
+
+* **3D Single Object Tracking With Cross-Modal Fusion Conflict Elimination**, IEEE Transactions on Pattern Analysis and Machine Intelligence 2024, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10460168)
+
 
 ## Compression
-* **msLPCC: A multimodal-driven scalable framework for deep LiDAR point cloud compression**, AAAI 2024, [ :link: ]( https://ojs.aaai.org/index.php/AAAI/article/view/28362)[ :octocat: ]( https://github.com/I2-Multimedia-Lab/Pointsoup)
-
 
 * **Pointsoup: High-performance and extremely low-decoding-latency learned geometry codec for large-scale point cloud scenes**, IJCAI 2024, [ :link: ](https://www.ijcai.org/proceedings/2024/0595.pdf) [ :octocat: ]( https://github.com/I2-Multimedia-Lab/Pointsoup)
 
