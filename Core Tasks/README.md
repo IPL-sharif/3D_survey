@@ -392,7 +392,7 @@
 
 * **MVCTrack: Boosting 3D Point Cloud Tracking via Multimodal-Guided Virtual Cues**, ICRA 2025, [ :link: ](https://ieeexplore.ieee.org/abstract/document/11128337)
 
-* **3D Single Object Tracking With Cross-Modal Fusion Conflict Elimination**, IEEE Transactions on Pattern Analysis and Machine Intelligence 2024, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10460168)
+* **3D Single Object Tracking With Cross-Modal Fusion Conflict Elimination**, IEEE Transactions on Pattern Analysis and Machine Intelligence 2024, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10930556)
 
 
 ## Compression
