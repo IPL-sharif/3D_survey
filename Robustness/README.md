@@ -278,7 +278,36 @@
 * **MaskLRF: Self-supervised Pretraining via Masked Autoencoding of Local Reference Frames**, IEEE Access 2024, [ :link: ](https://yamanashi.repo.nii.ac.jp/records/2000381) [ :octocat: ](https://github.com/takahikof/MaskLRF)
 * **Self-supervised Learning of Rotation-invariant 3D Point Set Features using Transformer and its Self-distillation**, CVIU 2024, [ :link: ](https://www.sciencedirect.com/science/article/pii/S1077314224001061) [ :octocat: ](https://github.com/takahikof/RIPT_SDMM)
 * **RotInv-PCT: Rotation-Invariant Point Cloud Transformer via feature separation and aggregation**, Neural Networks 2025, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0893608025001029)
+## 3D Point Cloud Rotation Equivariance
 
+### Equivariant point convolutions / kernel operators
+* **Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data**, ICML 2020, [ :link: ](https://proceedings.mlr.press/v119/finzi20a/finzi20a.pdf) [ :octocat: ](https://github.com/mfinzi/LieConv)
+* **Equivariant Point Network for 3D Point Cloud Analysis**, CVPR 2021, [ :link: ](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Equivariant_Point_Network_for_3D_Point_Cloud_Analysis_CVPR_2021_paper.pdf) [ :octocat: ](https://github.com/nintendops/EPN_PointCloud)
+* **E2PN: Efficient SE(3)-Equivariant Point Network**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2303.10868) [ :octocat: ](https://github.com/minghanz/E2PN)
+* **Continuous SO(3) Equivariant Convolution for 3D Point Cloud Analysis**, ECCV 2024, [ :link: ](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06843.pdf) [ :octocat: ](https://github.com/jykim2958/CSEConv)
+
+### Equivariant message passing / geometric GNNs
+* **E(n) Equivariant Graph Neural Networks**, ICML 2021, [ :link: ](https://proceedings.mlr.press/v139/satorras21a.html) [ :octocat: ](https://github.com/vgsatorras/egnn)
+* **Geometric and Physical Quantities Improve E(3) Equivariant Message Passing**, ICLR 2022, [ :link: ](https://openreview.net/forum?id=_xwr8gOBeV1)
+* **SE(3) Equivariant Graph Neural Networks with Complete Local Frames**, ICML 2022, [ :link: ](https://arxiv.org/abs/2110.14811) [ :octocat: ](https://github.com/mouthful/ClofNet)
+
+### Equivariant attention / transformers
+* **SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks**, NeurIPS 2020, [ :link: ](https://papers.neurips.cc/paper/2020/file/15231a7ce4ba789d13b722cc5c955834-Paper.pdf) [ :octocat: ](https://github.com/FabianFuchsML/se3-transformer-public)
+* **Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs**, ICLR 2023, [ :link: ](https://openreview.net/forum?id=KwmPfARgOTD) [ :octocat: ](https://github.com/atomicarchitects/equiformer)
+* **EquiformerV2: Improved Equivariant Transformer for Scaling to Higher-Degree Representations**, ICLR 2024, [ :link: ](https://arxiv.org/abs/2306.12059) [ :octocat: ](https://github.com/atomicarchitects/equiformer_v2)
+* **SE(3)-bi-equivariant Transformers for Point Cloud Assembly**, NeurIPS 2024, [ :link: ](https://proceedings.neurips.cc/paper_files/paper/2024/file/d2d3ca53fd8fbd564bb948f8c09c0d85-Paper-Conference.pdf) [ :octocat: ](https://github.com/wzm2256/BiTr)
+
+### Equivariant priors for pose, registration, and fitting
+* **Leveraging SE(3) Equivariance for Self-Supervised Category-Level Object Pose Estimation**, NeurIPS 2021, [ :link: ](https://proceedings.neurips.cc/paper/2021/file/81e74d678581a3bb7a720b019f4f1a93-Paper.pdf) [ :octocat: ](https://github.com/dragonlong/equi-pose)
+* **Generalizing Neural Human Fitting to Unseen Poses With Articulated SE(3) Equivariance**, ICCV 2023, [ :link: ](https://openaccess.thecvf.com/content/ICCV2023/papers/Feng_Generalizing_Neural_Human_Fitting_to_Unseen_Poses_With_Articulated_SE3_ICCV_2023_paper.pdf) [ :octocat: ](https://github.com/HavenFeng/ArtEq)
+* **Equi-GSPR: Equivariant SE(3) Graph Network Model for Sparse Point Cloud Registration**, ECCV 2024, [ :link: ](https://arxiv.org/abs/2410.05729) [ :octocat: ](https://github.com/alexandor91/se3-equi-graph-registration)
+* **PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration**, ECCV 2024, [ :link: ](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09456.pdf) [ :octocat: ](https://github.com/yaorz97/PARENet)
+* **ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness**, ICCV 2025, [ :link: ](https://boqian-li.github.io/ETCH/) [ :octocat: ](https://github.com/boqian-li/ETCH)
+
+### Equivariant generative models on SE(3)
+* **SE(3) Diffusion Model-based Point Cloud Registration for Robust 6D Object Pose Estimation**, NeurIPS 2023, [ :link: ](https://arxiv.org/abs/2310.17359) [ :octocat: ](https://github.com/Jiang-HB/DiffusionReg)
+* **SE(3)-Equivariant Diffusion Models for 3D Object Analysis**, IJCAI 2025, [ :link: ](https://www.ijcai.org/proceedings/2025/0194.pdf)
+* **ET-SEED: Efficient Trajectory-Level SE(3) Equivariant Diffusion Policy**, ICLR 2025, [ :link: ](https://proceedings.iclr.cc/paper_files/paper/2025/hash/969a11f489c59c50c2cfe8c407c68a9b-Abstract-Conference.html) [ :octocat: ](https://github.com/yuechen0614/ET-SEED)
 
 ## 3D Domain Adaptation
 
