@@ -250,17 +250,15 @@
 * **Random sample consensus: A paradigm for model fitting with applications to image analysis and automated cartography**, CACM 1981, [ :link: ](https://doi.org/10.1145/358669.358692)
 
 
-
-
 ## 3D Point Cloud Rotation Invariance and Equivariance
 
 ### Survey / classic descriptors
 * **Rotation invariance and equivariance in 3D deep learning: a survey**, Artif. Intell. Review 2024, [ :link: ](https://link.springer.com/content/pdf/10.1007/s10462-024-10741-2.pdf)
-* **Shape Retrieval using 3D Zernike Descriptors**, Computer-Aided Design 2004, [ :link: ](https://cg.cs.uni-bonn.de/backend/v1/files/publications/novotni-2004-shape.pdf)
+* **Shape Retrieval using 3D Zernike Descriptors**, Computer-Aided Design 2004, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0010448504000077)
 
 ### Invariant point-feature (coordinate-free / invariant inputs)
-* **PPFNet: Global Context Aware Local Features for Robust 3D Point Matching**, CVPR 2018, [ :link: ](https://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_PPFNet_Global_Context_CVPR_2018_paper.pdf) [ :octocat: ](https://github.com/leoHeidel/PPFNet-tensorflow) *(re-impl.)*
-* **PPF-FoldNet: Unsupervised Learning of Rotation Invariant 3D Local Descriptors**, ECCV 2018, [ :link: ](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tolga_Birdal_PPF-FoldNet_Unsupervised_Learning_ECCV_2018_paper.pdf) [ :octocat: ](https://github.com/XuyangBai/PPF-FoldNet) *(re-impl.)*
+* **PPFNet: Global Context Aware Local Features for Robust 3D Point Matching**, CVPR 2018, [ :link: ](https://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_PPFNet_Global_Context_CVPR_2018_paper.pdf) [ :octocat: ](https://github.com/leoHeidel/PPFNet-tensorflow) 
+* **PPF-FoldNet: Unsupervised Learning of Rotation Invariant 3D Local Descriptors**, ECCV 2018, [ :link: ](https://openaccess.thecvf.com/content_ECCV_2018/papers/Tolga_Birdal_PPF-FoldNet_Unsupervised_Learning_ECCV_2018_paper.pdf) [ :octocat: ](https://github.com/XuyangBai/PPF-FoldNet) 
 * **PaRot: Patch-Wise Rotation-Invariant Network via Feature Disentanglement and Pose Restoration**, AAAI 2023, [ :link: ](https://patchrot.github.io/index_files/pdfs/AAAI2023_main.pdf) [ :octocat: ](https://github.com/dingxin-zhang/PaRot)
 * **PRIN/SPRIN: On Extracting Point-wise Rotation Invariant Features**, TPAMI 2021, [ :link: ](https://arxiv.org/pdf/2102.12093) [ :octocat: ](https://github.com/qq456cvb/SPRIN)
 * **SGMNet: Learning Rotation-Invariant Point Cloud Representations via Sorted Gram Matrix**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/papers/Xu_SGMNet_Learning_Rotation-Invariant_Point_Cloud_Representations_via_Sorted_Gram_Matrix_ICCV_2021_paper.pdf) 
@@ -270,25 +268,25 @@
 * **RIConv: Rotation Invariant Convolutions for 3D Point Clouds Deep Learning**, 3DV 2019, [ :link: ](https://arxiv.org/abs/1908.06297) [ :octocat: ](https://github.com/hkust-vgd/riconv)
 * **RIConv++: Effective Rotation Invariant Convolutions for 3D Point Clouds Deep Learning**, IJCV 2022, [ :link: ](https://link.springer.com/content/pdf/10.1007/s11263-022-01601-z.pdf) [ :octocat: ](https://github.com/cszyzhang/riconv2)
 * **RI-GCN: Rotation-Invariant Local-to-Global Representation Learning for 3D Point Cloud**, NeurIPS 2020, [ :link: ](https://proceedings.neurips.cc/paper/2020/file/5d0cb12f8c9ad6845110317afc6e2183-Paper.pdf) [ :octocat: ](https://github.com/goodbye61/RI_l2g)
-* **RISurConv: Rotation Invariant Surface Attention-Augmented Convolutions**, ECCV 2024 (Oral), [ :link: ](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04024.pdf) [ :octocat: ](https://github.com/cszyzhang/RISurConv)
+* **RISurConv: Rotation Invariant Surface Attention-Augmented Convolutions**, ECCV 2024, [ :link: ](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04024.pdf) [ :octocat: ](https://github.com/cszyzhang/RISurConv)
 
 ### Rotation-invariant transformer
 * **RITNet: A Rotation Invariant Transformer based Network for Point Cloud Registration**, ICTAI 2022, [ :link: ](https://researchr.org/publication/YangLWYL22) 
 * **RoITr: Rotation-Invariant Transformer for Point Cloud Matching**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Rotation-Invariant_Transformer_for_Point_Cloud_Matching_CVPR_2023_paper.pdf) [ :octocat: ](https://github.com/haoyu94/RoITr)
-* **MaskLRF: Self-supervised Pretraining via Masked Autoencoding of Local Reference Frames**, IEEE Access 2024, [ :link: ](https://yamanashi.repo.nii.ac.jp/records/2000381) [ :octocat: ](https://github.com/takahikof/MaskLRF)
+* **MaskLRF: Self-supervised Pretraining via Masked Autoencoding of Local Reference Frames**, IEEE Access 2024, [ :link: ](https://arxiv.org/abs/2403.00206) [ :octocat: ](https://github.com/takahikof/MaskLRF)
 * **Self-supervised Learning of Rotation-invariant 3D Point Set Features using Transformer and its Self-distillation**, CVIU 2024, [ :link: ](https://www.sciencedirect.com/science/article/pii/S1077314224001061) [ :octocat: ](https://github.com/takahikof/RIPT_SDMM)
 * **RotInv-PCT: Rotation-Invariant Point Cloud Transformer via feature separation and aggregation**, Neural Networks 2025, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0893608025001029)
+  
 ## 3D Point Cloud Rotation Equivariance
-
 ### Equivariant point convolutions / kernel operators
 * **Generalizing Convolutional Neural Networks for Equivariance to Lie Groups on Arbitrary Continuous Data**, ICML 2020, [ :link: ](https://proceedings.mlr.press/v119/finzi20a/finzi20a.pdf) [ :octocat: ](https://github.com/mfinzi/LieConv)
 * **Equivariant Point Network for 3D Point Cloud Analysis**, CVPR 2021, [ :link: ](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Equivariant_Point_Network_for_3D_Point_Cloud_Analysis_CVPR_2021_paper.pdf) [ :octocat: ](https://github.com/nintendops/EPN_PointCloud)
-* **E2PN: Efficient SE(3)-Equivariant Point Network**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2303.10868) [ :octocat: ](https://github.com/minghanz/E2PN)
+* **E2PN: Efficient SE(3)-Equivariant Point Network**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2206.05398) [ :octocat: ](https://github.com/minghanz/E2PN)
 * **Continuous SO(3) Equivariant Convolution for 3D Point Cloud Analysis**, ECCV 2024, [ :link: ](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/06843.pdf) [ :octocat: ](https://github.com/jykim2958/CSEConv)
 
 ### Equivariant message passing / geometric GNNs
-* **E(n) Equivariant Graph Neural Networks**, ICML 2021, [ :link: ](https://proceedings.mlr.press/v139/satorras21a.html) [ :octocat: ](https://github.com/vgsatorras/egnn)
-* **Geometric and Physical Quantities Improve E(3) Equivariant Message Passing**, ICLR 2022, [ :link: ](https://openreview.net/forum?id=_xwr8gOBeV1)
+* **E(n) Equivariant Graph Neural Networks**, ICML 2021, [ :link: ](https://arxiv.org/abs/2102.09844) [ :octocat: ](https://github.com/vgsatorras/egnn)
+* **Geometric and Physical Quantities Improve E(3) Equivariant Message Passing**, ICLR 2022, [ :link: ](https://arxiv.org/abs/2110.02905)
 * **SE(3) Equivariant Graph Neural Networks with Complete Local Frames**, ICML 2022, [ :link: ](https://arxiv.org/abs/2110.14811) [ :octocat: ](https://github.com/mouthful/ClofNet)
 
 ### Equivariant attention / transformers
