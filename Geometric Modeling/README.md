@@ -14,7 +14,20 @@
   *  [Surface Reconstruction](#surface-reconstruction)
 ---
 ## Generation
+
 ### Unconditional generation
+
+* **FrePolAD: Frequency-rectified point latent diffusion for point cloud generation**, ECCV 2024, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-031-72855-6_25) [ :octocat: ](https://chenliang-zhou.github.io/FrePolad)
+
+* **Fast point cloud generation with straight flows**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Wu_Fast_Point_Cloud_Generation_With_Straight_Flows_CVPR_2023_paper.html)
+
+* **3D neural field generation using triplane diffusion**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Shue_3D_Neural_Field_Generation_Using_Triplane_Diffusion_CVPR_2023_paper.html) [ :octocat: ](https://github.com/JRyanShue/NFD)
+
+* **Controllable mesh generation through sparse latent point diffusion models**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Lyu_Controllable_Mesh_Generation_Through_Sparse_Latent_Point_Diffusion_Models_CVPR_2023_paper.html) [ :octocat: ](https://slide-3d.github.io)
+
+* **SP-GAN: Sphere-guided 3D shape generation and manipulation**, ACM TOG 2021, [ :link: ](https://dl.acm.org/doi/10.1145/3450626.3459766) [ :octocat: ](https://github.com/liruihui/sp-gan)
+
+
 
 
 ### Point cloud completion
@@ -70,6 +83,21 @@
 
 
 ### Weakly conditional generation
+
+* **GaussianAnything: Interactive point cloud latent diffusion for 3D generation**, ICLR 2025, [ :link: ](https://openreview.net/forum?id=P4DbTSDQFu) [ :octocat: ](https://nirvanalan.github.io/projects/ga/)
+
+* **I-PAttnGAN: An Image-Assisted Point Cloud Generation Method Based on Attention Generative Adversarial Network**, Remote Sensing 2025, [ :link: ](https://www.mdpi.com/2072-4292/17/1/153)
+
+* **RangeLDM: Fast realistic LiDAR point cloud generation**, ECCV 2024, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-031-72784-9_7) [ :octocat: ](https://github.com/woodwindhu/rangeldm)
+
+* **Text2LiDAR: Text-guided LiDAR point cloud generation via equirectangular transformer**, ECCV 2024, [ :link: ](https://link.springer.com/content/pdf/10.1007/978-3-031-72992-8_17.pdf) [ :octocat: ](https://github.com/wuyang98/Text2LiDAR)
+
+* **Sketch and text guided diffusion model for colored point cloud generation**, ICCV 2023, [ :link: ](http://openaccess.thecvf.com/content/ICCV2023/html/Wu_Sketch_and_Text_Guided_Diffusion_Model_for_Colored_Point_Cloud_ICCV_2023_paper.html)
+
+* **GaussianDreamer: Fast generation from text to 3D Gaussian splatting with point cloud priors**, CoRR 2023, [ :link: ](https://openreview.net/forum?id=u6CYncasoo) [ :octocat: ](https://taoranyi.com/gaussiandreamer)
+
+
+
 
 
 
