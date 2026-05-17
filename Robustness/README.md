@@ -291,7 +291,7 @@
 
 ### Equivariant attention / transformers
 * **SE(3)-Transformers: 3D Roto-Translation Equivariant Attention Networks**, NeurIPS 2020, [ :link: ](https://papers.neurips.cc/paper/2020/file/15231a7ce4ba789d13b722cc5c955834-Paper.pdf) [ :octocat: ](https://github.com/FabianFuchsML/se3-transformer-public)
-* **Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs**, ICLR 2023, [ :link: ](https://openreview.net/forum?id=KwmPfARgOTD) [ :octocat: ](https://github.com/atomicarchitects/equiformer)
+* **Equiformer: Equivariant Graph Attention Transformer for 3D Atomistic Graphs**, ICLR 2023, [ :link: ](https://arxiv.org/abs/2206.11990) [ :octocat: ](https://github.com/atomicarchitects/equiformer)
 * **EquiformerV2: Improved Equivariant Transformer for Scaling to Higher-Degree Representations**, ICLR 2024, [ :link: ](https://arxiv.org/abs/2306.12059) [ :octocat: ](https://github.com/atomicarchitects/equiformer_v2)
 * **SE(3)-bi-equivariant Transformers for Point Cloud Assembly**, NeurIPS 2024, [ :link: ](https://proceedings.neurips.cc/paper_files/paper/2024/file/d2d3ca53fd8fbd564bb948f8c09c0d85-Paper-Conference.pdf) [ :octocat: ](https://github.com/wzm2256/BiTr)
 
