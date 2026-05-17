@@ -39,6 +39,13 @@
 
 ### Evasion Attacks
 
+* **Universal 3D Point Cloud Attack Using Gaussian Distribution Modeling**, IEEE ICASSP 2026, [ :link: ](https://ieeexplore.ieee.org/abstract/document/11460620)
+
+* **Transferable Adversarial Attacks on 3D Point Cloud Semantic Segmentation via Diffusion Models in Autonomous Driving**, IEEE Transactions on Consumer Electronics 2026, [ :link: ](https://ieeexplore.ieee.org/abstract/document/11434526)
+
+* **Transferable and undefendable point cloud attacks via medial axis transform**, Elsevier 2026, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0167839626000087)
+
+* **Toward leveraging intrinsic point cloud features in 3D adversarial attacks**, PLOS One 2026, [ :link: ](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0344574)
 
 * **On the Realism of LiDAR Spoofing Attacks against Autonomous Driving Vehicle at High Speed and Long Distance**, NDSS 2025, [ :link: ](https://www.ndss-symposium.org/ndss-paper/on-the-realism-of-lidar-spoofing-attacks-against-autonomous-driving-vehicle-at-high-speed-and-long-distance/)
 
@@ -78,6 +85,16 @@
 ### Evasion Defenses
 
 
+* **PWAVEP: Purifying Imperceptible Adversarial Perturbations in 3D Point Clouds via Spectral Graph Wavelets**, ACM 2026, [ :link: ](https://dl.acm.org/doi/abs/10.1145/3774904.3792351) [ :octocat: ](https://github.com/a772316182/pwavep)
+
+* **3DAdvBP: Suppressing 3D shape adversarial perturbation by introducing benign perturbation**, Elsevier 2026, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0020025526001829)
+
+* **3D-ANC: Adaptive Neural Collapse for Robust 3D Point Cloud Recognition**, AAAI 2026, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/37434)
+
+* **GRV: Adversarial defense for 3D point clouds using geometric restoration and multi-model voting**, Elsevier 2026, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0957417426011437)
+
+* **Axial-View-Oriented Contrastive Adversarial Training for Robust Point Cloud Recognition**, IEEE TIFS 2026, [ :link: ](https://ieeexplore.ieee.org/abstract/document/11361180)
+
 * **Improving adversarial robustness for 3d point cloud recognition at test-time through purified self-training**, Arxiv Preprint 2024, [ :link: ](https://ui.adsabs.harvard.edu/abs/2024arXiv240914940L/abstract)
 
 * **Improving robustness of 3d point cloud recognition from a fourier perspective**, NeurIPS 2024, [ :link: ](https://proceedings.neurips.cc/paper_files/paper/2024/hash/7e0af0d1bc0ec2a90fc294be2e00447e-Abstract-Conference.html)
@@ -99,6 +116,8 @@
 
 ### Poisoning Attacks
 
+
+* **6DAttack: Backdoor Attacks in the 6DoF Pose Estimation**, AAAI 2026, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/40855)
 
 * **MOBA: A Material-Oriented Backdoor Attack against LiDAR-based 3D Object Detection Systems**, AAAI 2026, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/40842)
 
@@ -153,6 +172,14 @@
 
 ### LiDAR Attacks and Defenses
 
+
+* **MOBA: A Material-Oriented Backdoor Attack against LiDAR-based 3D Object Detection Systems**, AAAI 2026, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/40842)
+
+* **Leveraging Adverse Weather for Enhanced LiDAR Spoofing in Autonomous Driving: Challenges and Opportunities**, IEEE Vehicular Technology Magazine 2026, [ :link: ](https://ieeexplore.ieee.org/abstract/document/11364311)
+
+* **APMDet: Defending Against Object-Based Attacks For Lidar Detection In Autonomous Driving**, IEEE ICASSP 2026, [ :link: ](https://ieeexplore.ieee.org/abstract/document/11462211)
+
+* **Transferable Adversarial Attacks on 3D Point Cloud Semantic Segmentation via Diffusion Models in Autonomous Driving**, IEEE Transactions on Consumer Electronics 2026, [ :link: ](https://ieeexplore.ieee.org/abstract/document/11434526)
 
 * **SLAMSpoof: Practical LiDAR Spoofing Attacks on Localization Systems Guided by Scan Matching Vulnerability Analysis**, IEEE ICRA 2025, [ :link: ](https://ieeexplore.ieee.org/abstract/document/11127495) [ :octocat: ](https://github.com/Keio-CSG/slamspoof )
 
