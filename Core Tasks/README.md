@@ -287,7 +287,39 @@
 ### Backbone Type
 
 ### Scene Type
+#### Indoor 3D Object Detection
+- **ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes**, CVPR 2020, [ :link: ](https://arxiv.org/abs/2001.10692) [ :octocat: ](https://github.com/facebookresearch/imvotenet)
+- **H3DNet: 3D Object Detection Using Hybrid Geometric Primitives**, ECCV 2020, [ :link: ](https://arxiv.org/abs/2006.05682) [ :octocat: ](https://github.com/zaiweizhang/H3DNet)
+- **3DETR: An End-to-End Transformer Model for 3D Object Detection**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2109.08141) [ :octocat: ](https://github.com/facebookresearch/3detr)
+- **Group-Free 3D Object Detection via Transformers**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2104.00678) [ :octocat: ](https://github.com/zeliu98/Group-Free-3D)
+- **FCAF3D: Fully Convolutional Anchor-Free 3D Object Detection**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2112.00322)
+- **V-DETR: DETR with Vertex Relative Position Encoding for 3D Object Detection**, arXiv 2023, [ :link: ](https://arxiv.org/abs/2308.04409) [ :octocat: ](https://github.com/V-DETR/V-DETR)
 
+#### Outdoor LiDAR-based 3D Object Detection
+- **3DSSD: Point-Based 3D Single Stage Object Detector**, CVPR 2020, [ :link: ](https://arxiv.org/abs/2002.10187) [ :octocat: ](https://github.com/JIA-Lab-research/3DSSD)
+- **SA-SSD: Structure Aware Single-stage 3D Object Detection from Point Cloud**, CVPR 2020, [ :link: ](https://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf) [ :octocat: ](https://github.com/skyhehe123/SA-SSD)
+- **CIA-SSD: Confident IoU-Aware Single-Stage Object Detector From Point Cloud**, AAAI 2021, [ :link: ](https://arxiv.org/abs/2012.03015) [ :octocat: ](https://github.com/Vegeta2020/CIA-SSD)
+- **CenterPoint: Center-based 3D Object Detection and Tracking**, CVPR 2021, [ :link: ](https://arxiv.org/abs/2006.11275) [ :octocat: ](https://github.com/tianweiy/CenterPoint)
+- **Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection**, AAAI 2021, [ :link: ](https://arxiv.org/abs/2012.15712) [ :octocat: ](https://github.com/djiajunustc/Voxel-R-CNN)
+- **LiDAR R-CNN: An Efficient and Universal 3D Object Detector**, CVPR 2021, [ :link: ](https://arxiv.org/abs/2103.15297) [ :octocat: ](https://github.com/tusen-ai/LiDAR_RCNN)
+- **RangeDet: In Defense of Range View for LiDAR-based 3D Object Detection**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2103.10039) [ :octocat: ](https://github.com/tusen-ai/RangeDet)
+- **VoTr: Voxel Transformer for 3D Object Detection**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2109.02497) [ :octocat: ](https://github.com/PointsCoder/VOTR)
+- **SST: Embracing Single Stride 3D Object Detector with Sparse Transformer**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2112.06375) [ :octocat: ](https://github.com/tusen-ai/SST)
+- **CenterFormer: Center-based Transformer for 3D Object Detection**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2209.05588) [ :octocat: ](https://github.com/TuSimple/centerformer)
+- **MPPNet: Multi-Frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2205.05979) [ :octocat: ](https://github.com/open-mmlab/OpenPCDet)
+- **FSD: Fully Sparse 3D Object Detection**, NeurIPS 2022, [ :link: ](https://proceedings.neurips.cc/paper_files/paper/2022/hash/02a42f36b9d1fd6c8ec5286120a98e8e-Abstract-Conference.html) [ :octocat: ](https://github.com/liyingyanUCAS/FSD)
+- **DSVT: Dynamic Sparse Voxel Transformer With Rotated Sets**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2301.06051) [ :octocat: ](https://github.com/Haiyang-W/DSVT)
+- **PillarNeXt: Rethinking Network Designs for 3D Object Detection in LiDAR Point Clouds**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2305.04925) [ :octocat: ](https://github.com/qcraftai/pillarnext)
+- **VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2303.11301) [ :octocat: ](https://github.com/JIA-Lab-research/VoxelNeXt)
+
+#### Outdoor LiDAR-Camera Fusion
+- **PointPainting: Sequential Fusion for 3D Object Detection**, CVPR 2020, [ :link: ](https://arxiv.org/abs/1911.10150)
+- **3D-CVF: Cross-View Spatial Feature Fusion for 3D Object Detection**, ECCV 2020, [ :link: ](https://arxiv.org/abs/2004.12636) [ :octocat: ](https://github.com/rasd3/3D-CVF)
+- **TransFusion: Robust LiDAR-Camera Fusion for 3D Object Detection with Transformers**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2203.11496) [ :octocat: ](https://github.com/XuyangBai/TransFusion)
+- **BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework**, NeurIPS 2022, [ :link: ](https://arxiv.org/abs/2205.13790) [ :octocat: ](https://github.com/ADLab-AutoDrive/BEVFusion)
+- **GA-Fusion: Adaptive Fusing LiDAR and Camera with Multiple Guidance for 3D Object Detection**, CVPR 2024, [ :link: ](https://arxiv.org/abs/2411.00340)
+- **SparseLIF: High-Performance Sparse LiDAR-Camera Fusion for 3D Object Detection**, ECCV 2024, [ :link: ](https://arxiv.org/abs/2403.07284)
+- **MambaFusion: Height-Fidelity Dense Global Fusion for Multi-modal 3D Object Detection**, arXiv 2025, [ :link: ](https://arxiv.org/abs/2507.04369) [ :octocat: ](https://github.com/AutoLab-SAI-SJTU/MambaFusion)
 ### Supervision
 #### Weakly-supervised 3D Detection
 - **WS3D: Weakly Supervised 3D Object Detection from Lidar Point Cloud**, ECCV 2020, [ :link: ](https://arxiv.org/abs/2007.11901) [ :octocat: ](https://github.com/hlesmqh/WS3D)
