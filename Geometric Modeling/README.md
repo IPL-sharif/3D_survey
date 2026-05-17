@@ -2,9 +2,9 @@
 
 * [Generation](#Generation)
 
-  *  [Unconditional generation](#unconditional)
-  *  [Point cloud completion](#completion)
-  *  [Weakly conditional generation](#weakly-conditional)
+  *  [Unconditional generation](#unconditional-generation)
+  *  [Point cloud completion](#point-cloud-completion)
+  *  [Weakly conditional generation](#weakly-conditional-generation)
 
 * [Reconstruction](#Reconstruction)
 
