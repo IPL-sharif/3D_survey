@@ -297,7 +297,7 @@
 
 #### Outdoor LiDAR-based 3D Object Detection
 - **3DSSD: Point-Based 3D Single Stage Object Detector**, CVPR 2020, [ :link: ](https://arxiv.org/abs/2002.10187) [ :octocat: ](https://github.com/JIA-Lab-research/3DSSD)
-- **SA-SSD: Structure Aware Single-stage 3D Object Detection from Point Cloud**, CVPR 2020, [ :link: ](https://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf) [ :octocat: ](https://github.com/skyhehe123/SA-SSD)
+- **SA-SSD: Structure Aware Single-stage 3D Object Detection from Point Cloud**, CVPR 2020, [ :link: ]([https://www4.comp.polyu.edu.hk/~cslzhang/paper/SA-SSD.pdf](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Structure_Aware_Single-Stage_3D_Object_Detection_From_Point_Cloud_CVPR_2020_paper.pdf)) [ :octocat: ](https://github.com/skyhehe123/SA-SSD)
 - **CIA-SSD: Confident IoU-Aware Single-Stage Object Detector From Point Cloud**, AAAI 2021, [ :link: ](https://arxiv.org/abs/2012.03015) [ :octocat: ](https://github.com/Vegeta2020/CIA-SSD)
 - **CenterPoint: Center-based 3D Object Detection and Tracking**, CVPR 2021, [ :link: ](https://arxiv.org/abs/2006.11275) [ :octocat: ](https://github.com/tianweiy/CenterPoint)
 - **Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection**, AAAI 2021, [ :link: ](https://arxiv.org/abs/2012.15712) [ :octocat: ](https://github.com/djiajunustc/Voxel-R-CNN)
