@@ -307,7 +307,7 @@
 - **SST: Embracing Single Stride 3D Object Detector with Sparse Transformer**, CVPR 2022, [ :link: ](https://arxiv.org/abs/2112.06375) [ :octocat: ](https://github.com/tusen-ai/SST)
 - **CenterFormer: Center-based Transformer for 3D Object Detection**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2209.05588) [ :octocat: ](https://github.com/TuSimple/centerformer)
 - **MPPNet: Multi-Frame Feature Intertwining with Proxy Points for 3D Temporal Object Detection**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2205.05979) [ :octocat: ](https://github.com/open-mmlab/OpenPCDet)
-- **FSD: Fully Sparse 3D Object Detection**, NeurIPS 2022, [ :link: ](https://proceedings.neurips.cc/paper_files/paper/2022/hash/02a42f36b9d1fd6c8ec5286120a98e8e-Abstract-Conference.html) [ :octocat: ](https://github.com/liyingyanUCAS/FSD)
+- **FSD: Fully Sparse 3D Object Detection**, NeurIPS 2022, [ :link: ]([https://proceedings.neurips.cc/paper_files/paper/2022/hash/02a42f36b9d1fd6c8ec5286120a98e8e-Abstract-Conference.html) [ :octocat: ](https://github.com/liyingyanUCAS/FSD](https://arxiv.org/abs/2207.10035))
 - **DSVT: Dynamic Sparse Voxel Transformer With Rotated Sets**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2301.06051) [ :octocat: ](https://github.com/Haiyang-W/DSVT)
 - **PillarNeXt: Rethinking Network Designs for 3D Object Detection in LiDAR Point Clouds**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2305.04925) [ :octocat: ](https://github.com/qcraftai/pillarnext)
 - **VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking**, CVPR 2023, [ :link: ](https://arxiv.org/abs/2303.11301) [ :octocat: ](https://github.com/JIA-Lab-research/VoxelNeXt)
