@@ -96,7 +96,7 @@
 
 * **GaussianDreamer: Fast generation from text to 3D Gaussian splatting with point cloud priors**, CoRR 2023, [ :link: ](https://openreview.net/forum?id=u6CYncasoo) [ :octocat: ](https://taoranyi.com/gaussiandreamer)
 
-
+* **Conditional gan for point cloud generation**, ACCV 2022, [ :link: ](https://openaccess.thecvf.com/content/ACCV2022/html/Yang_Conditional_GAN_for_Point_Cloud_Generation_ACCV_2022_paper.html) [ :octocat: ](https://github.com/zlyang3/PC-cGAN)
 
 
 
