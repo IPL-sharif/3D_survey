@@ -497,6 +497,19 @@
 
 * **Roi-guided point cloud geometry compression towards human and machine vision**, ACM International Conference on Multimedia 2024, [ :link: ](https://dl.acm.org/doi/10.1145/3664647.3681301)
 
+* **PCAC-GAN: a sparse-tensor-based generative adversarial network for 3d point cloud attribute compression**, Computational Visual Media 2025, [ :link: ](https://ieeexplore.ieee.org/abstract/document/11174068/)
+
+* **Rendering-oriented 3d point cloud attribute compression using sparse tensor-based transformer**, IEEE 2025, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10908209/) [ :octocat: ](https://github.com/net-F/RO-PCAC)
+
+* **Voxel-based point cloud geometry compression with space-to-channel context**, Arxiv 2025, [ :link: ](https://arxiv.org/abs/2503.18283)
+
+* **Octree-STCM: Octree-Based Spatio-Temporal Context Model for Lossless Geometry Compression of Dynamic Point Cloud**, ACM 2025, [ :link: ](https://dl.acm.org/doi/abs/10.1145/3731715.3733489)
+
+* **DeepRAHT: Learning Predictive RAHT for Point Cloud Attribute Compression**, Arxiv 2026, [ :link: ](https://arxiv.org/abs/2601.12255,) [ :octocat: ](https://github.com/zb12138/DeepRAHT)
+
+* **Octree-based learned point cloud geometry compression: a lossy perspective**, Arxiv 2026, [ :link: ](https://arxiv.org/abs/2603.28095)
+
+* **OctMamba: Mamba-Based Octree Context Entropy Model for Point Cloud Geometry Compression**, Pattern Recognition 2026, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0031320326000762)
 
 ## 6DoF Pose Estimation
 
