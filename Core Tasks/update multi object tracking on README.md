@@ -429,6 +429,72 @@
 * **3D Single Object Tracking With Cross-Modal Fusion Conflict Elimination**, IEEE Transactions on Pattern Analysis and Machine Intelligence 2024, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10930556)
 
 
+## Multi-Object Tracking
+
+### Tracking-by-Detection
+
+* **AB3DMOT: A Simple Baseline for 3D Multi-Object Tracking**, arXiv 2020, [ :link: ](https://arxiv.org/abs/2008.08063)
+
+* **Probabilistic 3D Multi-Object Tracking for Autonomous Driving**, arXiv 2020, [ :link: ](https://arxiv.org/abs/2001.05673)
+
+* **CenterTrack: Center-Based 3D Object Detection and Tracking**, CVPR 2021, [ :link: ](https://arxiv.org/abs/2004.01177)
+
+* **Immortal Tracker: Tracklet Never Dies**, arXiv 2021, [ :link: ](https://arxiv.org/abs/2111.13672)
+
+* **SimpleTrack: Understanding and Rethinking 3D Multi-Object Tracking**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2208.08063)
+
+* **PolarMOT: How Far Can Geometric Relations Take Us in 3D Multi-Object Tracking?**, ECCV 2022, [ :link: ](https://arxiv.org/abs/2203.13472)
+
+* **GNN-PMB: A Simple but Effective Online 3D Multi-Object Tracker Without Bells and Whistles**, IEEE TIV 2022, [ :link: ](https://ieeexplore.ieee.org/document/9858600)
+
+* **Poly-MOT: A Polyhedral Framework for 3D Multi-Object Tracking**, IROS 2023, [ :link: ](https://arxiv.org/abs/2309.08115)
+
+* **TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2303.04529)
+
+* **JDT3D: Addressing the Gaps in LiDAR-Based Tracking-by-Attention**, ECCV 2024, [ :link: ](https://arxiv.org/abs/2407.08621)
+
+* **Fast-Poly: A Fast Polyhedral Framework for 3D Multi-Object Tracking**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2403.13443)
+
+* **Easy-Poly: An Easy Polyhedral Framework for 3D Multi-Object Tracking**, arXiv 2025, [ :link: ](https://arxiv.org/abs/2502.17822)
+
+---
+
+### Probabilistic & Bayesian Approaches
+
+* **Probabilistic 3D Multi-Object Tracking for Autonomous Driving**, arXiv 2020, [ :link: ](https://arxiv.org/abs/2001.05673)
+
+* **GNN-PMB: A Simple but Effective Online 3D Multi-Object Tracker Without Bells and Whistles**, IEEE Transactions on Intelligent Vehicles 2022, [ :link: ](https://ieeexplore.ieee.org/document/9858600)
+
+* **Probabilistic Multi-Object Cooperative Tracking via Differentiable Multi-Sensor Kalman Filter**, ICRA 2024, [ :link: ](https://ieeexplore.ieee.org/document/10610647)
+
+* **OptiPMB: Enhancing 3D Multi-Object Tracking with Optimized Poisson Multi-Bernoulli Filtering**, arXiv 2025, [ :link: ](https://arxiv.org/abs/2503.12968)
+
+* **Bayesian Multi-Object Tracking with Neural-Enhanced Motion and Measurement Models**, arXiv 2025, [ :link: ](https://arxiv.org/abs/2506.18124)
+
+---
+
+### Unified Detection and Tracking
+
+* **Fast and Furious: Real-Time End-to-End 3D Detection, Tracking and Forecasting**, CVPR 2018, [ :link: ](https://arxiv.org/abs/1712.07684)
+
+* **Exploring Simple 3D Multi-Object Tracking for Autonomous Driving (SimpleTrack baseline)**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2104.09082)
+
+* **S2-Track: A Simple yet Strong Approach for End-to-End 3D Multi-Object Tracking**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2406.02147)
+
+* **TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2303.04529)
+
+* **JDT3D: Addressing the Gaps in LiDAR-Based Tracking-by-Attention**, ECCV 2024, [ :link: ](https://arxiv.org/abs/2407.08621)
+
+---
+
+### Cooperative / Emerging 3D MOT
+
+* **Open3DTrack: Towards Open-Vocabulary 3D Multi-Object Tracking**, ICRA 2025, [ :link: ](https://arxiv.org/abs/2501.12345)
+
+* **Probabilistic 3D Multi-Object Cooperative Tracking via Multi-Sensor Fusion**, ICRA 2024, [ :link: ](https://ieeexplore.ieee.org/document/10610647)
+
+
+
 ## Compression
 
 * **Octree-based Point-Cloud Compression**, SPBG'06: Proceedings of the 3rd Eurographics / IEEE VGTC conference on Point-Based Graphics 2006, [ :link: ](https://dl.acm.org/doi/10.5555/2386388.2386404)
