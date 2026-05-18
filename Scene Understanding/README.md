@@ -38,6 +38,8 @@
 - **Diffusion based augmentation for captioning and retrieval in cultural heritage**, ICCV 2023, [ :link: ](https://openaccess.thecvf.com/content/ICCV2023W/e-Heritage/papers/Cioni_Diffusion_Based_Augmentation_for_Captioning_and_Retrieval_in_Cultural_Heritage_ICCVW_2023_paper.pdf), [ :octocat: ](https://github.com/ciodar/cultural-heritage-diffaug)
 - **View selection for 3d captioning via diffusion ranking**, ECCV 2024, [ :link: ](https://arxiv.org/pdf/2404.07984), [ :octocat: ](https://github.com/tiangeluo/DiffuRank)
 - **Diff-3DCap: Shape Captioning With Diffusion Models**, T-VCG 2025, [ :link: ](https://arxiv.org/pdf/2509.23718)
+- **CG-MLLM: Captioning and Generating 3D Content via Multi-modal Large Language Models**, Arxiv 2026, [ :link: ](https://arxiv.org/pdf/2601.21798)
+- **3D CoCa v2: Contrastive Learners with Test-Time Search for Generalizable Spatial Intelligence**, Arxiv 2026, (https://arxiv.org/pdf/2601.06496), [ :octocat: ](https://github.com/AIGeeksGroup/3DCoCav2) 
 
 
 ## 3D Grounding
@@ -80,6 +82,8 @@
 - **Ns3d: Neuro-symbolic grounding of 3d objects and relations**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/papers/Hsu_NS3D_Neuro-Symbolic_Grounding_of_3D_Objects_and_Relations_CVPR_2023_paper.pdf), [ :octocat: ](https://github.com/joyhsu0504/NS3D)
 - **A Multi-Modal Neuro-Symbolic Approach for Spatial Reasoning-Based Visual Grounding in Robotics**, Arxiv 2025, [ :link: ](https://arxiv.org/pdf/2510.27033)
 - **Reasoning in Space via Grounding in the World**, Arxiv 2025, [ :link: ](https://arxiv.org/pdf/2510.13800), [ :octocat: ](https://github.com/WU-CVGL/GS-Reasoner)
+- **Lsd-3d: Large-scale 3d driving scene generation with geometry grounding**, AAAI 2026, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/37765/41727)
+- **Reasoning Matters for 3D Visual Grounding**, Arxiv 2026, [ :link: ](https://arxiv.org/pdf/2601.08811) 
 
 
 ## 3D Question Answering
