@@ -39,6 +39,12 @@
    * [Single-Object Tracking](#Single-Object-Tracking)
       * [LiDAR Trackers](#LiDAR-Trackers)
       * [RGB-LiDAR Trackers](#RGB-LiDAR-Trackers)
+  * [Multi-Object Tracking](#Multi-Object-Tracking)
+     * [Tracking-by-Detection](#Tracking-by-Detection)
+     * [Probabilistic & Bayesian Approaches](#Probabilistic--Bayesian-Approaches)
+     * [Unified Detection and Tracking](#Unified-Detection-and-Tracking)
+     * [Cooperative / Emerging 3D MOT](#Cooperative--Emerging-3D-MOT)
+
 
 * [Compression](#Compression)
 
