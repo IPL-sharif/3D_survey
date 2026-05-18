@@ -329,8 +329,6 @@
 
 * **Mixed Precision PointPillars for Efficient 3D Object Detection with TensorRT**, arXiv 2026, [ :link: ](https://arxiv.org/abs/2601.12638)
 
-* **SRCN3D: Sparse R-CNN 3D for Compact Convolutional Multi-view 3D Object Detection and Tracking**, arXiv 2022, [ :link: ](https://arxiv.org/abs/2206.14451)
-
 #### Transformer
 
 * **Voxel Transformer (VoTr): Voxel Transformer for 3D Object Detection**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/html/Mao_Voxel_Transformer_for_3D_Object_Detection_ICCV_2021_paper.html)
