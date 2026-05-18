@@ -320,19 +320,36 @@
 ### Sensor Modality
 
 ### Backbone Type
+
 #### CNN
 
-* **SRCN3D: Sparse R-CNN 3D for Compact Multi-View 3D Object Detection and Tracking**, arXiv 2022  
-  [ :link: ](https://arxiv.org/abs/2206.14451)
+* **VoxelNeXt: Fully Sparse VoxelNet for 3D Object Detection and Tracking**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Chen_VoxelNeXt_Fully_Sparse_VoxelNet_for_3D_Object_Detection_and_Tracking_CVPR_2023_paper.html)
 
-* **Rethinking Backbone Design for Lightweight 3D Object Detection in LiDAR**, ICCV 2025  
-  [ :link: ](https://arxiv.org/abs/2508.00744)
+* **Rethinking Backbone Design for Lightweight 3D Object Detection in LiDAR**, ICCVW 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025W/EVW/html/Chandorkar_Rethinking_Backbone_Design_for_Lightweight_3D_Object_Detection_in_LiDAR_ICCVW_2025_paper.html)
 
-* **Mixed Precision PointPillars for Efficient 3D Object Detection with TensorRT**, arXiv 2026  
-  [ :link: ](https://arxiv.org/abs/2601.12638)
+* **Mixed Precision PointPillars for Efficient 3D Object Detection with TensorRT**, arXiv 2026, [ :link: ](https://arxiv.org/abs/2601.12638)
 
----
+* **SRCN3D: Sparse R-CNN 3D for Compact Convolutional Multi-view 3D Object Detection and Tracking**, arXiv 2022, [ :link: ](https://arxiv.org/abs/2206.14451)
 
+#### Transformer
+
+* **Voxel Transformer (VoTr): Voxel Transformer for 3D Object Detection**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/html/Mao_Voxel_Transformer_for_3D_Object_Detection_ICCV_2021_paper.html)
+
+* **SST: Embracing Single Stride 3D Object Detector with Sparse Transformer**, CVPR 2022, [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/html/Fan_Embracing_Single_Stride_3D_Object_Detector_With_Sparse_Transformer_CVPR_2022_paper.html)
+
+* **DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/html/Wang_DSVT_Dynamic_Sparse_Voxel_Transformer_With_Rotated_Sets_CVPR_2023_paper.html)
+
+* **LitePT: Lighter Yet Stronger Point Transformer**, arXiv 2025, [ :link: ](https://arxiv.org/abs/2512.13689)
+
+* **GeoFormer: Geometry Point Encoder for 3D Object Detection with Graph-based Transformer**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/html/Jin_GeoFormer_Geometry_Point_Encoder_for_3D_Object_Detection_with_Graph-based_ICCV_2025_paper.html)
+
+#### GNN
+
+* **Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud**, CVPR 2020, [ :link: ](https://arxiv.org/abs/2003.01251)
+
+* **PC-RGNN: Point Cloud Completion and Graph Neural Network for 3D Object Detection**, arXiv 2020, [ :link: ](https://arxiv.org/abs/2012.10412)
+
+* **VoxT-GNN: A 3D Object Detection Approach from Point Cloud Based on Voxel-Level Transformer and Graph Neural Network**, IP&M 2025, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0306457325000962)
 ### Scene Type
 #### Indoor 3D Object Detection
 - **ImVoteNet: Boosting 3D Object Detection in Point Clouds with Image Votes**, CVPR 2020, [ :link: ](https://arxiv.org/abs/2001.10692) [ :octocat: ](https://github.com/facebookresearch/imvotenet)
