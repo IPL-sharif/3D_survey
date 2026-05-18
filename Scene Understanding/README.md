@@ -39,7 +39,7 @@
 - **View selection for 3d captioning via diffusion ranking**, ECCV 2024, [ :link: ](https://arxiv.org/pdf/2404.07984), [ :octocat: ](https://github.com/tiangeluo/DiffuRank)
 - **Diff-3DCap: Shape Captioning With Diffusion Models**, T-VCG 2025, [ :link: ](https://arxiv.org/pdf/2509.23718)
 - **CG-MLLM: Captioning and Generating 3D Content via Multi-modal Large Language Models**, Arxiv 2026, [ :link: ](https://arxiv.org/pdf/2601.21798)
-- **3D CoCa v2: Contrastive Learners with Test-Time Search for Generalizable Spatial Intelligence**, Arxiv 2026, (https://arxiv.org/pdf/2601.06496), [ :octocat: ](https://github.com/AIGeeksGroup/3DCoCav2) 
+- **3D CoCa v2: Contrastive Learners with Test-Time Search for Generalizable Spatial Intelligence**, Arxiv 2026, [ :link: ](https://arxiv.org/pdf/2601.06496), [ :octocat: ](https://github.com/AIGeeksGroup/3DCoCav2) 
 
 
 ## 3D Grounding
