@@ -296,11 +296,26 @@
 * **CT3D: Improving 3D Object Detection With Channel-Wise Transformer**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2108.10723) [ :octocat: ](https://github.com/hlsheng1/CT3D)
 * **DiffRefine: Diffusion-Based Proposal Refinement for 3D Object Detection**, 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/papers/Shin_DiffRefine_Diffusion-based_Proposal_Specific_Point_Cloud_Densification_for_Cross-Domain_Object_ICCV_2025_paper.pdf)
 ### Anchor Strategy
+
+#### Anchor-based
+
 * **VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection**, CVPR 2018, [ :link: ](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_VoxelNet_End-to-End_Learning_CVPR_2018_paper.pdf)
 
-* **VRVP: Valuable Region and Valuable Point Anchor-Free 3D Object Detection**, RA-L 2023, [ :link: ](https://doi.org/10.1109/LRA.2023.3331290)
+* **PointPillars: Fast Encoders for Object Detection from Point Clouds**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/html/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.html)
 
-* **One for All: Multi-Domain Joint Training for Point Cloud Based 3D Object Detection**, NeurIPS 2024, [ :link: ](https://arxiv.org/abs/2411.01584)
+* **SECOND: Sparsely Embedded Convolutional Detection**, Sensors 2018, [ :link: ](https://www.mdpi.com/1424-8220/18/10/3337)
+
+* **PV-RCNN: Point-Voxel Feature Set Abstraction for 3D Object Detection**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_PV-RCNN_Point-Voxel_Feature_Set_Abstraction_for_3D_Object_Detection_CVPR_2020_paper.html)
+
+#### Anchor-free
+
+* **PointRCNN: 3D Object Proposal Generation and Detection from Point Cloud**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/html/Shi_PointRCNN_3D_Object_Proposal_Generation_and_Detection_From_Point_Cloud_CVPR_2019_paper.html)
+
+* **CenterPoint: Center-based 3D Object Detection and Tracking**, CVPR 2021, [ :link: ](https://openaccess.thecvf.com/content/CVPR2021/html/Yin_Center-Based_3D_Object_Detection_and_Tracking_CVPR_2021_paper.html)
+
+* **VRVP: Valuable Region and Valuable Point Anchor-Free 3D Object Detection**, IEEE RA-L 2023, [ :link: ](https://doi.org/10.1109/LRA.2023.3331290)
+
+* **ONE for All: Multi-Domain Joint Training for Point Cloud Based 3D Object Detection**, NeurIPS 2024, [ :link: ](https://arxiv.org/abs/2411.01584)
 
 ### Sensor Modality
 
