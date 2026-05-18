@@ -29,6 +29,13 @@
     * [Detection Stage](#Detection-Stage)
        * [One-Stage Detectors](#One-Stage-Detectors)
        * [Two-Stage Detectors](#Two-Stage-Detectors)
+     * [Anchor Strategy](#anchor-strategy)
+       * [Anchor-based](#anchor-based)
+       * [Anchor-free](#anchor-free)
+     * [Backbone Type](#backbone-type)
+       * [CNN](#cnn)
+       * [Transformer](#transformer)
+       * [GNN](#gnn)
    * [Supervision](#Supervision)
        * [Weakly-supervised 3D Detection](#Weakly-supervised-3D-Detection)
        * [Semi-supervised 3D Detection](#Semi-supervised-3D-Detection)
@@ -289,10 +296,27 @@
 * **CT3D: Improving 3D Object Detection With Channel-Wise Transformer**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2108.10723) [ :octocat: ](https://github.com/hlsheng1/CT3D)
 * **DiffRefine: Diffusion-Based Proposal Refinement for 3D Object Detection**, 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/papers/Shin_DiffRefine_Diffusion-based_Proposal_Specific_Point_Cloud_Densification_for_Cross-Domain_Object_ICCV_2025_paper.pdf)
 ### Anchor Strategy
+* **VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection**, CVPR 2018, [ :link: ](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_VoxelNet_End-to-End_Learning_CVPR_2018_paper.pdf)
+
+* **VRVP: Valuable Region and Valuable Point Anchor-Free 3D Object Detection**, RA-L 2023, [ :link: ](https://doi.org/10.1109/LRA.2023.3331290)
+
+* **One for All: Multi-Domain Joint Training for Point Cloud Based 3D Object Detection**, NeurIPS 2024, [ :link: ](https://arxiv.org/abs/2411.01584)
 
 ### Sensor Modality
 
 ### Backbone Type
+#### CNN
+
+* **SRCN3D: Sparse R-CNN 3D for Compact Multi-View 3D Object Detection and Tracking**, arXiv 2022  
+  [ :link: ](https://arxiv.org/abs/2206.14451)
+
+* **Rethinking Backbone Design for Lightweight 3D Object Detection in LiDAR**, ICCV 2025  
+  [ :link: ](https://arxiv.org/abs/2508.00744)
+
+* **Mixed Precision PointPillars for Efficient 3D Object Detection with TensorRT**, arXiv 2026  
+  [ :link: ](https://arxiv.org/abs/2601.12638)
+
+---
 
 ### Scene Type
 #### Indoor 3D Object Detection
