@@ -118,6 +118,8 @@
 * **Composite convolution: A flexible operator for deep learning on 3D point clouds**, Elsevier 2024, [ :link: ](https://www.sciencedirect.com/science/article/pii/S003132032400308X) [ :octocat: ](https://github.com/sirolf-otrebla/CompositeNet)
 * **PointCNN++: Performant Convolution on Native Points**, Arxiv 2025, [ :link: ](https://arxiv.org/abs/2511.23227) [ :octocat: ](https://github.com/ant-research/pointelligence)
 
+* **Primary Visual Cortex Inspired Point Cloud Analysis Framework**, AAAI 2026, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/37348) 
+
 
 #### Graph-based Methods
 
