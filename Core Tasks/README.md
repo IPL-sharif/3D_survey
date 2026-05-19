@@ -489,7 +489,7 @@
 * **3D Single Object Tracking With Cross-Modal Fusion Conflict Elimination**, IEEE Transactions on Pattern Analysis and Machine Intelligence 2024, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10930556)
 
 
-## Multi-Object Tracking
+### Multi-Object Tracking
 
 ### Tracking-by-Detection
 
