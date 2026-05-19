@@ -12,7 +12,9 @@
 * [Segmentation](#segmentation)
   * [Instance Segmentation](#instance-segmentation)
   * [Semantic Segmentation](#semantic-segmentation)
+    * [Method Based](#method-based)
     * [Cross-Modality](#cross-modality)
+    * [Task-Specific Applications](#task-specific-applications)     
   * [Other Types of Segmentation](#other-types-of-segmentation)
     * [Part Segmentation](#part-segmentation)
     * [Oversegmentation](#oversegmentation)
@@ -181,6 +183,25 @@
 
 ### Semantic Segmentation
 
+#### Method Based
+
+* **Details Matter for Indoor Open-vocabulary 3D Instance Segmentation**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/html/Jung_Details_Matter_for_Indoor_Open-vocabulary_3D_Instance_Segmentation_ICCV_2025_paper.html)
+* **OV3D-CG: Open-vocabulary 3D Instance Segmentation with Contextual Guidance**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/html/Zhou_OV3D-CG_Open-vocabulary_3D_Instance_Segmentation_with_Contextual_Guidance_ICCV_2025_paper.html) [ :octocat: ](https://github.com/sgmzhou4/OV3D-CG)
+* **SAS: Segment Any 3D Scene with Integrated 2D Priors**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/html/Li_SAS_Segment_Any_3D_Scene_with_Integrated_2D_Priors_ICCV_2025_paper.html) [ :octocat: ](https://github.com/peoplelu/SAS)
+* **PointNet with KAN versus PointNet with MLP for 3D classification and segmentation of point sets**, Computer Vision and Image Understanding, 2025, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0097849325001608) [ :octocat: ](https://github.com/Ali-Stanford/PointNet_KAN_Graphic)
+* **An End-to-End Robust Point Cloud Semantic Segmentation Network with Single-Step Conditional Diffusion Models**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/html/Qu_An_End-to-End_Robust_Point_Cloud_Semantic_Segmentation_Network_with_Single-Step_CVPR_2025_paper.html) [ :octocat: ](https://github.com/QWTforGithub/CDSegNet)
+* **Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/html/Sur_Hyperbolic_Uncertainty-Aware_Few-Shot_Incremental_Point_Cloud_Segmentation_CVPR_2025_paper.html)
+* **3D-AVS: LiDAR-based 3D Auto-Vocabulary Segmentation**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/html/Wei_3D-AVS_LiDAR-based_3D_Auto-Vocabulary_Segmentation_CVPR_2025_paper.html) [ :octocat: ](https://github.com/ozzyou/3D-AVS)
+* **D^3CTTA: Domain-Dependent Decorrelation for Continual Test-Time Adaption of 3D LiDAR Segmentation**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_D3CTTA_Domain-Dependent_Decorrelation_for_Continual_Test-Time_Adaption_of_3D_LiDAR_CVPR_2025_paper.html) [ :octocat: ](https://github.com/ZhaoJichun1/D3CTTA)
+* **Multimodality helps few-shot 3D point cloud semantic segmentation**, ICLR 2025, [ :link: ](https://proceedings.iclr.cc/paper_files/paper/2025/hash/8b21a7ea42cbcd1c29a7a88c444cce45-Abstract-Conference.html) [ :octocat: ](https://github.com/ZhaochongAn/Multimodality-3D-Few-Shot)
+* **LogoSP: Local-global Grouping of Superpoints for Unsupervised Semantic Segmentation of 3D Point Clouds**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_LogoSP_Local-global_Grouping_of_Superpoints_for_Unsupervised_Semantic_Segmentation_of_CVPR_2025_paper.html) [ :octocat: ](https://github.com/vLAR-group/LogoSP)
+* **Domain-aware Category-level Geometry Learning Segmentation for 3D Point Clouds**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/html/He_Domain-aware_Category-level_Geometry_Learning_Segmentation_for_3D_Point_Clouds_ICCV_2025_paper.html)
+* **OnlineAnySeg: Online Zero-Shot 3D Segmentation by Visual Foundation Model Guided 2D Mask Merging**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/html/Tang_OnlineAnySeg_Online_Zero-Shot_3D_Segmentation_by_Visual_Foundation_Model_Guided_CVPR_2025_paper.html) [ :octocat: ](https://github.com/yjtang249/OnlineAnySeg)
+* **Mitigating Geometric Degradation in Fast DownSampling via FastAdapter for Point Cloud Segmentation**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/html/Sun_Mitigating_Geometric_Degradation_in_Fast_DownSampling_via_FastAdapter_for_Point_ICCV_2025_paper.html)
+* **BFANet: Revisiting 3D Semantic Segmentation with Boundary Feature Analysis**, CVPR 2025, [ :link: ](http://openaccess.thecvf.com/content/CVPR2025/html/Zhao_BFANet_Revisiting_3D_Semantic_Segmentation_with_Boundary_Feature_Analysis_CVPR_2025_paper.html) [ :octocat: ](https://github.com/weiguangzhao/BFANet)
+* **Mosaic3D: Foundation Dataset and Model for Open-Vocabulary 3D Segmentation**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Mosaic3D_Foundation_Dataset_and_Model_for_Open-Vocabulary_3D_Segmentation_CVPR_2025_paper.html) [ :octocat: ](https://github.com/NVlabs/Mosaic3D)
+
+
 #### Cross-Modality
 
 * **All in One: Visual-Description-Guided Unified Point Cloud Segmentation**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/html/Han_All_in_One_Visual-Description-Guided_Unified_Point_Cloud_Segmentation_ICCV_2025_paper.html) [ :octocat: ](https://github.com/Hanzy1996/VDG-Uni3DSeg)
@@ -192,6 +213,15 @@
 * **UniDxMD: Towards Unified Representation for Cross-Modal Unsupervised Domain Adaptation in 3D Semantic Segmentation**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/html/Liang_UniDxMD_Towards_Unified_Representation_for_Cross-Modal_Unsupervised_Domain_Adaptation_in_ICCV_2025_paper.html)
 * **CACE: Sim-to-Real Indoor 3D Semantic Segmentation via Context-Aware Augmentation and Consistency Enforcement**, WACV 2025, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10943913)
 
+
+#### Task-Specific Applications
+
+* **3D Dental Model Segmentation with Geometrical Boundary Preserving**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/html/Xi_3D_Dental_Model_Segmentation_with_Geometrical_Boundary_Preserving_CVPR_2025_paper.html) [ :octocat: ](https://github.com/XiShuFan/CrossTooth_CVPR2025)
+* **CACE: Sim-to-Real Indoor 3D Semantic Segmentation via Context-Aware Augmentation and Consistency Enforcement**, IEEE Transactions on Visualization and Computer Graphics, 2025, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10943913/)
+* **Spotting the Unexpected (STU): A 3D LiDAR Dataset for Anomaly Segmentation in Autonomous Driving**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/html/Nekrasov_Spotting_the_Unexpected_STU_A_3D_LiDAR_Dataset_for_Anomaly_CVPR_2025_paper.html) [ :octocat: ](https://github.com/kumuji/stu_dataset)
+* **ZAHA: Introducing the Level of Facade Generalization and the Large-Scale Point Cloud Facade Semantic Segmentation Benchmark Dataset**, IEEE Transactions on Visualization and Computer Graphics, 2025, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10943351/) [ :octocat: ](https://github.com/oloocki/zaha)
+* **ForestFormer3D: A Unified Framework for End-to-End Segmentation of Forest LiDAR 3D Point Clouds**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/html/Xiang_ForestFormer3D_A_Unified_Framework_for_End-to-End_Segmentation_of_Forest_LiDAR_ICCV_2025_paper.html) [ :octocat: ](https://github.com/SmartForest-no/ForestFormer3D)
+* **Semantic Segmentation Method for Automated Indoor 3D Reconstruction Based on Architectural-Knowledge-Aware Features**, IEEE Transactions on Visualization and Computer Graphics, 2025, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10943434)
 
 ### Other Types of Segmentation
 #### Part Segmentation
