@@ -511,13 +511,11 @@
 
 * **TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2303.04529)
 
-* **JDT3D: Addressing the Gaps in LiDAR-Based Tracking-by-Attention**, ECCV 2024, [ :link: ](https://arxiv.org/abs/2407.08621)
-
+* **RobMOT: Robust 3D Multi-Object Tracking by Observational Noise and State Estimation Drift Mitigation on LiDAR Point Clouds**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2405.11536)
+ 
 * **Fast-Poly: A Fast Polyhedral Framework for 3D Multi-Object Tracking**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2403.13443)
 
 * **Easy-Poly: An Easy Polyhedral Framework for 3D Multi-Object Tracking**, arXiv 2025, [ :link: ](https://arxiv.org/abs/2502.17822)
-
----
 
 ### Probabilistic & Bayesian Approaches
 
@@ -531,21 +529,25 @@
 
 * **Bayesian Multi-Object Tracking with Neural-Enhanced Motion and Measurement Models**, arXiv 2025, [ :link: ](https://arxiv.org/abs/2506.18124)
 
----
-
 ### Unified Detection and Tracking
 
-* **Fast and Furious: Real-Time End-to-End 3D Detection, Tracking and Forecasting**, CVPR 2018, [ :link: ](https://arxiv.org/abs/1712.07684)
+* **Fast and Furious: Real-Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net**, CVPR 2018, [ :link: ](https://arxiv.org/abs/1712.07684)
 
-* **Exploring Simple 3D Multi-Object Tracking for Autonomous Driving (SimpleTrack baseline)**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2104.09082)
+* **Exploring Simple 3D Multi-Object Tracking for Autonomous Driving**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2104.09082)
 
-* **S2-Track: A Simple yet Strong Approach for End-to-End 3D Multi-Object Tracking**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2406.02147)
+* **Tracklet Proposal Network for Multi-Object Tracking on Point Clouds**, IJCAI 2021
+
+* **Spot: Spatiotemporal Modeling for 3D Object Tracking**, ECCV 2022
 
 * **TrajectoryFormer: 3D Object Tracking Transformer with Predictive Trajectory Hypotheses**, ICCV 2023, [ :link: ](https://arxiv.org/abs/2303.04529)
 
 * **JDT3D: Addressing the Gaps in LiDAR-Based Tracking-by-Attention**, ECCV 2024, [ :link: ](https://arxiv.org/abs/2407.08621)
 
----
+* **S2-Track: A Simple yet Strong Approach for End-to-End 3D Multi-Object Tracking**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2406.02147)
+
+* **FutrTrack: A Camera-LiDAR Fusion Transformer for 3D Multiple Object Tracking**, arXiv 2025
+
+* **McTrack: A Unified 3D Multi-Object Tracking Framework for Autonomous Driving**, IROS 2025
 
 ### Cooperative / Emerging 3D MOT
 
