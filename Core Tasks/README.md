@@ -497,7 +497,7 @@
 
 * **Probabilistic 3D Multi-Object Tracking for Autonomous Driving**, arXiv 2020, [ :link: ](https://arxiv.org/abs/2001.05673)
 
-* **CenterTrack: Center-Based 3D Object Detection and Tracking**, CVPR 2021, [ :link: ](https://arxiv.org/abs/2004.01177)
+* **CenterPoint: Center-based 3D Object Detection and Tracking**, CVPR 2021, [ :link: ](https://openaccess.thecvf.com/content/CVPR2021/html/Yin_Center-Based_3D_Object_Detection_and_Tracking_CVPR_2021_paper.html)
 
 * **Immortal Tracker: Tracklet Never Dies**, arXiv 2021, [ :link: ](https://arxiv.org/abs/2111.13672)
 
