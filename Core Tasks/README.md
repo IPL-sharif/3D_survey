@@ -529,6 +529,8 @@
 
 * **Bayesian Multi-Object Tracking with Neural-Enhanced Motion and Measurement Models**, arXiv 2025, [ :link: ](https://arxiv.org/abs/2506.18124)
 
+* **LiDAR Point Cloud-Based Multiple Vehicle Tracking with Probabilistic Measurement-Region Association**, FUSION 2024, [ :link: ](https://ieeexplore.ieee.org/document/10706494)
+
 ### Unified Detection and Tracking
 
 * **Fast and Furious: Real-Time End-to-End 3D Detection, Tracking and Motion Forecasting with a Single Convolutional Net**, CVPR 2018, [ :link: ](https://arxiv.org/abs/1712.07684)
