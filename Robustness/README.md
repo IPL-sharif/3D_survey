@@ -336,6 +336,51 @@
 
 ## 3D Domain Adaptation
 
+### Surveys and foundations
+* **A Survey of Unsupervised Deep Domain Adaptation**, ACM TIST 2020, [ :link: ](https://dl.acm.org/doi/10.1145/3400066)
+* **A Survey on Domain Adaptation Theory: Learning Bounds and Theoretical Guarantees**, arXiv 2020, [ :link: ](https://arxiv.org/abs/2004.11829)
+* **A Survey on Deep Domain Adaptation for LiDAR Perception**, IEEE IV Workshops 2021, [ :link: ](https://arxiv.org/abs/2106.02377)
+* **Unsupervised Domain Adaptation of Object Detectors: A Survey**, IEEE TPAMI 2023, [ :link: ](https://arxiv.org/abs/2105.13502)
+* **Advancing 3D Point Cloud Understanding through Deep Transfer Learning: A Comprehensive Survey**, Information Fusion 2025, [ :link: ](https://www.sciencedirect.com/science/article/pii/S1566253524003795)
+
+### Point cloud classification
+* **PointDAN: A Multi-Scale 3D Domain Adaption Network for Point Cloud Representation**, NeurIPS 2019, [ :link: ](https://arxiv.org/abs/1911.02744) [ :octocat: ](https://github.com/canqin001/PointDAN)
+* **RefRec: Pseudo-labels Refinement via Shape Reconstruction for Unsupervised 3D Domain Adaptation**, 3DV 2021, [ :link: ](https://arxiv.org/abs/2110.06317) [ :octocat: ](https://github.com/CVLAB-Unibo/RefRec)
+* **Geometry-Aware Self-Training for Unsupervised Domain Adaptation on Object Point Clouds**, ICCV 2021, [ :link: ](https://openaccess.thecvf.com/content/ICCV2021/papers/Zou_Geometry-Aware_Self-Training_for_Unsupervised_Domain_Adaptation_on_Object_Point_Clouds_ICCV_2021_paper.pdf)
+* **Self-Supervised Global-Local Structure Modeling for Point Cloud Domain Adaptation with Reliable Voted Pseudo Labels**, CVPR 2022, [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/papers/Fan_Self-Supervised_Global-Local_Structure_Modeling_for_Point_Cloud_Domain_Adaptation_With_CVPR_2022_paper.pdf)
+* **Point Cloud Domain Adaptation via Masked Local 3D Structure Prediction**, ECCV 2022, [ :link: ](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136630159.pdf) [ :octocat: ](https://github.com/VITA-Group/MLSP)
+* **PC-Adapter: Topology-Aware Adapter for Efficient Domain Adaption on Point Clouds with Rectified Pseudo-label**, ICCV 2023, [ :link: ](https://openaccess.thecvf.com/content/ICCV2023/html/Park_PC-Adapter_Topology-Aware_Adapter_for_Efficient_Domain_Adaption_on_Point_Clouds_ICCV_2023_paper.html)
+* **BlendCLIP: Bridging Synthetic and Real Domains for Zero-Shot 3D Object Classification with Multimodal Pretraining**, arXiv 2025, [ :link: ](https://arxiv.org/abs/2510.18244)
+
+### 3D semantic segmentation
+* **Complete & Label: A Domain Adaptation Approach to Semantic Segmentation of LiDAR Point Clouds**, CVPR 2021, [ :link: ](https://arxiv.org/abs/2007.08488)
+* **ePointDA: An End-to-End Simulation-to-Real Domain Adaptation Framework for LiDAR Point Cloud Segmentation**, AAAI 2021, [ :link: ](https://arxiv.org/abs/2009.03456)
+* **ConDA: Unsupervised Domain Adaptation for LiDAR Segmentation via Regularized Domain Concatenation**, arXiv 2021, [ :link: ](https://arxiv.org/abs/2111.15242) [ :page_facing_up: ](https://ldkong.com/ConDA)
+* **Cross-modal Learning for Domain Adaptation in 3D Semantic Segmentation**, TPAMI 2022, [ :link: ](https://arxiv.org/abs/2101.07253) [ :octocat: ](https://github.com/valeoai/xmuda_journal)
+* **Adversarially Masking Synthetic to Mimic Real: Adaptive Noise Injection for Point Cloud Segmentation Adaptation**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_Adversarially_Masking_Synthetic_To_Mimic_Real_Adaptive_Noise_Injection_for_CVPR_2023_paper.pdf)
+* **Cross-modal Unsupervised Domain Adaptation for 3D Semantic Segmentation via Bidirectional Fusion-then-Distillation**, ACM MM 2023, [ :link: ](https://dl.acm.org/doi/10.1145/3581783.3612013)
+* **Urban Multi-Domain Mixing (UMDMix) Based Unsupervised Domain Adaptation for LiDAR Semantic Segmentation**, Neurocomputing 2025
+* **ConUDA: Confidence-Guided Pseudo-Label Sampling for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation**, ECMR 2025
+* **SADA-3D: Structure-Aware Unsupervised Domain Adaptation Segmentation of 3D Point Clouds**, IEEE RA-L 2025
+* **BeyondMix: Leveraging Structural Priors and Long-Range Dependencies for Domain-Invariant LiDAR Segmentation**, NeurIPS 2025
+* **DPGLA: Bridging the Gap between Synthetic and Real Data for Unsupervised Domain Adaptation in 3D LiDAR Semantic Segmentation**, arXiv 2025, [ :link: ](https://arxiv.org/abs/2510.23525)
+
+### 3D object detection
+* **SF-UDA3D: Source-Free Unsupervised Domain Adaptation for LiDAR-Based 3D Object Detection**, 3DV 2020, [ :page_facing_up: ](https://saltoricristiano.github.io/SF-UDA-3DV/) [ :octocat: ](https://github.com/saltoricristiano/SF-UDA-3DV)
+* **Unsupervised Domain Adaptive 3D Detection with Multi-Level Consistency**, ICCV 2021, [ :link: ](https://arxiv.org/abs/2107.11355) [ :octocat: ](https://github.com/Jasonkks/mlcnet)
+* **See Eye to Eye: A LiDAR-Agnostic 3D Detection Framework for Unsupervised Multi-Target Domain Adaptation**, IEEE RA-L 2022, [ :link: ](https://arxiv.org/abs/2111.09450) [ :octocat: ](https://github.com/darrenjkt/SEE-MTDA)
+* **Quantifying the LiDAR Sim-to-Real Domain Shift: A Detailed Investigation Using Object Detectors and Analyzing Point Clouds at Target-Level**, IEEE T-IV 2023
+* **Vicinal Gaussian Transform: Rethinking Source-Free Domain Adaptation through Source-Informed Label Consistency**, IEEE TPAMI 2025
+* **DiffRefine: Diffusion-based Proposal Specific Point Cloud Densification for Cross-Domain Object Detection**, ICCV 2025, [ :link: ](https://openaccess.thecvf.com/content/ICCV2025/papers/Shin_DiffRefine_Diffusion-based_Proposal_Specific_Point_Cloud_Densification_for_Cross-Domain_Object_ICCV_2025_paper.pdf)
+* **CounterPC: Counterfactual Feature Realignment for Unsupervised Domain Adaptation on Point Clouds**, ICCV 2025
+* **SV-RCNN: Robust Structural-Encoded Voxel Features for 3D Object Detection on Sparse Point Clouds**, IEEE RA-L 2025
+* **Domain Adaptation for Different Sensor Configurations in 3D Object Detection**, arXiv 2025, [ :link: ](https://arxiv.org/abs/2509.04711)
+
+### Specialized and emerging topics
+* **Bridging Domain Gaps in 3D Scene Understanding**, PhD thesis 2025
+* **High-Fidelity Digital Twins for Bridging the Sim2Real Gap in LiDAR-Based ITS Perception**, arXiv 2025, [ :link: ](https://arxiv.org/abs/2509.02904)
+* **SdaPS*: A Novel Source-Free Domain Adaption Method for Point Cloud Primitive Segmentation**, IEEE TII 2025
+* **Domain-Generalizable Point Cloud Instance Segmentation of Bridge Components Using Class-Balanced Dynamic Thresholding**, Automation in Construction 2026
 
 ## 3D Anomaly Detection
 
