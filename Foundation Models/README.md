@@ -1,6 +1,16 @@
 # 3D Foundation Models
 
 
+* **Parameter-efficient fine-tuning of large-scale pre-trained language models**, Nature machine intelligence, 2023, [ :link: ](https://www.nature.com/articles/s42256-023-00626-4.pdf)
+* **Parameter-efficient fine-tuning for large models: A comprehensive survey**, arXiv 2024, [ :link: ](https://arxiv.org/pdf/2403.14608)
+* **Parameter-efficient fine-tuning methods for pretrained language models: A critical review and assessment**, IEEE Transactions on Pattern Analysis and Machine Intelligence, 2026, [ :link: ](https://ieeexplore.ieee.org/iel8/34/4359286/11364256.pdf)
+* **Point-peft: Parameter-efficient fine-tuning for 3d pre-trained models**, AAAI 2024, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/28323/28635)
+* **Instance-aware dynamic prompt tuning for pre-trained point cloud models**, IEEE/CVF 2023, [ :link: ](https://arxiv.org/pdf/2304.07221), [ :octocat: ](https://github.com/zyh16143998882/ICCV23-IDPT)
+* **Dynamic adapter meets prompt tuning: Parameter-efficient transfer learning for point cloud analysis**, IEEE/CVF 2024, [ :link: ](https://arxiv.org/pdf/2403.01439), [ :octocat: ](https://github.com/LMD0311/DAPT)
+* **Point-peft: Parameter-efficient fine-tuning for 3d pre-trained models**, AAAI 2024, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/28323/28635)
+* **GFT: Graph Feature Tuning for Efficient Point Cloud Analysis**, IEEE/CVF 2026, [ :link: ](https://arxiv.org/pdf/2511.10799), [ :octocat: ](https://github.com/manishdhakal/GFT)
+* **Token adaptation via side graph convolution for efficient fine-tuning of 3D point cloud transformers**, Springer 2026, [ :link: ](https://link.springer.com/content/pdf/10.1007/s00138-026-01802-3.pdf), [ :octocat: ](https://github.com/takahikof/STAG)
+* **Pma: Towards parameter-efficient point cloud understanding via point mamba adapter**, IEEE/CVF 2025, [ :link: ](https://arxiv.org/pdf/2505.20941?), [ :octocat: ](https://github.com/zyh16143998882/PMA) 
 * **What is the best 3d scene representation for robotics? from geometric to foundation models**, arXiv 2025 , [ :link: ](https://arxiv.org/pdf/2512.03422) 
 * **Weakly-Supervised 3D Visual Grounding based on Visual Language Alignment**, arXiv 2023, [ :link: ](https://arxiv.org/pdf/2312.09625) 
 * **Open-vocabulary 3d scene segmentation via dual-modal interaction**, IEEE/CAA 2025, [ :link: ](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10916671)
