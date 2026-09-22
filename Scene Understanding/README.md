@@ -83,7 +83,9 @@
 - **A Multi-Modal Neuro-Symbolic Approach for Spatial Reasoning-Based Visual Grounding in Robotics**, Arxiv 2025, [ :link: ](https://arxiv.org/pdf/2510.27033)
 - **Reasoning in Space via Grounding in the World**, Arxiv 2025, [ :link: ](https://arxiv.org/pdf/2510.13800), [ :octocat: ](https://github.com/WU-CVGL/GS-Reasoner)
 - **Lsd-3d: Large-scale 3d driving scene generation with geometry grounding**, AAAI 2026, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/37765/41727)
-- **Reasoning Matters for 3D Visual Grounding**, Arxiv 2026, [ :link: ](https://arxiv.org/pdf/2601.08811) 
+- **Reasoning Matters for 3D Visual Grounding**, Arxiv 2026, [ :link: ](https://arxiv.org/pdf/2601.08811)
+- **Mono3dvg: 3d visual grounding in monocular images**, AAAI 2024, [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/28525/29023)
+- **MonoVLM: Monocular 3D Visual Grounding with Vision Language Models**, CVF 2026, [ :link: ](https://openaccess.thecvf.com/content/CVPR2026/papers/Qu_MonoVLM_Monocular_3D_Visual_Grounding_with_Vision_Language_Models_CVPR_2026_paper.pdf) 
 
 
 ## 3D Question Answering
@@ -108,6 +110,7 @@
 - **HCNQA: Enhancing 3D VQA with Hierarchical Concentration Narrowing Supervision**, ICANN 2025, [ :link: ](https://link.springer.com/chapter/10.1007/978-3-032-04546-1_3) [ :octocat: ](https://github.com/JianuoZhu/HCNQA)
 - **End-to-End 3D point cloud question answering via state space models**, Applied Soft Computing 2025, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S156849462500715X)
 - **Learn 3D VQA Better with Active Selection and Reannotation**, ACM MM 2025, [ :link: ](https://dl.acm.org/doi/10.1145/3746027.3755515) [ :octocat: ](https://github.com/fz-zsl/AQuA)
+
   
 
 ## 3D Reasoning
