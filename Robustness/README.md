@@ -440,5 +440,5 @@
 * **Efficient slice anomaly detection network for 3D brain MRI Volume**, journals.plos 2025 , [ :link: ](https://journals.plos.org/digitalhealth/article/file?id=10.1371/journal.pdig.0000874&type=printable)
 * **Towards high-resolution 3d anomaly detection: A scalable dataset and real-time framework for subtle industrial defects**, AAAI 2026 , [ :link: ](https://ojs.aaai.org/index.php/AAAI/article/view/37328/41290) [ :octocat: ](https://github.com/hustCYQ/MiniShift-Simple3D)
 * **AnomalyVFM--Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors**, arXiv 2026 , [ :link: ](https://arxiv.org/pdf/2601.20524), [ :octocat: ](https://github.com/MaticFuc/AnomalyVFM)
-* **VLA-AD: Agentic Vision-Language Foundation Models for Context-Aware Anomaly Detection**, IEEE/CVF 2026, [ :link: ](https://openaccess.thecvf.com/content/CVPR2026W/DataMFM/papers/Belhadi_VLA-AD_Agentic_Vision-Language_Foundation_Models_for_Context-Aware_Anomaly_Detection_CVPRW_2026_paper.pdf)
+* **VLA-AD: Agentic Vision-Language Foundation Models for Context-Aware Anomaly Detection**, CVF 2026, [ :link: ](https://openaccess.thecvf.com/content/CVPR2026W/DataMFM/papers/Belhadi_VLA-AD_Agentic_Vision-Language_Foundation_Models_for_Context-Aware_Anomaly_Detection_CVPRW_2026_paper.pdf)
 * 
