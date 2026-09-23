@@ -55,18 +55,9 @@
      * [Cooperative / Emerging 3D MOT](#Cooperative--Emerging-3D-MOT)
 
 
-* [Compression](#Compression)
-
-* [6DoF Pose Estimation](#6DoF-Pose-Estimation)
-   * [Object Pose Estimation](#Object-Pose-Estimation)
-   * [Human Pose Estimation](#Human-Pose-Estimation) 
-
-* [3D Point Cloud Registration](#3D-Point-Cloud-Registration)
-
- 
   
 ---
-## Classification
+## Classification(#Classification)
 
 ### Projection-based Methods
 
@@ -171,7 +162,7 @@
 
 
 
-## Segmentation
+## Segmentation(#segmentation)
 
 ### Instance Segmentation
 
@@ -235,7 +226,7 @@
 * **COB-GS: Clear Object Boundaries in 3DGS Segmentation Based on Boundary-Adaptive Gaussian Splitting**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/html/Zhang_COB-GS_Clear_Object_Boundaries_in_3DGS_Segmentation_Based_on_Boundary-Adaptive_CVPR_2025_paper.html) [ :octocat: ](https://github.com/ZestfulJX/COB-GS)
 
 
-## Detection
+## Detection(#Detection)
 
 ### Data Representation
 #### point-based
@@ -456,7 +447,7 @@
 * [RGB–LiDAR Trackers](#LRGB–LiDAR-Trackers)
 
 
-## Tracking
+## Tracking(#Tracking)
 
 ### Single-Object Tracking
 
@@ -587,167 +578,4 @@
 
 * **Probabilistic 3D Multi-Object Cooperative Tracking via Multi-Sensor Fusion**, ICRA 2024, [ :link: ](https://ieeexplore.ieee.org/document/10610647)
 
-
-
-## Compression
-
-* **Octree-based Point-Cloud Compression**, SPBG'06: Proceedings of the 3rd Eurographics / IEEE VGTC conference on Point-Based Graphics 2006, [ :link: ](https://dl.acm.org/doi/10.5555/2386388.2386404)
-
-* **Point cloud attribute compression with graph transform**, IEEE International Conference on Image Processing (ICIP) 2014, [ :link: ](https://ieeexplore.ieee.org/document/7025414/)
-
-* **Graph-based motion estimation and compensation for dynamic 3D point cloud compression**, IEEE International Conference on Image Processing (ICIP) 2015, [ :link: ](https://ieeexplore.ieee.org/document/9194311/)
-
-* **3d point cloud geometry compression on deep learning**, ACM International Conference on Multimedia 2019, [ :link: ](https://dl.acm.org/doi/10.1145/3343031.3351061)
-
-* **Towards 6dof http adaptive streaming through point cloud compression**, ACM International Conference on Multimedia 2019, [ :link: ](https://dl.acm.org/doi/10.1145/3343031.3350917)
-
-* **Learning convolutional transforms for lossy point cloud geometry compression**, IEEE international conference on image processing (ICIP) 2019, [ :link: ](https://arxiv.org/pdf/1903.08548) [ :octocat: ](https://github.com/mauriceqch/pcc_geo_cnn)
-
-* **Model-based joint bit allocation between geometry and color for video-based 3D point cloud compression**, IEEE Transactions on Multimedia 2020, [ :link: ](https://ieeexplore.ieee.org/document/9194311/) 
-
-* **Lossy point cloud geometry compression via end-to-end learning**, IEEE Transactions on Circuits and Systems for Video Technology 2021, [ :link: ](https://ieeexplore.ieee.org/document/9321375/)
-
-* **Voxelcontext-net: An octree based framework for point cloud compression**, CVPR 2021, [ :link: ](https://openaccess.thecvf.com/content/CVPR2021/papers/Que_VoxelContext-Net_An_Octree_Based_Framework_for_Point_Cloud_Compression_CVPR_2021_paper.pdf)
-
-* **Multiscale point cloud geometry compression**, Data Compression Conference (DCC) 2021, [ :link: ](https://ieeexplore.ieee.org/iel7/9418628/9418635/09418789.pdf) [ :octocat: ](https://github.com/NJUVISION/PCGCv2)
-
-* **Deep compression for dense point cloud maps**,  IEEE Robotics and Automation Letters 2021, [ :link: ](https://ieeexplore.ieee.org/document/9354895/) [ :octocat: ](https://github.com/PRBonn/deep-point-map-compression)
-
-* **Reduced reference perceptual quality model with application to rate control for video-based point cloud compression**, IEEE Transactions on Image Processing 2021, [ :link: ](https://ieeexplore.ieee.org/document/9490512)
-
-* **GRASP-Net: Geometric residual analysis and synthesis for point cloud compression**, Proceedings of the 1st International Workshop on Advances in Point Cloud Compression, Processing and Analysis 2022, [ :link: ](https://arxiv.org/pdf/2209.04401.pdf) [ :octocat: ](https://github.com/InterDigitalInc/GRASP-Net)
-
-
-* **Octattention: Octree-based large-scale contexts model for point cloud compression**, AAAI 2022, [ :link: ](https://cdn.aaai.org/ojs/19942/19942-13-23955-1-2-20220628.pdf) [ :octocat: ](https://github.com/zb12138/OctAttention)
-
-* **4dac: Learning attribute compression for dynamic point clouds**, Arxiv 2022, [ :link: ](https://arxiv.org/pdf/2204.11723)
-
-* **Point cloud compression with range image-based entropy model for autonomous driving**, ECCV 2022, [ :link: ](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136820315.pdf)
-
-* **Rate-distortion modeling for bit rate constrained point cloud compression**, IEEE Transactions on Circuits and Systems for Video Technology 2022, [ :link: ](https://ieeexplore.ieee.org/document/9957096)
-
-* **Sparse tensor-based point cloud attribute compression**, International Conference on Multimedia Information Processing and Retrieval (MIPR) 2022, [ :link: ](https://ieeexplore.ieee.org/document/9874468/)
-
-* **Lossless point cloud attribute compression using cross-scale, cross-group, and cross-color prediction**, Data Compression Conference (DCC) 2023, [ :link: ](https://ieeexplore.ieee.org/iel7/10125292/10125296/10125514.pdf)
-
-* **YOGA: Yet another geometry-based point cloud compressor**, ACM International Conference on Multimedia 2023, [ :link: ](https://dl.acm.org/doi/10.1145/3581783.3613847) [ :octocat: ](https://github.com/3dpcc/YOGAv1)
-
-* **Multiscale latent-guided entropy model for lidar point cloud compression**, IEEE Transactions on Circuits and Systems for Video Technology 2023, [ :link: ](https://ieeexplore.ieee.org/iel7/76/4358651/10129923.pdf)
-
-* **Lossless point cloud geometry and attribute compression using a learned conditional probability model**, IEEE Transactions on Circuits and Systems for Video Technology 2023, [ :link: ](https://ieeexplore.ieee.org/iel7/76/10207864/10024999.pdf)
-
-* **Efficient hierarchical entropy model for learned point cloud compression**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/papers/,Song_Efficient_Hierarchical_Entropy_Model_for_Learned_Point_Cloud_Compression_CVPR_2023_paper.pdf)
-
-
-* **msLPCC: A multimodal-driven scalable framework for deep LiDAR point cloud compression**, AAAI 2024, [ :link: ]( https://ojs.aaai.org/index.php/AAAI/article/view/28362)[ :octocat: ]( https://github.com/I2-Multimedia-Lab/Pointsoup)
-
-* **Pointsoup: High-performance and extremely low-decoding-latency learned geometry codec for large-scale point cloud scenes**, IJCAI 2024, [ :link: ](https://www.ijcai.org/proceedings/2024/0595.pdf) [ :octocat: ]( https://github.com/I2-Multimedia-Lab/Pointsoup)
-
-
-* **Pdnet: parallel dual-branch network for point cloud geometry compression and analysis**, Data Compression Conference (DCC) 2024, [ :link: ](https://ieeexplore.ieee.org/document/10533742/)
-
-
-* **Inter-frame compression for dynamic point cloud geometry coding**, IEEE Transactions on Image Processing 2024, [ :link: ](https://arxiv.org/pdf/2207.12554) [ :octocat: ](https://github.com/aniqueakhtar/PointCloudCompression)
-
-* **Ecm-opcc: Efficient context model for octree-based point cloud compression**, ICASSP 2024, [ :link: ](https://ieeexplore.ieee.org/document/10446374/)
-
-* **Point cloud compression with implicit neural representations: A unified framework**, ICCC 2024, [ :link: ](https://ieeexplore.ieee.org/iel8/10681633/10681675/10681880.pdf) [ :octocat: ](https://github.com/RhoHenning/INR-PCC)
-
-* **Learned compression of point cloud geometry and attributes in a single model through multimodal rate-control**, Arxiv 2024, [ :link: ](https://arxiv.org/abs/2408.00599)
-
-* **Roi-guided point cloud geometry compression towards human and machine vision**, ACM International Conference on Multimedia 2024, [ :link: ](https://dl.acm.org/doi/10.1145/3664647.3681301)
-
-* **PCAC-GAN: a sparse-tensor-based generative adversarial network for 3d point cloud attribute compression**, Computational Visual Media 2025, [ :link: ](https://ieeexplore.ieee.org/abstract/document/11174068/)
-
-* **Rendering-oriented 3d point cloud attribute compression using sparse tensor-based transformer**, IEEE 2025, [ :link: ](https://ieeexplore.ieee.org/abstract/document/10908209/) [ :octocat: ](https://github.com/net-F/RO-PCAC)
-
-* **Voxel-based point cloud geometry compression with space-to-channel context**, Arxiv 2025, [ :link: ](https://arxiv.org/abs/2503.18283)
-
-* **Octree-STCM: Octree-Based Spatio-Temporal Context Model for Lossless Geometry Compression of Dynamic Point Cloud**, ACM 2025, [ :link: ](https://dl.acm.org/doi/abs/10.1145/3731715.3733489)
-
-* **DeepRAHT: Learning Predictive RAHT for Point Cloud Attribute Compression**, Arxiv 2026, [ :link: ](https://arxiv.org/abs/2601.12255,) [ :octocat: ](https://github.com/zb12138/DeepRAHT)
-
-* **Octree-based learned point cloud geometry compression: a lossy perspective**, Arxiv 2026, [ :link: ](https://arxiv.org/abs/2603.28095)
-
-* **OctMamba: Mamba-Based Octree Context Entropy Model for Point Cloud Geometry Compression**, Pattern Recognition 2026, [ :link: ](https://www.sciencedirect.com/science/article/abs/pii/S0031320326000762)
-
-## 6DoF Pose Estimation
-
-### Object Pose Estimation
-
-#### Survey
-* **Deep Learning-Based Object Pose Estimation: A Comprehensive Survey**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2405.07801) [ :octocat: ](https://github.com/CNJianLiu/Awesome-Object-Pose-Estimation)
-
-#### Instance-level (known instances)
-* **DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion**, CVPR 2019, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_DenseFusion_6D_Object_Pose_Estimation_by_Iterative_Dense_Fusion_CVPR_2019_paper.pdf) [ :octocat: ](https://github.com/j96w/DenseFusion)
-* **PVN3D: A Deep Point-Wise 3D Keypoints Voting Network for 6DoF Pose Estimation**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_PVN3D_A_Deep_Point-Wise_3D_Keypoints_Voting_Network_for_6DoF_CVPR_2020_paper.pdf) [ :octocat: ](https://github.com/ethnhe/PVN3D)
-* **FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation**, CVPR 2021, [ :link: ](https://openaccess.thecvf.com/content/CVPR2021/papers/He_FFB6D_A_Full_Flow_Bidirectional_Fusion_Network_for_6D_Pose_CVPR_2021_paper.pdf) [ :octocat: ](https://github.com/ethnhe/FFB6D)
-* **CloudAAE: Learning 6D Object Pose Regression with On-line Data Synthesis on Point Clouds**, arXiv 2021, [ :link: ](https://arxiv.org/abs/2103.01977) [ :octocat: ](https://github.com/GeeeG/CloudAAE)
-
-#### Category-level (intra-category shape variation)
-* **CASS: Learning Canonical Shape Space for Category-Level 6D Object Pose and Size Estimation**, CVPR 2020, [ :link: ](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Learning_Canonical_Shape_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2020_paper.pdf) [ :octocat: ](https://github.com/densechen/CASS)
-* **AG-Pose: Instance-Adaptive and Geometric-Aware Keypoint Learning for Category-Level 6D Object Pose Estimation**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/papers/Lin_Instance-Adaptive_and_Geometric-Aware_Keypoint_Learning_for_Category-Level_6D_Object_Pose_CVPR_2024_paper.pdf) [ :octocat: ](https://github.com/Leeiieeo/AG-Pose)
-* **CD-Pose: Learning geometric consistency and discrepancy for category-level 6D object pose estimation from point clouds**, Pattern Recognition 2024, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0031320323005940) 
-* **GCE-Pose: Global Context Enhancement for Category-level Object Pose Estimation**, CVPR 2025, [ :link: ](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_GCE-Pose_Global_Context_Enhancement_for_Category-level_Object_Pose_Estimation_CVPR_2025_paper.pdf) code: —
-
-#### Unseen / zero-shot (generalize to novel objects)
-* **OVE6D: Object Viewpoint Encoding for Depth-based 6D Object Pose Estimation**, CVPR 2022, [ :link: ](https://openaccess.thecvf.com/content/CVPR2022/papers/Cai_OVE6D_Object_Viewpoint_Encoding_for_Depth-Based_6D_Object_Pose_Estimation_CVPR_2022_paper.pdf) [ :octocat: ](https://github.com/dingdingcai/OVE6D-pose)
-* **FreeZe: Training-free zero-shot 6D pose estimation with geometric and vision foundation models**, ECCV 2024, [ :link: ](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09634.pdf) [ :octocat: ](https://github.com/andreacaraffa/freeze)
-* **ZeroPose: CAD-Prompted Zero-shot Object 6D Pose Estimation in Cluttered Scenes**, arXiv 2023 / TCSVT 2024–2025, [ :link: ](https://arxiv.org/html/2305.17934v3) [ :octocat: ](https://github.com/shruthibalaji2307/zeropose)
-
-### Human Pose Estimation
-#### Surveys / overviews
-* **3D Human Pose and Shape Estimation from LiDAR Point Clouds: A Review**, arXiv 2025, [ :link: ](https://arxiv.org/abs/2509.12197) [ :octocat: ](https://github.com/valeoai/3D-Human-Pose-Shape-Estimation-from-LiDAR)
-* **Deep learning for 3D human pose estimation and mesh recovery: A survey**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2402.18844) [ :octocat: ](https://github.com/liuyangme/SOTA-3DHPE-HMR)
-* **Attention-Enhanced Lightweight Hourglass Network for Human Pose Estimation** (Kappan et al.), arXiv 2024/2025, [ :link: ](https://export.arxiv.org/abs/2412.06227)
-
-#### Body-scanned / dense point clouds
-* **Learning to Estimate 3D Human Pose From Point Cloud**, IEEE Sensors Journal 2020 (arXiv version 2022), [ :link: ](https://arxiv.org/abs/2212.12910) 
-* **Efficient Human Pose Estimation via 3D Event Point Cloud**, 3DV 2022, [ :link: ](https://arxiv.org/abs/2206.04511) [ :octocat: ](https://github.com/MasterHow/EventPointPose)
-* **SPiKE: 3D Human Pose from Point Cloud Sequences**, 2024 (book chapter 2025), [ :link: ](https://arxiv.org/abs/2409.01879) [ :octocat: ](https://github.com/iballester/SPiKE)
-
-#### LiDAR point clouds (sparse, outdoor / long-range)
-* **3D Human Keypoints Estimation From Point Clouds in the Wild Without Human Labels**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/papers/Weng_3D_Human_Keypoints_Estimation_From_Point_Clouds_in_the_Wild_CVPR_2023_paper.pdf)
-* **LidPose: Real-Time 3D Human Pose Estimation in Sparse Lidar Point Clouds with Non-Repetitive Circular Scanning Pattern**, Sensors 2024, [ :link: ](https://www.mdpi.com/1424-8220/24/11/3427) 
-* **LPFormer: LiDAR Pose Estimation Transformer with Multi-Task Network**, ICRA 2024 (arXiv 2023), [ :link: ](https://arxiv.org/abs/2306.12525)
-* **LiDARCapV2: 3D human pose estimation with human–object interaction from LiDAR point clouds**, Pattern Recognition 2024, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0031320324005995) [ :octocat: ](https://github.com/jingyi-zhang/LiDARCapV2_)
-* **Pre-training a Density-Aware Pose Transformer for Robust LiDAR-based 3D Human Pose Estimation (DAPT)**, AAAI 2025 (arXiv 2024), [ :link: ](https://arxiv.org/abs/2412.13454) [ :octocat: ](https://github.com/AnxQ/dapt)
-
-#### Joint pose + body shape (SMPL/mesh) from point clouds
-* **LiveHPS: LiDAR-based Scene-level Human Pose and Shape Estimation in Free Environment**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/papers/Ren_LiveHPS_LiDAR-based_Scene-level_Human_Pose_and_Shape_Estimation_in_Free_CVPR_2024_paper.pdf) [ :octocat: ](https://github.com/4DVLab/LiveHPS)
-* **PointHPS: Cascaded 3D Human Pose and Shape Estimation from Point Clouds**, 2023 (IJCV 2026 version), [ :link: ](https://arxiv.org/abs/2308.14492) [ :octocat: ](https://github.com/MotrixLab/PointHPS)
-
-
-## 3D Point Cloud Registration
-
-### Surveys
-* **Deep Learning-Based Point Cloud Registration: A Comprehensive Survey and Taxonomy**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2404.13830) [ :octocat: ](https://github.com/yxzhang15/PCR)
-* **3D Registration in 30 Years: A Survey**, arXiv 2024, [ :link: ](https://arxiv.org/abs/2412.13735) [ :octocat: ](https://github.com/Amyyyy11/3D-Registration-in-30-Years-A-Survey)
-* **Rigid pairwise 3D point cloud registration: A survey**, Pattern Recognition 2024, [ :link: ](https://www.sciencedirect.com/science/article/pii/S0031320324001596) 
-
-### Classical / geometry-based
-* **A Method for Registration of 3-D Shapes (ICP)**, TPAMI 1992, [ :link: ](https://www-evasion.imag.fr/Membres/Franck.Hetroy/Teaching/ProjetsImage/2007/Bib/besl_mckay-pami1992.pdf) 
-* **Efficient Variants of the ICP Algorithm**, 3DIM 2001, [ :link: ](https://www.cs.princeton.edu/~smr/papers/fasticp/fasticp_paper.pdf) 
-* **Fast Global Registration**, ECCV 2016, [ :link: ](https://link.springer.com/content/pdf/10.1007/978-3-319-46475-6_47.pdf) [ :octocat: ](https://github.com/isl-org/FastGlobalRegistration)
-* **Guaranteed Outlier Removal (GORE) for Point Cloud Registration with Correspondences**, arXiv 2017, [ :link: ](https://arxiv.org/abs/1711.10209) 
-* **Robust low-overlap 3-D point cloud registration for outlier rejection**, 2019, [ :link: ](https://arpg.github.io/papers/hmrf_icp.pdf) 
-* **Comparison of Point Cloud Registration Techniques on Scanned Physical Objects**, Sensors 2024, [ :link: ](https://www.mdpi.com/1424-8220/24/7/2142) 
-* **Fast Robust Point Cloud Registration Based on Compatibility Graph and Accelerated Guided Sampling**, Remote Sensing 2024, [ :link: ](https://www.mdpi.com/2072-4292/16/15/2789) 
-* **Research on the Improved ICP Algorithm for LiDAR Point Cloud Registration**, Sensors 2025, [ :link: ](https://www.mdpi.com/1424-8220/25/15/4748) 
-
-### Learning-based
-#### Supervised
-* **BUFFER: Balancing Accuracy, Efficiency, and Generalizability in Point Cloud Registration**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/papers/Ao_BUFFER_Balancing_Accuracy_Efficiency_and_Generalizability_in_Point_Cloud_Registration_CVPR_2023_paper.pdf) [ :octocat: ](https://github.com/SYSU-SAIL/BUFFER)
-* **RORNet: Partial-to-Partial Registration Network with Reliable Overlapping Representations**, TNNLS 2023, [ :link: ](https://ywuchina.github.io/publications/paper11/) [ :octocat: ](https://github.com/superYuezhang/RORNet)
-* **PARE-Net: Position-Aware Rotation-Equivariant Networks for Robust Point Cloud Registration**, ECCV 2024, [ :link: ](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/09456.pdf) [ :octocat: ](https://github.com/yaorz97/PARENet)
-* **End-to-end point cloud registration with transformer**, Artificial Intelligence Review 2024, [ :link: ](https://link.springer.com/content/pdf/10.1007/s10462-024-10985-y.pdf) 
-
-#### Unsupervised / self-supervised
-* **UDPReg: Unsupervised Deep Probabilistic Approach for Partial Point Cloud Registration**, CVPR 2023, [ :link: ](https://openaccess.thecvf.com/content/CVPR2023/papers/Mei_Unsupervised_Deep_Probabilistic_Approach_for_Partial_Point_Cloud_Registration_CVPR_2023_paper.pdf) [ :octocat: ](https://github.com/pelekageorgia/UDPReg)
-* **PointMBF: A Multi-scale Bidirectional Fusion Network for Unsupervised RGB-D Point Cloud Registration**, ICCV 2023, [ :link: ](https://openaccess.thecvf.com/content/ICCV2023/papers/Yuan_PointMBF_A_Multi-scale_Bidirectional_Fusion_Network_for_Unsupervised_RGB-D_Point_ICCV_2023_paper.pdf) [ :octocat: ](https://github.com/phdymz/PointMBF)
-* **EYOC: Extend Your Own Correspondences (Unsupervised Distant Point Cloud Registration)**, CVPR 2024, [ :link: ](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_Extend_Your_Own_Correspondences_Unsupervised_Distant_Point_Cloud_Registration_by_CVPR_2024_paper.pdf) [ :octocat: ](https://github.com/liuQuan98/EYOC)
-* **RegiFormer: Unsupervised Point Cloud Registration via Geometric Local-to-Global Transformer and Self-Augmentation**, 2024, [ :link: ](https://openreview.net/pdf?id=RVGDEDO0f4)
-* **GTINet: Global Topology-aware Interactions for Unsupervised Point Cloud Registration**, TCSVT 2024, [ :link: ](https://dblp.org/rec/journals/tcsv/JiangZLLC24.html)
-
----
 

@@ -1,9 +1,31 @@
-## 🚀 A Comprehensive Survey on 3D Deep Learning Point Cloud
+## 🚀 [TMLR'26] A Comprehensive Survey on 3D Deep Learning Point Cloud
 
-This repository belongs to the paper: [A Comprehensive Survey on 3D Deep Learning Point Cloud].
+This repository belongs to the paper: [A Comprehensive Survey on 3D Deep Learning Point Cloud](https://openreview.net/forum?id=WpQdfOC36s).
 
 ## 📝 Abstract
-3D point clouds have become a fundamental representation for spatial perception in applications such as autonomous driving, robotics. Unlike grid-structured 2D data, point clouds are unordered, irregular, and often large-scale, posing unique challenges for deep learning models. Over the past decade, substantial progress has been made in designing architectures that address permutation invariance, geometric reasoning, scalability, and robustness, leading to rapid expansion across diverse 3D tasks. This paper presents a comprehensive and structured survey of deep learning methods for 3D point cloud analysis. We organize existing approaches from both task-centric and architecture-centric perspectives. Beyond classical problems such as classification, segmentation, detection, and tracking, we systematically review emerging directions including compression, generation, reconstruction, registration, 6D pose estimation, scene understanding, and robustness analysis. In contrast to prior surveys that emphasize limited task subsets or specific model families, this work provides an integrative view that jointly analyzes advanced tasks, robustness considerations, and unified evaluation protocols. We further review benchmark datasets, metrics, and experimental practices, identifying limitations in current benchmarking standards.
+Recently, point cloud data has attracted the attention of researchers
+as a promising data representation model for a wide range of
+applications. As unlike 2D data, point clouds are unordered, irregular,
+and often large in scale, they might impose severe challenges when
+designing deep learning models. Over the past decade, substantial
+progress has been made in proposing architectures that address
+permutation invariance, geometric reasoning, scalability, and
+robustness, leading to rapid expansion across diverse 3D data oriented
+applications. The main aims of this paper are to present a comprehensive
+survey on existing literature and to analyze how different 3D
+representations have shaped the design and performance of deep learning
+models. In contrast to prior surveys that have emphasized on limited
+task subsets or specific model families, this survey reviews deep point
+cloud models through representation- and architecture-centric
+perspective. As such, beyond (1) core tasks such as classification,
+segmentation, detection, and tracking, this survey systematically
+provides insight into recent progress in broader directions, including
+(2) geometric modeling, alignment, and pose estimation, (3) foundation
+models and scene understanding, and (4) robustness, generalization, and
+reliability. Furthermore, this survey presents commonly used datasets
+and evaluation metrics, and finally summarizes challenges and future
+directions toward robustness, efficiency, and generalizability of 3D
+point cloud systems.
 
 
 <p align="center">
@@ -32,35 +54,49 @@ This repository belongs to the paper: [A Comprehensive Survey on 3D Deep Learnin
 
 ## 📑 Contents
 
+
+### Representations and Architectural Paradigms
+- Representations
+- Architectural Paradigms
+- Representation-Architecture Interactions
+
+> These topics are discussed in the paper and do not have dedicated folders in this repository.
+
 ### [Core Tasks](Core%20Tasks/)
 - [Classification](Core%20Tasks/README.md#Classification)
 - [Segmentation](Core%20Tasks/README.md#Segmentation)
 - [Detection](Core%20Tasks/README.md#Detection)
 - [Tracking](Core%20Tasks/README.md#Tracking)
-- [Compression](Core%20Tasks/README.md#Compression)
-- [6DoF Pose Estimation](Core%20Tasks/README.md#6DoF-Pose-Estimation)
-- [3D Point Cloud Registration](Core%20Tasks/README.md#3D-Point-Cloud-Registration)
 
-### [Foundation Models](Foundation%20Models/)
-- [Foundation Models](Foundation%20Models/README.md)
 
-### [Geometric Modeling](Geometric%20Modeling/)
-- [Generation](Geometric%20Modeling/README.md#Generation)
-- [Reconstruction](Geometric%20Modeling/README.md#Reconstruction)
+### [Geometric Modeling, Alignment, and Pose Estimation](Geometric%20Modeling%2C%20Alignment%2C%20and%20Pose%20Estimation/)
+- [Compression](Geometric%20Modeling%2C%20Alignment%2C%20and%20Pose%20Estimation/README.md#Compression)
+- [Generation](Geometric%20Modeling%2C%20Alignment%2C%20and%20Pose%20Estimation/README.md#Generation)
+- [Reconstruction](Geometric%20Modeling%2C%20Alignment%2C%20and%20Pose%20Estimation/README.md#Reconstruction)
+- [6DoF Pose Estimation](Geometric%20Modeling%2C%20Alignment%2C%20and%20Pose%20Estimation/README.md#6DoF-Pose-Estimation)
+- [3D Point Cloud Registration](Geometric%20Modeling%2C%20Alignment%2C%20and%20Pose%20Estimation/README.md#3D-Point-Cloud-Registration)
 
-### [Robustness](Robustness/)
-- [3D ML Pipeline Security Threats](Robustness/README.md#3D-ML-Pipeline-Security-Threats)
-- [3D Robustness to Noise and Occlusion](Robustness/README.md#3D-Robustness-to-Noise-and-Occlusion)
-- [3D Point Cloud Rotation Invariance and Equivariance](Robustness/README.md#3D-Point-Cloud-Rotation-Invariance-and-Equivariance)
-- [3D Domain Adaptation](Robustness/README.md#3D-Domain-Adaptation)
-- [3D Anomaly Detection](Robustness/README.md#3D-Anomaly-Detection)
+### [Foundation Models and Scene Understanding](Foundation%20Models%20and%20Scene%20Understanding/)
+- [Foundation Models](Foundation%20Models%20and%20Scene%20Understanding/README.md)
+- [3D Captioning](Foundation%20Models%20and%20Scene%20Understanding/README.md#3D-Captioning)
+- [3D Grounding](Foundation%20Models%20and%20Scene%20Understanding/README.md#3D-Grounding)
+- [3D Question Answering](Foundation%20Models%20and%20Scene%20Understanding/README.md#3D-Question-Answering)
+- [3D Reasoning](Foundation%20Models%20and%20Scene%20Understanding/README.md#3D-Reasoning)
 
-### [Scene Understanding](Scene%20Understanding/)
-- [3D Captioning](Scene%20Understanding/README.md#3D-Captioning)
-- [3D Grounding](Scene%20Understanding/README.md#3D-Grounding)
-- [3D Question Answering](Scene%20Understanding/README.md#3D-Question-Answering)
-- [3D Reasoning](Scene%20Understanding/README.md#3D-Reasoning)
 
+### [Robustness, Generalization, and Rellability](Robustness%2C%20Generalization%2C%20and%20Rellability/)
+- [3D ML Pipeline Security Threats](Robustness%2C%20Generalization%2C%20and%20Rellability/README.md#3D-ML-Pipeline-Security-Threats)
+- [3D Robustness to Noise and Occlusion](Robustness%2C%20Generalization%2C%20and%20Rellability/README.md#3D-Robustness-to-Noise-and-Occlusion)
+- [3D Point Cloud Rotation Invariance and Equivariance](Robustness%2C%20Generalization%2C%20and%20Rellability/README.md#3D-Point-Cloud-Rotation-Invariance-and-Equivariance)
+- [3D Domain Adaptation](Robustness%2C%20Generalization%2C%20and%20Rellability/README.md#3D-Domain-Adaptation)
+- [3D Anomaly Detection](Robustness%2C%20Generalization%2C%20and%20Rellability/README.md#3D-Anomaly-Detection)
+
+### Evaluation and Benchmarking
+- Datasets
+- Metrics
+- Performance Analysis
+
+> These topics are discussed in the paper and do not have dedicated folders in this repository.
 
 ## 📜 Citation
 If you use this repository for your research or wish to refer to our comprehensive distillation survey, please use the following BibTeX entries:
