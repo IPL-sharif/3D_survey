@@ -1,12 +1,12 @@
 # Robustness, Generalization, and Rellability
 
 * [3D ML Pipeline Security Threats](#3D-ML-Pipeline-Security-Threats)
-*  [Preliminaries](#preliminaries)
-*  [Evasion Attacks](#evasionAttacks)
-*  [Evasion Defenses](#evasionDefenses)
-*  [Poisoning Attacks](#poisoningAttacks)
-*  [Poisoning Defenses](#poisoningDefenses)
-*  [LiDAR Attacks and Defenses](#lidar)
+    *  [Preliminaries](#preliminaries)
+    *  [Evasion Attacks](#evasionAttacks)
+    *  [Evasion Defenses](#evasionDefenses)
+    *  [Poisoning Attacks](#poisoningAttacks)
+    *  [Poisoning Defenses](#poisoningDefenses)
+    *  [LiDAR Attacks and Defenses](#lidar)
 
 
 * [3D Robustness to Noise and Occlusion](#3D-Robustness-to-Noise-and-Occlusion)
