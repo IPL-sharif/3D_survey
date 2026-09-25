@@ -101,6 +101,15 @@ point cloud systems.
 ## 📜 Citation
 If you use this repository for your research or wish to refer to our comprehensive distillation survey, please use the following BibTeX entries:
 ```bibtex
+@article{yasamani2026a,
+title={A Comprehensive Survey on 3D Deep Point Cloud Models},
+author={Zeynab Yasamani and Amir M. Mansourian and Parniya Seifi and Alireza Taherian and Elahe Farshadfar and Elaheh Badali Golezani and Mostafa Karbalaei and Mobin Sharifi-Rad and Mohammad T. Teimuri and Amirreza Hosseinimehr and MohammadReza Abbasniya and Seyed Ali Hezaveh and Rozhan Ahmadi and Masoud Ghafouri and Mohammad Hamed Amini Vishteh and Kimia Dinashi and Shohreh Kasaei},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2026},
+url={https://openreview.net/forum?id=WpQdfOC36s},
+}
+
 @article{mansourian2025a,
 title={A Comprehensive Survey on Knowledge Distillation},
 author={Amir M. Mansourian and Rozhan Ahmadi and Masoud Ghafouri and Amir Mohammad Babaei and Elaheh Badali Golezani and Zeynab yasamani ghamchi and Vida Ramezanian and Alireza Taherian and Kimia Dinashi and Amirali Miri and Shohreh Kasaei},
