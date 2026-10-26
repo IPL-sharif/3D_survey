@@ -1,6 +1,6 @@
-## 🚀 [TMLR'26] A Comprehensive Survey on 3D Deep Learning Point Cloud
+## 🚀 [TMLR'26] A Comprehensive Survey on 3D Deep Point Cloud Models
 
-This repository belongs to the paper: [A Comprehensive Survey on 3D Deep Learning Point Cloud](https://openreview.net/forum?id=WpQdfOC36s).
+This repository belongs to the paper: [A Comprehensive Survey on 3D Deep Point Cloud Models](https://openreview.net/forum?id=WpQdfOC36s).
 
 ## 📝 Abstract
 Recently, point cloud data has attracted the attention of researchers
